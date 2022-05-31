@@ -1,0 +1,421 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Numbers - where do they come from?</title>
+  <metadata>
+  <md:content-id>m31203</md:content-id><md:title>Numbers - where do they come from?</md:title>
+  <md:abstract/>
+  <md:uuid>1bf24103-50d4-43fc-a9e7-b957117ff1c3</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170687710778">
+      <title>MATHEMATICS</title>
+      <para id="para-id1170687710778">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170687454884">
+      <title>Grade 9</title>
+      <para id="para-id1170687454884">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170683156717">
+      <title>NUMBERS</title>
+      <para id="para-id1170683156717">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170680655299">
+      <title>Module 1</title>
+      <para id="para-id1170680655299">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170681678936">
+      <title>NUMBERS – WHERE DO THEY COME FROM?</title>
+      <para id="id1170687672814">Numbers – where do they come from?</para>
+      <para id="id5457684">CLASS WORK</para>
+      <para id="id1170687447457">1 Our name for the set of Natural numbers is N, and we write it:   N = { 1 ; 2 ; 3 ; . . . }</para>
+      <para id="id1170681680048">1.1 Will the answer always be a natural number if you add any two natural numbers? How will you convince someone that it is always the case?</para>
+      <para id="id1170685588963">1.2 Multiply any two natural numbers. Is the answer always also a natural number?</para>
+      <para id="id1170687494672">1.3 Now subtract any natural number from any other natural number. Describe all the sorts of answers you can expect. Try to write down why this happens.</para>
+      <para id="id1170684314039">2 To deal with the answers you got in 1.3, we have to extend the number system to include zero and negative numbers – we call them, with the natural numbers, the integers. They are called Z and this is one way to write them down: Z = { 0 ; ±1 ; ±2 ; ±3 ; . . . }</para>
+      <para id="id4710696">2.1 Complete the following definitions by writing down what has to be inside the brackets:</para>
+      <list id="id1170687653043" list-type="bulleted">
+        <item>Counting numbers N<sub>0</sub> = {.........................}</item>
+        <item>Integers Z = {.........................} in another way!<emphasis effect="italics">(Integers are also called whole numbers)</emphasis></item>
+      </list>
+      <para id="id1170684283934">3 Is the answer always another integer when you divide any integer by any other integer (except zero)?To allow for these answers we have to extend the number system to the rational numbers:</para>
+      <para id="id1170684006177">3.1 Q (rational numbers) is the set of all the numbers which can be written in the form 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {b} } } {}</m:annotation></m:semantics></m:math> where a and b are integers as long as b is not zero. Explain very clearly why b is not allowed to be zero.</para>
+      <para id="id1170687685352">4 Q` (irrational numbers) is the set of numbers which cannot be written as a common fraction, and are therefore not in Q. Putting Q en Q` together gives the set called R, the real numbers.</para>
+      <para id="id1170687362167">4.1 Write down what you think is in the set R` . They are called non-real numbers.</para>
+      <para id="id6663864">end of CLASS WORK </para>
+      <para id="id1170680513333">Quipu is an Inca word meaning a string (or set of strings) with knots in it. This system was used for remembering things, mainly numbers. It was used widely in the ancient world; not only in South America. At its simplest, it was just one string with each knot representing one item. In more advanced systems, more strings were used, often of different colours; sometimes a system of place-values was used.</para>
+      <para id="id6659578">HOMEWORK ASSIGNMENT</para>
+      <para id="id1155328">1. What is the importance of having a symbol for zero? Think about all the things we’ll be unable to do if we didn’t have a zero.</para>
+      <para id="id7989786">2 Find out what we call the set of numbers we get when putting R and R` together. Can you say more about them?</para>
+      <para id="id1170681671963">3 Design your own set of number symbols like those in table 1. Show how any number can be written in your system. Now think up new symbols for + and – and × and , and then make up a few sums to show how your system works.</para>
+      <para id="id8729936">end of HOMEWORK ASSIGNMENT </para>
+      <para id="id1170682930413">ENRICHMENT ASSIGNMENT </para>
+      <para id="id1170683098734">Let’s check out the rational numbers</para>
+      <list id="id1170680683305" list-type="bulleted">
+        <item>Do the following sums on your own calculator to confirm that they are correct: </item>
+      </list>
+      <list id="id1170685522655" list-type="bulleted">
+        <item>Remember to do the operations in the proper order.</item>
+      </list>
+      <list id="id1170683002273" list-type="enumerated" number-style="arabic">
+        <item>2 + 3  100 + 1 + 1  10 = 3,013 </item>
+      </list>
+      <para id="id1170683361334">Is 3,013 a rational number? Yes! Look at this bit of magic:</para>
+      <para id="id1170681444512">3,013 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>1</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mtext>13</m:mtext><m:mtext>1000</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {1} } + {  {"13"}  over  {"1000"} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>3000</m:mtext><m:mtext>1000</m:mtext></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mtext>13</m:mtext><m:mtext>1000</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"3000"}  over  {"1000"} } + {  {"13"}  over  {"1000"} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>3000</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>13</m:mtext></m:mrow><m:mtext>1000</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"3000"+"13"}  over  {"1000"} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>3013</m:mtext><m:mtext>1000</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"3013"}  over  {"1000"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id5032088">It is easy to write it down straightaway. Explain the method carefully.</para>
+      <para id="id1170682914309">
+        <figure id="id5817270">
+          <media id="id5817270_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-04ad.png" id="id5817270__onlineimage" height="294" width="651"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id4822989">4 Only <emphasis effect="italics">terminating</emphasis> and <emphasis effect="italics">repeating</emphasis> decimal fractions can be written in the form 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {b} } } {}</m:annotation></m:semantics></m:math>. </para>
+      <para id="id6004546">4.1 Here are some irrational numbers (check them out on your calculator): </para>
+      <para id="id1170684006725"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2} } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>11</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"11"} } {}</m:annotation></m:semantics></m:math>  3,030030003000030…</para>
+      <para id="id7153197">4.2 These are NOT irrational – explain why not: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>22</m:mtext><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"22"}  over  {7} } } {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>25</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"25"} } {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>27</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"27"} } {}</m:annotation></m:semantics></m:math></para>
+      <figure id="id1170684263304">
+        <media id="id1170684263304_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-8b87.png" id="id1170684263304__onlineimage" height="113" width="453"/>
+        </media>
+      </figure>
+      <para id="id1170681598280">end of ENRICHMENT ASSIGNMENT </para>
+      <para id="id1170682910082">Working accurately</para>
+      <para id="id1170682935321">CLASS ASSIGNMENT</para>
+      <para id="id7724526">1 With every question, simplify the numbers, if necessary, and then place each number in its best position on the given number line.</para>
+      <figure id="id1170685459106">
+        <media id="id1170685459106_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-5c0b.png" id="id1170685459106__onlineimage" height="179" width="623"/>
+        </media>
+      </figure>
+      <figure id="id6256900">
+        <media id="id6256900_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-1bb2.png" id="id6256900__onlineimage" height="392" width="606"/>
+        </media>
+      </figure>
+      <para id="id7323523"/>
+      <para id="id1170683044286">end of CLASS ASSIGNMENT </para>
+      <para id="id1170680607100">ENRICHMENT ASSIGNMENT</para>
+      <para id="id1170680686891">Inequalities – translating words into maths</para>
+      <para id="id7892326">1 The number line tells us something very important: If a number lies to the <emphasis effect="italics">left</emphasis> of another number, it must be the smaller one. A number to the <emphasis effect="italics">right</emphasis> of another is the bigger. </para>
+      <para id="id1170684285668">For example (keep the number line in mind) 4,5 is to the left of 10, so 4,5 must be smaller than 10. Mathematically: 4,5 &lt; 10.</para>
+      <list id="id7145561" list-type="bulleted">
+        <item>–3 is to the left of 5, so –3 is smaller than 5. Mathematically speaking: –3 &lt; 5</item>
+        <item>6 is to the right of 0, so 6 is bigger than 0 and we write: 6 &gt; 0 <emphasis effect="underline">or</emphasis> 0 &lt; 6, because 0 is smaller than 6.</item>
+      </list>
+      <para id="id1170680659185">What about numbers that are equal to each other? Surely 6  3 and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>4</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {4} } {}</m:annotation></m:semantics></m:math> ! </para>
+      <para id="id1170684180876">So: 6  3 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>4</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {4} } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id8840147">1.1 Use &lt; or &gt; or = between the numbers in the following pairs, without swopping the numbers around: </para>
+      <para id="id8733504">5,6 and 5,7; 3+9 and 4×3; –1 and –2; 3 and –3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>27</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"27"} } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>15</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"15"} } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170681487287">2 We use the same signs when working with variables (like x and y, etc.). . </para>
+      <para id="id1170682944332">For example, if we want to mention all the numbers larger than 3, then we use an x to stand for <emphasis effect="italics">all</emphasis> those numbers (of course there are infinitely many of them: 3,1 and 3,2 and 3,34 and 6 and 8 and 808 and 1 000 000 etc). So we say: x &gt; 3.</para>
+      <list id="id1170683196184" list-type="bulleted">
+        <item>All the numbers smaller than 0: x &lt; 0. Like: –1 and –1,5 and –3,004 and –10 etc.</item>
+        <item>Numbers larger than or equal to 6: x ≥ 6. Write down five of them.</item>
+        <item>All the numbers smaller than or equal to –2: x ≤ –2. Give three examples.</item>
+      </list>
+      <para id="id8832773">2.1 Use the variable y and write inequalities for the following descriptions: </para>
+      <para id="id5427022">All the numbers larger than –13,4 All the numbers smaller than or equal to π</para>
+      <para id="id1170682837641">3 We extend the idea further:</para>
+      <list id="id1170687448497" list-type="bulleted">
+        <item>All the numbers between 4 and 8: 4 &lt; x &lt; 8. We also say: x lies between 4 and 8.</item>
+        <item>Numbers larger than –3 and smaller than or equal to –0,5: –3 &lt; x ≤ –0,5.</item>
+        <item>A is larger than or equal to 16 and smaller than or equal to 30: 16 ≤ A ≤ 30. </item>
+      </list>
+      <para id="id1170685337615">It works best if you write numbers in the order in which they appear on the number line: the smaller number on the left and the bigger one on the right. Then you simply choose between either &lt; or ≤. </para>
+      <para id="id1170684100782">3.1 Now you and a friend must each give three descriptions in words. Then write the mathematical inequalities for one another’s descriptions.</para>
+      <para id="id1170684105414">Inequalities – graphical representations</para>
+      <list id="id8754957" list-type="bulleted">
+        <item>Once again we use examples 2 and 3 above, but this time we draw diagrams. <figure id="id1170681254231"><media id="id1170681254231_media" alt=""><image mime-type="image/png" src="../../media/graphics5-986b.png" id="id1170681254231__onlineimage" height="504" width="565"/></media></figure></item>
+      </list>
+      <para id="id1170683301721">3.1 Again make your own diagrams.</para>
+      <para id="id6665575">end of ENRICHMENT ASSIGNMENT</para>
+      <para id="id1170684182094">GROUP ASSIGNMENT</para>
+      <para id="id1170680929070">1 CALCULATORS ARE NOW FORBIDDEN – DON’T DO ANY SUMS. ESTIMATE THE ANSWERS AS WELL AS YOU CAN AND FILL IN YOUR ESTIMATED ANSWERS. This assignment is the same as before – only you have to draw your own suitable number line for the numbers. First work alone, then the group must decide on the best answer. Fill this answer in on the group’s number line. This group effort is then handed in for marking.</para>
+      <para id="id1170681133692">1.1 –8 ; 12 ; 5–11 ; 4 + 0 –
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mfenced open="(" close=")"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 left ( {  {1}  over  {2} }  right )} {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mtext>36</m:mtext><m:mn>9</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mtext>12</m:mtext><m:mn>4</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mtext>22</m:mtext><m:mtext>11</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"36"}  over  {9} } + {  {"12"}  over  {4} } + {  {"22"}  over  {"11"} } +1} {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>81</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{4} }  {"81"} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mn>4</m:mn></m:msqrt><m:mo stretchy="false">+</m:mo><m:msqrt><m:mn>9</m:mn></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {4} + sqrt {9} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mn>6</m:mn></m:msqrt><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {6} +1} {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>27</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"27"} } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id925334">1.2 2.5 – ½ ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} }  -  {  {2}  over  {6} } } {}</m:annotation></m:semantics></m:math> ; 0,5 ; 0,05 ; 0,005</para>
+      <para id="id7525850">1.3 3 ; 3,5 ; 3,14 ; 22  7 ; 355  113 ;  </para>
+      <para id="id1170681454396">end of GROUP ASSIGNMENT</para>
+      <para id="id5689016">CLASS WORK</para>
+      <para id="id1170687713152">1 Of course one can write any number in many ways:</para>
+      <list id="id1170681090606" list-type="bulleted">
+        <item>4 and 8  2 and 1 + 3 and 6 – 2 and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>16</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"16"} } {}</m:annotation></m:semantics></m:math> and 2 × 2 are the same number!</item>
+        <item>0,5 and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>18</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"18"} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>50</m:mtext><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"50"}  over  {"100"} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {1}  over  {4} } } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msqrt><m:mn>4</m:mn></m:msqrt><m:msqrt><m:mtext>16</m:mtext></m:msqrt></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { sqrt {4} }  over  { sqrt {"16"} } } } {}</m:annotation></m:semantics></m:math> are the same.</item>
+      </list>
+      <para id="id1492498">1.1 Is 1  3 equal to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1,</m:mn><m:mover accent="true"><m:mn>3</m:mn><m:mo stretchy="false">˙</m:mo></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1, { dot  {3}}} {}</m:annotation></m:semantics></m:math>? What about 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1,3</m:mn><m:mover accent="true"><m:mn>3</m:mn><m:mo stretchy="false">˙</m:mo></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1,3 { dot  {3}}} {}</m:annotation></m:semantics></m:math>? And 1,33 of 1,333 of 1,3?</para>
+      <para id="id1170681196165">1.2 Is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>5</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {5} } {}</m:annotation></m:semantics></m:math> the same as 2,2? Or 2,24? Or 2,236? Or 2,2361? Or maybe 2,2360? Discuss.</para>
+      <para id="id1170681489904">1.3 Is 3 and 3,5 and 3,14 and 22 ÷ 7 and 355 ÷ 113 the same as  ? Make a decision.</para>
+      <para id="id1170684255328">2 We can’t always write 3,1415926535897932384626 . . . when we want to use. Why not?</para>
+      <para id="id7195010">If I have to write down <emphasis effect="italics">exactly</emphasis> what  is, then I must write  ! The others in question 1.3 are only <emphasis effect="italics">approximately</emphasis> equal to. But when I have to use  in a calculation to get an answer, then I have to be able to <emphasis effect="bold">round off</emphasis> properly.</para>
+      <para id="id1170684001983">This is π rounded off to different <emphasis effect="italics">degrees of accuracy</emphasis>:</para>
+      <para id="id1170681094271">1 decimal place: 3,1</para>
+      <para id="id1170681311664">2 decimal places: 3,14</para>
+      <para id="id5684547">3 decimal places: 3,142</para>
+      <para id="id1170681672628">4 decimal places: 3,1416</para>
+      <para id="id1170682900903">5 decimal places: 3,14159</para>
+      <para id="id8832193">6 decimal places: 3,141593</para>
+      <list id="id1170687380933" list-type="bulleted">
+        <item>You must <emphasis effect="italics">now</emphasis> ensure that you know how to do rounding off correctly.</item>
+      </list>
+      <para id="id1170685089532">3 Simplify and round off the following values, accurate to the number of decimal places given in the brackets.</para>
+      <para id="id1170683216043">3.1 3,1  3 (2) </para>
+      <para id="id4721644">3.2 2 × 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2} } {}</m:annotation></m:semantics></m:math> 2) </para>
+      <para id="id1170684293034">3.3 5 ×  (2)</para>
+      <para id="id1170680927273">3.4 4,5 × 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>7</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {7} } {}</m:annotation></m:semantics></m:math> (0) </para>
+      <para id="id1170681156869">3.5 1,000008 + 25  10000 (1)</para>
+      <para id="id8731962">end of CLASS WORK</para>
+      <para id="id3091179"> How many seconds in a century?</para>
+      <para id="id4665658">CLASS WORK</para>
+      <para id="id1170685476974">1.1 How many hours are there in 17 weeks? 24 × 7 × 17 = 2 856 hours</para>
+      <para id="id1170681380714">1.2 How many minutes in a week? 60 × 24 × 7 = 10 080 minutes</para>
+      <para id="id1170682962818">1.3 Is it just as easy to calculate how many hours there are in 135 months? Discuss the question in a group and decide which questions have to be answered before the answer can be calculated.</para>
+      <para id="id1170683215189">1.4 How many years are there in 173 months?  173  12 = 14,4166
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mn>6</m:mn><m:mo stretchy="false">˙</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { dot  {6}}} {}</m:annotation></m:semantics></m:math> ≈ 14,42 years</para>
+      <list id="id1170687514367" list-type="bulleted">
+        <item>The ≈ sign means “approximately equal to” and is sometimes used to show that the answer has been rounded. It isn’t used a lot, but it is a good habit.</item>
+      </list>
+      <para id="id8727998">2 Why do we <emphasis effect="italics">multiply</emphasis> in question 1.1 and 1.2, and <emphasis effect="italics">divide</emphasis> in question 1.4?</para>
+      <para id="id1170687327918">3 How many seconds in a century? It may take a while to get to the answer! How will you know that you can trust your answer?</para>
+      <para id="id1170680859926">4.1 There are one thousand metres in a kilometre, so we can say that one metre equals 0,001 kilometres. One metre = 1  1000 kilometres or 1 m = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>1000</m:mtext></m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>km</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"1000"} }  ital "km"} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170681058214">4.2 There are one thousand millimetres in a metre: 1 mm = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mtext>1000</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>1000</m:mtext></m:mrow></m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>km</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"1000" times "1000"} }  ital "km"} {}</m:annotation></m:semantics></m:math> = 0,000 001 km</para>
+      <para id="id1170685133900">4.3 There are one thousand micrometres in a millimetre:  1 μm = 0,000 000 001 km. (μ is a Greek letter – mu.)</para>
+      <para id="id1170684198345">5 Just as we can write very large numbers more conveniently in <emphasis effect="italics">scientific notation</emphasis>, we also write very small numbers in scientific notation. Below are a few examples of each. Make sure that you can convert ordinary numbers to scientific notation, and vice versa. Calculators also use a sort of scientific notation. They differ, and so you have to make yourself familiar with the way your calculator handles very large and very small numbers.</para>
+      <para id="id1170681340535">5.1 1 μm = 0,000 000 001 km  So: 1 μm = 1,0 × 10<sup>–9</sup> km</para>
+      <list id="id8837653" list-type="bulleted">
+        <item>The definition of a <emphasis effect="italics">light year</emphasis> is the distance that light travels in one year. Because light travels very fast, this is a huge distance. A light year is approximately 9,46 × 10<sup>12</sup> km. Write this value as an ordinary number.</item>
+        <item>An electron has a mass of approximately 0,000 000 000 000 000 000 000 000 000 91g. What does this number look like in scientific notation?</item>
+      </list>
+      <para id="id1170687679886">5.2 On a typical lightweight bed sheet, there might be about three threads per millimetre, both across and lengthwise. If a sheet for a double bed measured two metres square, that would mean 6,0 × 10<sup>3</sup> threads across plus another 6,0 × 10<sup>3</sup> threads lengthwise. That gives us 1,2 × 10<sup>4</sup> threads, each about two metres long. Calculate how many kilometres of thread it took to make the sheet. Tonight, measure your pillowslip and do the same calculation for it.</para>
+      <para id="id1170683219877">5.3 A typical raindrop might contain about 1 × 10<sup>–5</sup> litres of water. In parts of South Africa the annual rainfall is about 1 metre. On one hectare that means about 1 × 10<sup>12</sup> raindrops per year. On a largish city that could mean about 6 × 10<sup>16</sup> raindrops per year, or about 1 × 10<sup>7</sup> drops for every man, woman and child on Earth. How many litres each is that?</para>
+      <para id="id3726297">5.4 Calculate: (give answers in scientific notation)</para>
+      <para id="id1170684160354">5.4.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3,</m:mn><m:mrow><m:mtext>501</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow><m:mrow><m:mn>9,5</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow><m:mn>4,3</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3,"501" times "10" rSup { size 8{ - 5} } }  over  {9,5 times "10" rSup { size 8{ - 8} } } } +4,3 times "10" rSup { size 8{ - "11"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170685221411">5.4.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mn>3,5</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">+</m:mo><m:mrow><m:mn>1,4</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>17</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow><m:mrow><m:mrow><m:mn>3,5</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">−</m:mo><m:mrow><m:mn>1,4</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>17</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3,5 times "10" rSup { size 8{6} } +1,4 times "10" rSup { size 8{ - "17"} } }  over  {3,5 times "10" rSup { size 8{6} }  - 1,4 times "10" rSup { size 8{ - "17"} } } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170685514010"/>
+      <para id="id1170681567728">end of CLASS WORK </para>
+      <para id="id6445325">We use prefixes, mostly from Latin and Greek, to make names for units of measurement. For example, the standard unit of length is the <emphasis effect="italics">metre</emphasis>. When we want to speak of ten metres, we can say one decametre; one hundred metres is a hectometre and, of course, one thousand metres is a kilometre. One tenth of a metre is a decimetre; one hundredth of a metre is a centimetre and one thousandth is a millimetre. There are other prefixes – see how many you can track down.</para>
+      <para id="id1170680987084"/>
+      <para id="id1170683363098">Your computer pals will be able to confirm, I hope, that in computers a “kilobyte” is really 1024 “bytes”. Now, why is it 1024 bytes and not 1000 bytes? The answer lies in the fact that computers work in the binary system and not in the decimal system like people. Try to find the answer yourself.</para>
+      <para id="id1170680801133"/>
+    </section>
+    <section id="id1170683156542">
+      <title>Assessment</title>
+      <table id="id1170685338178" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this when the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>1.1 describes and illustrates the historical development of number systems in a variety of historical and cultural contexts (including local);</entry>
+            </row>
+            <row>
+              <entry>1.2 recognises, uses and represents rational num­bers (including very small numbers written in scientific notation), moving flexibly between equivalent forms in appropriate contexts;</entry>
+            </row>
+            <row>
+              <entry>1.3 solves problems in context including contexts that may be used to build awareness of other learning areas, as well as human rights, social, economic and environmental issues such as:</entry>
+            </row>
+            <row>
+              <entry>1.3.1 financial (including profit and loss, budgets, accounts, loans, simple and compound interest, hire purchase, exchange rates, commission, rentals and banking);</entry>
+            </row>
+            <row>
+              <entry>1.3.2 measurements in Natural Sciences and Technology contexts;</entry>
+            </row>
+            <row>
+              <entry>1.4 solves problems that involve ratio, rate and proportion (direct and indirect);</entry>
+            </row>
+            <row>
+              <entry>1.5 estimates and calculates by selecting and using operations appropriate to solving problems and judging the reasonableness of results (including measurement problems that involve rational approximations of irrational numbers);</entry>
+            </row>
+            <row>
+              <entry>1.6 uses a range of techniques and tools (including technology) to perform calculations efficiently and to the required degree of accuracy, including the following laws and meanings of exponents (the expectation being that learners should be able to use these laws and meanings in calculations only):</entry>
+            </row>
+            <row>
+              <entry>1.6.1 x <sup>n</sup> × x <sup>m</sup> = x<sup>n + m</sup></entry>
+            </row>
+            <row>
+              <entry>1.6.2 x <sup>n</sup>  x <sup>m</sup> = x<sup>n – m</sup></entry>
+            </row>
+            <row>
+              <entry>1.6.3 x <sup>0</sup> = 1</entry>
+            </row>
+            <row>
+              <entry>1.6.4 x <sup>–n</sup> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {x rSup { size 8{n} } } } } {}</m:annotation></m:semantics></m:math></entry>
+            </row>
+            <row>
+              <entry>1.7 recognises, describes and uses the properties of rational numbers.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1170683009293">
+      <title>Memorandum</title>
+      <para id="id1170681454315">CLASS WORK</para>
+      <para id="id1170681549021">1.1 Yes, any informal “proof” is acceptable.</para>
+      <para id="id1170681547745">1.2 As 1.1</para>
+      <para id="id1170687500722">1.3 Zero and negative numbers make an appearance. The explanation is not important – only the thinking that the learner does.</para>
+      <para id="id1170682854227">2.1 N<sub>0</sub> = {0 ; 1 ; 2 ; . . . } and <emphasis effect="italics">Z</emphasis> = { . . . –3 ; –2 ; –1 ; 0 ; 1 ; 2 ; 3 ; . . .}</para>
+      <para id="id1170687594282">3. Here are the fractions. Explain carefully that integers can also be written as fractions – in fact it is quite often a useful technique.</para>
+      <para id="id1170683265814">4.1 Not everyone will be able to cope with this. <emphasis effect="italics">R</emphasis>` gives the answers that are obtained when square roots of negative numbers (inter alia) is taken.</para>
+      <para id="id1170683045892">TASK</para>
+      <para id="id7104803">2. Point out to learners that zero is missing from the table.</para>
+      <para id="id4728728">HOMEWORK ASSIGNMENT</para>
+      <para id="id1170680588533">1. Zero is needed because:</para>
+      <para id="id8093544"> The principle behind place values is totally dependent on having a symbol for zero.</para>
+      <para id="id8750402"> It separates positive and negative numbers.</para>
+      <para id="id1170680979455"> It symbolises “nothing”.</para>
+      <para id="id1170687600734"> Algebraically it is defined as: <emphasis effect="italics">a</emphasis> + (–<emphasis effect="italics">a</emphasis>)</para>
+      <para id="id1170680513612">2. Complex numbers – don’t expect too much.</para>
+      <para id="id5035994"> If one uses the symbol i for <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { - 1} } {}</m:annotation></m:semantics></m:math></emphasis>, then we can represent non–real numbers as follows:<emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { - "12"} } {}</m:annotation></m:semantics></m:math></emphasis><emphasis effect="bold"> = </emphasis><emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:msqrt><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 sqrt { - 3} } {}</m:annotation></m:semantics></m:math></emphasis><emphasis effect="bold"> = </emphasis><emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:msqrt><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 sqrt {3 times  - 1} } {}</m:annotation></m:semantics></m:math></emphasis><emphasis effect="bold"> = </emphasis><emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:msqrt><m:mn>3</m:mn></m:msqrt><m:msqrt><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 sqrt {3}  sqrt { - 1} } {}</m:annotation></m:semantics></m:math></emphasis><emphasis effect="bold"> = </emphasis><emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mi/><m:mi>i</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 sqrt {3} `i} {}</m:annotation></m:semantics></m:math></emphasis></para>
+      <para id="id1170681692697"> 3 + 5i and 2,5 – 16i are examples of non–real numbers, and each consists of two parts: a real part and a non-real part. The most important consequences of this are that one must be careful when doing arithmetic calculations, and that these numbers cannot be arranged in ascending order!</para>
+      <para id="id1170681135058">3. Any reasonable answer can be accepted. This might be a good opportunity to have learners evaluating each other’s number systems.</para>
+      <para id="id1170682914483">ENRICHMENT ASSIGNMENT</para>
+      <para id="id1170684004429">If there is time, one can go through this work, particularly with a strong group.</para>
+      <para id="id8757509">4.1 Non-repeating; although 3,030030003000030… has a pattern, it does not repeat.</para>
+      <para id="id5880187">4.2 Emphasise that the first one is NOT equal to π. The two others must be simplified properly.</para>
+      <para id="id1170687512195">4.3.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>1553</m:mtext><m:mtext>1000</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"1553"}  over  {"1000"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170681671731">4.3.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>51</m:mtext><m:mtext>90</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"51"}  over  {"90"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1607205">4.3.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>30311</m:mtext><m:mtext>999</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"30311"}  over  {"999"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170683051519">4.3.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>2403</m:mtext><m:mtext>990</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"2403"}  over  {"990"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170683340888">CLASS ASSIGNMENT</para>
+      <para id="id5824262">The aim of this exercise is to familiarise learners with unsimplified values, so that they can learn to estimate. It is very important that they mentally simplify correctly so that they can start guessing the magnitudes. Then the values have to be arranged in at least the correct order. If the spaces in between are in reasonable proportion, that is a bonus. This shows the order:</para>
+      <para id="id1170684203589">1.1 0,00 ; 1 ; 2 ; 3,0 ; 4 ; 5,0000 ; 5+2 ; 6 ; 9–1</para>
+      <para id="id8729298">1.2 –4 ; –3 ; –1 ; 3–3 ; 2 ; 5 </para>
+      <para id="id1170681542040">1.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {5} } } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math> ; 0.666 ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {2} } } {}</m:annotation></m:semantics></m:math> ; 1,000 ; 0,2+1 ; 1.75</para>
+      <para id="id1170687713399">1.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {2} }  - "12"} {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 8+ {  {7}  over  {5} } } {}</m:annotation></m:semantics></m:math> ; –5,5 ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  {  {5}  over  {2} } } {}</m:annotation></m:semantics></m:math> ; –2,5 ; 5,55 ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>14</m:mtext><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"14"}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id8828971">1.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:msqrt><m:mn>9</m:mn></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  sqrt {9} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:msqrt><m:mn>4</m:mn></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  sqrt {4} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>0</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {0} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>1</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {1} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mn>9</m:mn><m:mn>4</m:mn></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {9}  over  {4} } } } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msqrt><m:mtext>16</m:mtext></m:msqrt><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { sqrt {"16"} }  over  {2} } } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>9</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {9} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>36</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"36"} } {}</m:annotation></m:semantics></m:math>–1 </para>
+      <para id="id1170681224461">1.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>4</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {4} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>6</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {6} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>9</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {9} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>16</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"16"} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>25</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"25"} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>20</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"20"} } {}</m:annotation></m:semantics></m:math>+1 ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>32</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"32"} } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>36</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"36"} } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1108457">ENRICHMENT ASSIGNMENT</para>
+      <para id="id1170681212649">1.1 5,6 &lt; 5,7; 3+9 = 4×3; –1 &gt; –2;  3 &gt; –3;  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>27</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"27"} } {}</m:annotation></m:semantics></m:math> &lt; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>15</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"15"} } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170680647370">2.1 <emphasis effect="italics">y</emphasis> &gt; –13,4 </para>
+      <para id="id1170681530886"/>
+      <figure id="id4080377">
+        <media id="id4080377_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6-a74c.png" id="id4080377__onlineimage" height="241" width="423"/>
+        </media>
+      </figure>
+      <para id="id1170683322513">GROUP ASSIGNMENT</para>
+      <para id="id8841923">These are the simplified values in the original order:</para>
+      <para id="id1170680657503">1.1 –8 ; 12 ; –6 ; 2 ; 10 ; 3 ; 5 ; 3,44… ; 3</para>
+      <para id="id8838929">1.2 2 ; 0,3… ; 1,3… ; 0,5 ; 0,5 ; 0,05 ; 0,005</para>
+      <para id="id1170683118516">1.3 3 ; 3,5 ; 3,14 ; 3,142857… ; 3,1415929… ; 3,1415926… (the last one is π)</para>
+      <para id="id7619324">These are the same values in the correct order:</para>
+      <para id="id5118852">1.1 –8 ; –6 ; 2 ; 3 ; 3,44… ; 5 ; 10 ; 12</para>
+      <para id="id1170687709809">1.2 0,005 ; 0,05 ; 0,3… ; 0,5 ; 1,3… ; 2</para>
+      <para id="id6085404">1.3 3 ; 3,14 ; π ; 3,1415929… ; 3,142857…</para>
+      <para id="id6497481">CLASS WORK</para>
+      <para id="id1170687652675">This exercise has been designed to give learners a feeling for the consequences of rounding (approximated answers). They often put complete unthinking faith in their calculators’ answers.</para>
+      <para id="id1170681009896">1.1 Note the notation as well as the number of decimal places.</para>
+      <para id="id5564421">1.2 Again, notation as well as number of decimal places.</para>
+      <para id="id1170687514193">1.3 Emphasise once again that an approximation to π is not <emphasis effect="italics">equal</emphasis> to π.</para>
+      <para id="id1170681452049">Discuss the meaning of the term “approximately equal to”.</para>
+      <para id="id1170681382905">3. Answers: 1,03 ; 2,83 ; 15,71 ; 12 ; 1,0 (the zero must be there).</para>
+      <para id="id1170682878801">CLASS WORK</para>
+      <para id="id1170685165308">Learners often have difficulties with conversions – you might have to supply lots of help and guidance.</para>
+      <para id="id1170687499336">1.3 The months don’t have the same number of days; simply multiplying will not give the best answer. Find out which months are meant and don’t forget leap years!</para>
+      <para id="id1170687514483">1.4 Why division? Help them develop strategies.</para>
+      <para id="id1170681533702">3. Similar problems to 1.3. The answer can be approximated. Explain why this acceptable. This problem will motivate them to appreciate the advantages of scientific notation: ≈ 3 157 056 000 seconds.</para>
+      <para id="id1170680615909">5.1 9,1 × 10<sup>28</sup></para>
+      <para id="id7562317">5.2 24 km   </para>
+      <para id="id1170681034445">5.3 100 litres<figure id="id1170685152196"><media id="id1170685152196_media" alt=""><image mime-type="image/png" src="../../media/Picture 178.png" id="id1170685152196__onlineimage" height="21" width="23"/></media></figure></para>
+    </section>
+  </content>
+</document>

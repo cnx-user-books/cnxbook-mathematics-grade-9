@@ -1,0 +1,410 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Solving simple problems by forming and solving equations</title>
+  <metadata>
+  <md:content-id>m31273</md:content-id><md:title>Solving simple problems by forming and solving equations</md:title>
+  <md:abstract/>
+  <md:uuid>5aca6d7e-7827-4625-8da7-fbec31cdb9c0</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169249172798">
+      <title>MATHEMATICS</title>
+      <para id="para-id1169249172798">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169249172806">
+      <title>Grade 9</title>
+      <para id="para-id1169249172806">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169249172814">
+      <title>NUMBER PATTERNS, GRAPHS, EQUATIONS, </title>
+      <para id="para-id1169249172814">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169249172821">
+      <title>STATISTICS AND PROBABILITY</title>
+      <para id="para-id1169249172821">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169249172829">
+      <title>Module 16</title>
+      <para id="para-id1169249172829">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169249172837">
+      <title>SOLVING SIMPLE PROBLEMS BY FORMING AND SOLVING EQUATIONS</title>
+      <para id="id1169249172843">ACTIVITY 1</para>
+      <para id="id1169249172848">To solve simple problems by forming and solving equations</para>
+      <para id="id1169249172852">[LO 2.2, 2.4]</para>
+      <para id="id1169249172856">How do we solve this problem?</para>
+      <para id="id1169249172861">Jamie’s dad is four times as old as Jamie. His father is 40. How old is Jamie?</para>
+      <para id="id1169249172868">a) We could think really hard, and try a few guesses. For instance: If Jamie is 1 year old, then his father must be 4. Not correct. What about 2 years old? And so on.</para>
+      <para id="id1169249172884">b) Make a table: Complete the empty spaces. Does this help?</para>
+      <table id="id1169249172895" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Age</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Age x 4</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>12</entry>
+              <entry/>
+              <entry>28</entry>
+              <entry>40</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169249205069">c) Draw a flow diagram: Is this useful?</para>
+      <figure id="id1169249205081">
+        <media id="id1169249205081_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-0bed.png" id="id1169249205081__onlineimage" height="110" width="268"/>
+        </media>
+      </figure>
+      <para id="id1169249205104"/>
+      <list id="id1169249205108" list-type="bulleted">
+        <item>As you can see, there is not much difference between the three methods – you can use any one that suits you. But they are not really very useful, because you have to do a lot of guessing. If the problems become very difficult, these methods become impossible to use.</item>
+        <item>So we will use a better way.</item>
+        <item>The way to do this problem is to make an equation from the information, and then to solve the equation and use the solution to write down an answer.</item>
+        <item>Making equations is not very easy to start with, but it gets a lot easier with practice.</item>
+        <item>An equation needs an equal sign as well as a variable (we usually use <emphasis effect="italics">x</emphasis>, but it can be any letter).</item>
+      </list>
+      <para id="id1169249205152">Jamie’s dad is four times as old as Jamie. If his father is 40, how old is Jamie?</para>
+      <list id="id1169249205159" list-type="bulleted">
+        <item>This is the general form of the equation:</item>
+        <item>Four times Jamie’s age = father’s age, which is 40.</item>
+        <item>The question asks Jamie’s age; so we <emphasis effect="bold">let Jamie’s age be </emphasis><emphasis effect="italics">x</emphasis>.  </item>
+        <item>Now the equation becomes: 4<emphasis effect="italics">x</emphasis> = 40</item>
+      </list>
+      <list id="id1169249205208" list-type="bulleted">
+        <item>and this asks us to find a number which gives 40 when multiplied by 4. If we divide 40 by 4, we get 10. So <emphasis effect="italics">x</emphasis> must be 10, and therefore Jamie is ten years old. It is easy to see that this answer is correct.</item>
+      </list>
+      <para id="id1169249205229">A problem for you to do: <emphasis effect="italics">Leon has 48 marbles. Amy has only a third as many as Leon; how many does she have?</emphasis> Use the last method.</para>
+      <para id="id1169249205246">The way you should set out your answer is:</para>
+      <para id="id1169249205251">State what the variable represents.</para>
+      <list id="id1169249205255" list-type="bulleted">
+        <item>Write an equation using the variable.</item>
+        <item>Solve the equation.</item>
+        <item>Write down the solution, namely what the value of the variable is.</item>
+        <item>Write down the answer to the problem in words.</item>
+      </list>
+      <para id="id1169249205279">Please note that the first and last steps are in ordinary words, and the middle step(s) in algebra.</para>
+      <para id="id1169249205284"/>
+      <para id="id1169249205288">E<emphasis effect="italics">x</emphasis>ercise:</para>
+      <para id="id1169249205298">Find the answers to the following problems:</para>
+      <para id="id1169249205302">1. Mr Jacobs has R295,45 in his pocket. Mrs Jacobs has R55,30 less than her husband in her purse. How much money does she have in her purse?</para>
+      <para id="id1169249205313">2. I think of a number. I multiply it by 7 and divide the answer by three. I get 49. What was the number I first thought of? Remember to check your answer.</para>
+      <para id="id1169249205329">3. In America Joanie buys an item that is marked $5,75. She works out that it would be R41,69 when she converts the dollars to rand. What is the rand/dollar exchange rate she used?</para>
+      <para id="id1169249205340">ACTIVITY 2 </para>
+      <para id="id1169249205344">To develop effective methods for solving more complicated equations</para>
+      <para id="id1169249205348">[LO 2.3, 2.4] </para>
+      <list id="id1169249205357" list-type="bulleted">
+        <item>We will be doing more word problems, but we have to concentrate more on the algebra in our solutions. Make sure that you know e<emphasis effect="italics">x</emphasis>actly what each of the steps means and why it is done.</item>
+        <item>Some of the following problems are followed by the solutions. But try to find the answer without looking ahead. Then compare your answer and the way you set it out with the answer.</item>
+      </list>
+      <para id="id1169249205383">1. If I treble the price of the CD I bought, and then add R90 to the answer, I get the price of the R495 portable CD player I bought at the same time. How much did the CD cost? How much did I spend at the time?</para>
+      <list id="id1169249205396" list-type="bulleted">
+        <item>Solution:Cost of CD × 3 plus R90 = price of CD player</item>
+      </list>
+      <para id="id1169249205414">Let <emphasis effect="italics">x</emphasis> be the price of the CD.</para>
+      <para id="id1169249205424"><emphasis effect="italics">x</emphasis> × 3 + 90 = 495 <emphasis effect="italics">Translate the words into algebra</emphasis></para>
+      <para id="id1169249205445">3<emphasis effect="italics">x</emphasis> + 90 = 495 <emphasis effect="italics">simplify</emphasis></para>
+      <para id="id1169249205462">3<emphasis effect="italics">x</emphasis> = 495 – 90 <emphasis effect="italics">Do the same (– 90) on both sides of the equal sign</emphasis></para>
+      <para id="id1169249205480">3<emphasis effect="italics">x</emphasis> = 405 <emphasis effect="italics">simplify</emphasis></para>
+      <para id="id1169249205498"><emphasis effect="italics">x</emphasis> = 405  3 <emphasis effect="italics">Do the same (</emphasis><emphasis effect="italics"></emphasis><emphasis effect="italics"> 3) on both sides of the equal sign</emphasis></para>
+      <para id="id1169249205528"><emphasis effect="italics">x</emphasis> = 135 <emphasis effect="italics">simplify</emphasis></para>
+      <para id="id1169249205544">The CD cost R135.</para>
+      <para id="id1169249205548">I spent R135 + R495 = R630 altogether.</para>
+      <para id="id1169249205552"/>
+      <para id="id1169249205557">2. Mrs Williams is a supervisor in a factory. Devon Jones has just been appointed as a trainee supervisor at a weekly wage of R900. She has heard that if R535 is subtracted from her weekly wage, then the remaining amount is exactly half of the new man’s weekly wage. Mrs Williams is concerned that she is not earning as much as the less e<emphasis effect="italics">x</emphasis>perienced young man. Is she right to worry? Hint: Let y be Mrs Williams’s wage.</para>
+      <para id="id1169249205585">3. There is a number which is 6 bigger than another number. The sum of the two numbers is 28. What is the number?</para>
+      <list id="id1169249205596" list-type="bulleted">
+        <item>Solution:</item>
+      </list>
+      <para id="id1169249205605"> (A number) + (the number – 6) = 28</para>
+      <para id="id1169249205610"> Let the number be <emphasis effect="italics">x</emphasis>; then the other number is <emphasis effect="italics">x</emphasis><emphasis effect="bold"/>– 6</para>
+      <para id="id1169249205630"><emphasis effect="italics">x</emphasis> + (<emphasis effect="italics">x</emphasis>–6) = 28 <emphasis effect="italics">Translate into algebra</emphasis></para>
+      <para id="id1169249205654"><emphasis effect="italics">x</emphasis><emphasis effect="bold"/>+ <emphasis effect="italics">x</emphasis> – 6 = 28 <emphasis effect="italics">Remove brackets</emphasis></para>
+      <para id="id1169249205681">2<emphasis effect="italics">x</emphasis> – 6 = 28 <emphasis effect="italics">simplify</emphasis></para>
+      <para id="id1169249205698">2<emphasis effect="italics">x</emphasis> = 28 + 6 <emphasis effect="italics">Add 6 to each side</emphasis></para>
+      <para id="id1169249205718">2<emphasis effect="italics">x</emphasis> = 34 <emphasis effect="italics">simplify</emphasis></para>
+      <para id="id1169249205735"><emphasis effect="italics">x</emphasis> = 34  2 <emphasis effect="italics">Divide each term by 2</emphasis></para>
+      <para id="id1169249205754"><emphasis effect="italics">x</emphasis> = 17 <emphasis effect="italics">simplify</emphasis></para>
+      <para id="id1169249205770">The number is 17</para>
+      <para id="id1169249205775">Check the answer!</para>
+      <para id="id1169249205779">4. Alan and his sister walk straight to school every morning. In the afternoon Alan walks straight home again, but his sister always walks home past her friend’s house; this route is twice as long as the route Alan takes home. Together their morning and afternoon distances add up to 1½ kilometre. How far is their house from the school?</para>
+      <para id="id1169249205796">It is important to be able to translate the problem into an algebraic equation, and it is also important to be able to do the algebra necessary to solve the equation, and so to solve the problem. We will give that some attention now. Here are the steps in the solution to problem 3 given above.</para>
+      <list id="id1169249205806" list-type="bulleted">
+        <item>First we remove brackets and simplify: <emphasis effect="italics">x</emphasis> + (<emphasis effect="italics">x</emphasis>–6) = 28 <emphasis effect="italics">x</emphasis> + <emphasis effect="italics">x</emphasis> – 6 = 28</item>
+        <item>Then we make sure all the terms with the variable are on the left of the equal sign, and all the terms without are on the right of the equal sign, by adding or subtracting terms on both sides as necessary, and simplifying: 2<emphasis effect="italics">x</emphasis> – 6 = 28 2<emphasis effect="italics">x</emphasis> = 28 + 6 2<emphasis effect="italics">x</emphasis> = 34</item>
+        <item>If the variable has a numerical coefficient, we divide both sides by it, and simplify: <emphasis effect="italics">x</emphasis> = 34  2 <emphasis effect="italics">x</emphasis> = 17</item>
+      </list>
+      <para id="id1169249205897">
+        <emphasis effect="italics">We are using all the skills we learned when we simplify e</emphasis>
+        <emphasis effect="italics">x</emphasis>
+        <emphasis effect="italics">pressions.</emphasis>
+      </para>
+      <para id="id1169249205912">Practise these skills on the following algebraic equations:</para>
+      <para id="id1169249205916">5. (a) 5<emphasis effect="italics">x</emphasis> = 35 (b) 4<emphasis effect="italics">x</emphasis> = 22 (c) 3<emphasis effect="italics">x</emphasis> – 90 = 0 (d) ½ <emphasis effect="italics">x</emphasis> = 21</para>
+      <para id="id1169249205960">6 (a) 5<emphasis effect="italics">x</emphasis> + 15 = 35 (b) 8 + 4<emphasis effect="italics">x</emphasis> = 22 (c) 3<emphasis effect="italics">x</emphasis> – 90 = –60 (d) ½ <emphasis effect="italics">x</emphasis> + 3 = 15</para>
+      <para id="id1169249206004">7 (a) 5<emphasis effect="italics">x</emphasis> + 15 = 2<emphasis effect="italics">x</emphasis> (b) 8 + 4<emphasis effect="italics">x</emphasis> = 22 – 2<emphasis effect="italics">x</emphasis> (c) 3<emphasis effect="italics">x</emphasis> – 90 = <emphasis effect="italics">x</emphasis> (d) ½ <emphasis effect="italics">x</emphasis> + 3 = 4 – ½ <emphasis effect="italics">x</emphasis></para>
+      <para id="id1169249206064">8 (a) 5(<emphasis effect="italics">x</emphasis> + 1) = 20 (b) 8 + 4(<emphasis effect="italics">x</emphasis> – 1) = 0 (c) <emphasis effect="italics">x</emphasis>(<emphasis effect="italics">x</emphasis> + 3) = <emphasis effect="italics">x</emphasis><sup>2</sup> + 6 (d) ½ (4<emphasis effect="italics">x</emphasis> + 6) = 1</para>
+      <para id="id1169249206121">9 (a) 2(<emphasis effect="italics">x</emphasis> + 1) = <emphasis effect="italics">x</emphasis> + 2 (b) 2(<emphasis effect="italics">x</emphasis> + 3) = 2<emphasis effect="italics">x</emphasis> + 6 (c) 3 – 2<emphasis effect="italics">x</emphasis> = –2(1 + <emphasis effect="italics">x</emphasis>) </para>
+      <para id="id1169249201981">Now we must make sense of the solutions we found in these equations.</para>
+      <para id="id1169249201985">Here are some answers:</para>
+      <para id="id1169249201989">8 (a) <emphasis effect="italics">x</emphasis> = 3  (b) <emphasis effect="italics">x</emphasis> = –1 (c) <emphasis effect="italics">x</emphasis> = 2 (d) <emphasis effect="italics">x</emphasis> = –1 </para>
+      <list id="id1169249202026" list-type="bulleted">
+        <item>These are acceptable answers.</item>
+        <item>They give the value of the variable (<emphasis effect="italics">x</emphasis>), which makes the equation true.</item>
+      </list>
+      <para id="id1169249202045">9. (a) <emphasis effect="italics">x</emphasis> = 0 This is also an acceptable answer.  </para>
+      <para id="id1169249202062"> (b) 2<emphasis effect="italics">x</emphasis> + 6 = 2<emphasis effect="italics">x</emphasis> + 6 2<emphasis effect="italics">x</emphasis> – 2<emphasis effect="italics">x</emphasis> = 6 – 6 0 = 0</para>
+      <list id="id1169249202106" list-type="bulleted">
+        <item>This answer does not give us a single value of <emphasis effect="italics">x</emphasis>. </item>
+        <item>But the statement is true: zero <emphasis effect="bold">is</emphasis> equal to zero.</item>
+        <item>When we get an answer stating an obvious truth, like 12 = 12 or –3 = –3, etc., then we know that <emphasis effect="underline">any</emphasis> value of the variable will make the equation true.</item>
+        <item>So the answer to give: <emphasis effect="italics">x</emphasis><emphasis effect="italics"> can take any value</emphasis>.</item>
+      </list>
+      <para id="id1169249202160"> (c) 3 – 2<emphasis effect="italics">x</emphasis> = –2 – 2<emphasis effect="italics">x</emphasis> –2<emphasis effect="italics">x</emphasis> + 2<emphasis effect="italics">x</emphasis> = –2 – 3 0 = –5</para>
+      <list id="id1169249202200" list-type="bulleted">
+        <item>This answer does not give a value for <emphasis effect="italics">x</emphasis>. </item>
+        <item>The statement is in fact untrue. Zero is <emphasis effect="bold">not</emphasis> equal to negative five.</item>
+        <item>When we get an answer which is untrue, like 5 = –5 or 2 = –9, etc., then we know that <emphasis effect="underline">no</emphasis> value of the variable will make the equation true.</item>
+        <item>So we give the answer: <emphasis effect="italics">There is no solution</emphasis>.</item>
+      </list>
+      <para id="id1169249202253">From now on, look out for these special cases (you won’t see them often) and give the appropriate answer.</para>
+      <para id="id1169249202259">ACTIVITY 3 </para>
+      <para id="id1169249202263">To confirm that solutions are correct</para>
+      <para id="id1169249202268">[LO 2.4, 2.6]</para>
+      <list id="id1169249202272" list-type="bulleted">
+        <item>For many problems in mathematics it is very difficult to know whether our answers are correct, but when we solve equations it is very easy. We simply check our answer! This has to be done very carefully, in a specific form. </item>
+      </list>
+      <para id="id1169249202287">This is how: Let’s go back to question 8 above.</para>
+      <para id="id1169249202295">(a) 5(<emphasis effect="italics">x</emphasis> + 1) = 20  gives a solution: <emphasis effect="italics">x</emphasis> = 3</para>
+      <para id="id1169249202321">We start with the original equation. </para>
+      <para id="id1169249202326">Check the left hand side (LHS) and right hand side (RHS) <emphasis effect="italics">separately</emphasis>.</para>
+      <para id="id1169249202336">Substitute the solution for <emphasis effect="italics">x</emphasis> and simplify:</para>
+      <para id="id1169249202346">LHS = 5(<emphasis effect="italics">x</emphasis> + 1) = 5[(<emphasis effect="bold">3</emphasis>) + 1] = 5(3 + 1) = 5(4) = 20  </para>
+      <para id="id1169249202363">As usual, using brackets when substituting is very helpful.</para>
+      <para id="id1169249202367">RHS = 20</para>
+      <para id="id1169249202371">Because the RHS and LHS are equal, we know the solution is correct.</para>
+      <para id="id1169249202375">(b) 8 + 4(<emphasis effect="italics">x</emphasis> – 1) = 0 Let’s pretend the solution obtained was <emphasis effect="italics">x</emphasis> = 2. Test it:</para>
+      <para id="id1169249202398">LHS = 8 + 4(<emphasis effect="italics">x</emphasis> – 1) = 8 + 4[(<emphasis effect="bold">2</emphasis>) – 1] = 8 + 4(2 – 1) = 8 + 4(1) = 8 + 4 = 12</para>
+      <para id="id1169249202415">RHS = 0</para>
+      <para id="id1169249202419">Because the LHS ≠ RHS we know that 2 is not a solution to this equation.</para>
+      <para id="id1169249202429">The real solution is, of course,: <emphasis effect="italics">x</emphasis> = –1. Let’s check it:</para>
+      <para id="id1169249202439">LHS = 8 + 4(<emphasis effect="italics">x</emphasis> – 1) = 8 + 4[(<emphasis effect="bold">–1</emphasis>) – 1] = 8 + 4(–1 – 1) = 8 + 4(–2) = 8 – 8 = 0</para>
+      <para id="id1169249202455">Now the LHS = RHS, and we have confirmed that <emphasis effect="italics">x</emphasis> = –1 is the correct solution.</para>
+      <para id="id1169249202465">(c) <emphasis effect="italics">x</emphasis>(<emphasis effect="italics">x</emphasis> + 3) = <emphasis effect="italics">x</emphasis><sup>2</sup> + 6 solution: <emphasis effect="italics">x</emphasis><emphasis effect="bold"/>= 2</para>
+      <para id="id1169249202504">LHS = <emphasis effect="italics">x</emphasis>(<emphasis effect="italics">x</emphasis> + 3) = (<emphasis effect="bold">2</emphasis>)((<emphasis effect="bold">2</emphasis>) + 3) = 2(2 + 3) = 2(5) = 10</para>
+      <para id="id1169249202529">RHS = <emphasis effect="italics">x</emphasis><sup>2</sup> + 6 = (<emphasis effect="bold">2</emphasis>)<sup>2</sup> + 6 = 4 + 6 = 10</para>
+      <para id="id1169249202554">LHS = RHS, therefore <emphasis effect="italics">x</emphasis> = 2 is the correct solution.</para>
+      <para id="id1169249202564">(d) ½ (4<emphasis effect="italics">x</emphasis> + 6) = 1 solution: <emphasis effect="italics">x</emphasis> = –1</para>
+      <para id="id1169249202584">LHS = ½ (4<emphasis effect="italics">x</emphasis> + 6) = ½ (4(<emphasis effect="bold">–1</emphasis>) + 6) = ½ (–4 + 6) = ½ (2) = 1</para>
+      <para id="id1169249202604">RHS = 1</para>
+      <para id="id1169249202608">LHS = RHS, therefore <emphasis effect="italics">x</emphasis> = –1 is the correct solution.</para>
+      <para id="id1169249202619">Now go back to problems 5, 6 and 7 and check your answers in the same way.</para>
+      <para id="id1169249202623">If we go back to the special cases in question 9, we can check them too:</para>
+      <para id="id1169249202627">(a)  2(<emphasis effect="italics">x</emphasis> + 1) = <emphasis effect="italics">x</emphasis> + 2 gives a solution: <emphasis effect="italics">x</emphasis> = 0</para>
+      <para id="id1169249202651">LHS = 2(<emphasis effect="italics">x</emphasis> + 1) = 2((<emphasis effect="bold">0</emphasis>) + 1) = 2(0 + 1) = 2(1) = 2</para>
+      <para id="id1169249202666">RHS = <emphasis effect="italics">x</emphasis> + 2 = (<emphasis effect="bold">0</emphasis>) + 2 = 2</para>
+      <para id="id1169249202681">LHS = RHS, therefore <emphasis effect="italics">x</emphasis> = 0 is the correct solution.</para>
+      <para id="id1169249202691">(b) 2(<emphasis effect="italics">x</emphasis> + 3) = 2<emphasis effect="italics">x</emphasis> + 6 gave a solution of any number! Let’s use 5; you can try another.</para>
+      <para id="id1169249202713">LHS = 2(<emphasis effect="italics">x</emphasis> + 3) = 2((<emphasis effect="bold">5</emphasis>) + 3) = 2(5 + 3) = 2(8) = 16</para>
+      <para id="id1169249202728">RHS = 2<emphasis effect="italics">x</emphasis> + 6 = 2(<emphasis effect="bold">5</emphasis>) + 6 = 10 + 6 = 16</para>
+      <para id="id1169249202743">LHS = RHS as <emphasis effect="italics">x</emphasis> = 5. In fact, LHS will equal RHS for any value.</para>
+      <para id="id1169249202755">(c) 3 – 2<emphasis effect="italics">x</emphasis> = –2(1 + <emphasis effect="italics">x</emphasis>) No number will give a solution; let’s try 12. You can try some more.</para>
+      <para id="id1169249202778">LHS = 3 – 2<emphasis effect="italics">x</emphasis> = 3 – 2(<emphasis effect="bold">12</emphasis>) = 3 – 24 = – 21</para>
+      <para id="id1169249202794">RHS = –2(1 + <emphasis effect="italics">x</emphasis>) = –2(1 + (<emphasis effect="bold">12</emphasis>)) = –2(1 + 12) = –2(13) = –26</para>
+      <para id="id1169249202810">LHS ≠ RHS and they won’t be equal for <emphasis effect="underline">any</emphasis> number.</para>
+      <para id="id1169249202826"> ACTIVITY 4 </para>
+      <para id="id1169249202835">To tell expressions and equations apart</para>
+      <para id="id1169249202840">[LO 2.1, 2.6] </para>
+      <list id="id1169249202849" list-type="bulleted">
+        <item><emphasis effect="bold">Expressions</emphasis> are combinations of letters (<emphasis effect="italics">a</emphasis>, <emphasis effect="italics">b</emphasis>, <emphasis effect="italics">x</emphasis>, <emphasis effect="italics">y</emphasis>, etc), operations (+, –, ×, ) and numbers (1, –5, π, ½ , etc.) as well as brackets and other signs. An expression does <emphasis effect="underline">not</emphasis> include equal signs. </item>
+        <item>An expression is a little like a word or a phrase – it does not have a verb.</item>
+        <item>Here are some examples: <emphasis effect="italics">x</emphasis>, <emphasis effect="italics">x</emphasis><sup>3</sup>, 5½ , 2πr, 5(<emphasis effect="italics">ab</emphasis> – <emphasis effect="italics">bc</emphasis>), 5<emphasis effect="italics">a</emphasis><sup>3</sup> – 3<emphasis effect="italics">a</emphasis><sup>2</sup> + <emphasis effect="italics">a</emphasis> – 3, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2 left (a+b right )} } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>5a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:msup><m:mn>2a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5a - 4}  over  {2a rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>, etc.</item>
+        <item>An expression can only be <emphasis effect="italics">manipulated</emphasis>, usually to simplify it. It cannot be <emphasis effect="underline">solved</emphasis>; it has no <emphasis effect="underline">solution</emphasis>. The only way to check your work is do the steps backwards, to see whether you come back to the first step.</item>
+        <item>An <emphasis effect="bold">equation</emphasis> is two <emphasis effect="italics">e</emphasis><emphasis effect="italics">x</emphasis><emphasis effect="italics">pressions</emphasis> with an equal sign in between! </item>
+        <item>It is like a sentence with a verb; it makes a statement. For example 2<emphasis effect="italics">x</emphasis> – 3 = 45 says that double a certain number, with three subtracted, <emphasis effect="underline">is equal to</emphasis> 45. Our job is to find that number.</item>
+        <item>Equations must be solved; they have solutions that can be checked. </item>
+        <item>We do a lot of simplifying while we solve equations, but we do more – we are allowed to do more. Remember we could subtract or add terms, as long as we <emphasis effect="underline">do it to both sides</emphasis>! We could multiply or divide by factors, as long as we <emphasis effect="underline">do it to both sides</emphasis>. Because an expression does <emphasis effect="underline">not</emphasis> have two sides we can’t do these things to expressions. Be very careful not to mix them up, and practise until you know instinctively what to do. </item>
+      </list>
+      <para id="id1169249203227">ACTIVITY 5 </para>
+      <para id="id1169249203232">To solve two equations simultaneously</para>
+      <para id="id1169249203236">[LO 2.4, 2.9]</para>
+      <para id="id1169249203240">
+        <figure id="id1169249203244">
+          <media id="id1169249203244_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 13-4eeb.png" id="id1169249203244__onlineimage" height="211" width="628"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1169249203267">1. The line in figure 1 has defining equation <emphasis effect="italics">y</emphasis> = 2. </para>
+      <para id="id1169249203280"><emphasis effect="bold">Question:</emphasis> Does the point (1 ; 1) lie on the line?</para>
+      <para id="id1169249431784"><emphasis effect="bold">Answer:</emphasis> We can obtain the answer <emphasis effect="italics">graphically</emphasis> (by looking at the graph). So we  can see that the point does not lie on the line, making the answer <emphasis effect="underline">no</emphasis>.</para>
+      <para id="id1169249431806"> We can obtain the answer <emphasis effect="italics">algebraically</emphasis>, as follows: Substitute the point (1 ; 1) for (<emphasis effect="italics">x</emphasis><emphasis effect="italics">;</emphasis><emphasis effect="italics">y</emphasis>) in the equation. Do the LHS and RHS separately as before.</para>
+      <para id="id1169249431835"> LHS: <emphasis effect="bold"/><emphasis effect="italics">y</emphasis> = (<emphasis effect="bold">1</emphasis>) = 2 RHS: <emphasis effect="bold">2 </emphasis>LHS ≠ RHS – the point (1 ; 1) does not lie on <emphasis effect="italics">y</emphasis> = 2.</para>
+      <para id="id1169249431877"><emphasis effect="bold">Question:</emphasis> Does the point (–2 ; 2) lie on the line?</para>
+      <para id="id1169249431889"><emphasis effect="italics">Graphically</emphasis>: Yes.</para>
+      <para id="id1169249431900"><emphasis effect="italics">Algebraically</emphasis>: LHS: <emphasis effect="italics">y</emphasis> = (<emphasis effect="bold">2</emphasis>) = 2 RHS:<emphasis effect="bold"> 2</emphasis> LHS = RHS; yes it does.</para>
+      <para id="id1169249431931"><emphasis effect="bold"> Question:</emphasis> Does the point (1½ ; 2) lie on the line? Find the answer both  graphically and algebraically.</para>
+      <para id="id1169249431947">2. The line in figure 2 is defined by the equation <emphasis effect="italics">y</emphasis> = 2<emphasis effect="italics">x</emphasis> – 1.</para>
+      <para id="id1169249431964"><emphasis effect="bold">Questions: </emphasis>Does the point (0 ; 0) lie on the line?</para>
+      <para id="id1169249431974"> Does the point (1 ; 1) lie on <emphasis effect="italics">y</emphasis> = 2<emphasis effect="italics">x</emphasis> – 1?</para>
+      <para id="id1169249431990"> Does the point (1½ ; 2) lie on the line?</para>
+      <para id="id1169249431996">3. In figure 3 the same two lines are drawn together on the same set of axes.</para>
+      <para id="id1169249432003"> Answer graphically: Which point lies on <emphasis effect="underline">both</emphasis> lines? The answers to questions 1 and 2 above will be helpful.</para>
+      <para id="id1169249432019">It is easy to see from the graph that the only point that lies on both lines is (1½ ; 2).</para>
+      <list id="id1169249432025" list-type="bulleted">
+        <item>This can also be determined algebraically:</item>
+      </list>
+      <para id="id1169249432034"> From the line <emphasis effect="italics">y</emphasis> = 2 we can see that y has the value 2. If we substitute this value into the equation <emphasis effect="italics">y</emphasis> = 2<emphasis effect="italics">x</emphasis> – 1.</para>
+      <para id="id1169249432057">We can solve the equation to get a value for <emphasis effect="italics">x</emphasis>. So:</para>
+      <para id="id1169249432069">Substitute: (<emphasis effect="bold">2</emphasis>) = 2<emphasis effect="italics">x</emphasis> – 1 and solve for <emphasis effect="italics">x</emphasis>:</para>
+      <para id="id1169249432092">2 = 2<emphasis effect="italics">x</emphasis> – 1 <emphasis effect="italics">now move the </emphasis><emphasis effect="italics">x</emphasis><emphasis effect="italics">–terms to the left</emphasis></para>
+      <para id="id1169249432116">–2<emphasis effect="italics">x</emphasis> + 2 = –1 <emphasis effect="italics">now move the constant terms to the right</emphasis></para>
+      <para id="id1169249432131">–2<emphasis effect="italics">x</emphasis> = –2 – 1 <emphasis effect="italics">simplify</emphasis></para>
+      <para id="id1169249432146">–2<emphasis effect="italics">x</emphasis><emphasis effect="bold"/>= –3 <emphasis effect="italics">divide both sides by –2</emphasis></para>
+      <para id="id1169249432166"><emphasis effect="italics">x</emphasis> = –3  –2 <emphasis effect="italics">simplify</emphasis></para>
+      <para id="id1169249432186"><emphasis effect="italics">x</emphasis> = 1½</para>
+      <para id="id1169249432198">This shows that the point where the lines cross is (<emphasis effect="italics">x</emphasis> ; <emphasis effect="bold">y</emphasis>) = (1½ ; 2).</para>
+      <list id="id1169249432213" list-type="bulleted">
+        <item>In this method we have solved the two equations simultaneously, to find the values of the variables, which make both equations true. If an equation has only <emphasis effect="underline">one</emphasis> variable, we need only <emphasis effect="underline">one</emphasis> equation to find that value of the variable that makes the equation true. If we have <emphasis effect="underline">two</emphasis> variables, we need <emphasis effect="underline">two</emphasis> equations to solve for both variables.</item>
+      </list>
+      <para id="id1169249432249">Problems:</para>
+      <para id="id1169249432253">1 Solve algebraically for <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis>: 2<emphasis effect="italics">a</emphasis> – 3<emphasis effect="italics">b</emphasis> = 0 and <emphasis effect="italics">a</emphasis> = 6.</para>
+      <para id="id1169249432289">2 Where do the lines <emphasis effect="italics">y</emphasis> = –<emphasis effect="italics">x</emphasis> + 5 and <emphasis effect="italics">y</emphasis><emphasis effect="bold"/>= –1 cross? Find the answer algebraically.</para>
+      <para id="id1169249432319">3 Does the point (3 ; 4) lie on both line <emphasis effect="italics">y</emphasis> = 4 and line <emphasis effect="italics">y</emphasis> = –<emphasis effect="italics">x</emphasis> + 1? Do algebraically.</para>
+      <para id="id1169249432344">4 Do the lines <emphasis effect="italics">y</emphasis> = –2 and <emphasis effect="italics">y</emphasis> = 2 intersect? Find the answer algebraically.</para>
+      <para id="id1169249432364">ACTIVITY 6 </para>
+      <para id="id1169249432370">To solve simple exponential equations</para>
+      <para id="id1169249432374">[LO 2.4, 2.8] </para>
+      <para id="id1169249432383">Problems and some answers</para>
+      <para id="id1169249432387">1 I am thinking of a number that gives 100 when squared. What is the number?</para>
+      <para id="id1169249432396">The number could be 10, because 10<sup>2</sup> = 100. But is –10 not also a correct answer?</para>
+      <para id="id1169249432408">Yes, this problem has <emphasis effect="underline">two</emphasis> valid answers!</para>
+      <para id="id1169249432418">Making an equation from this statement means starting by letting <emphasis effect="italics">x</emphasis> be the number.</para>
+      <para id="id1169249432428"> <emphasis effect="italics">x</emphasis><sup>2</sup> = 100  </para>
+      <para id="id1169249432448"> <emphasis effect="italics">x</emphasis><sup>2</sup> = 10<sup>2</sup> of <emphasis effect="italics">x</emphasis><sup>2</sup> = (–10)<sup>2</sup>  The brackets are essential – can you see that?</para>
+      <para id="id1169249432491"> <emphasis effect="italics">x</emphasis> = 10 of <emphasis effect="italics">x</emphasis> = –10  Both answers are valid.</para>
+      <para id="id1169249432514">2 I am thinking of a negative number that gives 25 when squared. What is it?</para>
+      <para id="id1169249432523">Let the number be y</para>
+      <para id="id1169249432527"> <emphasis effect="bold">y</emphasis><sup>2</sup> = 25</para>
+      <para id="id1169249432545"> <emphasis effect="italics">y</emphasis><sup>2</sup> = (5)<sup>2</sup> of <emphasis effect="italics">y</emphasis><sup>2</sup> = (–5)<sup>2</sup></para>
+      <para id="id1169249432585"> <emphasis effect="italics">y</emphasis> = 5 of <emphasis effect="italics">y</emphasis> = –5  are the two solutions given by the equation.</para>
+      <para id="id1169249432608">According to the problem statement, though, only <emphasis effect="italics">y</emphasis> = –5 is a valid answer.</para>
+      <para id="id1169249432618">3 There is a number that gives 27 when it is cubed. Find the number.</para>
+      <para id="id1169249432627">Let the number be <emphasis effect="italics">x</emphasis></para>
+      <para id="id1169249432636"><emphasis effect="italics">x</emphasis><sup>3</sup> = 27  <emphasis effect="italics">x</emphasis><sup>3</sup> = 3<sup>3</sup>   <emphasis effect="italics">x</emphasis> = 3.  </para>
+      <para id="id1169249432688">Why can’t <emphasis effect="italics">x</emphasis> be –3? </para>
+      <para id="id1169249432699">4 If I cube a certain number I get –8. What is the number?</para>
+      <para id="id1169249432708">5 Solve for <emphasis effect="italics">x</emphasis>, and check your answers by the LHS/RHS method:</para>
+      <para id="id1169249432720">a) <emphasis effect="italics">x</emphasis><sup>2</sup> = 64  b) <emphasis effect="italics">x</emphasis><sup>2</sup> = 36  c) <emphasis effect="italics">x</emphasis><sup>2</sup> = –100  d) <emphasis effect="italics">x</emphasis><sup>2</sup> – 49 = 0</para>
+      <para id="id1169249432777">e) <emphasis effect="italics">x</emphasis><sup>2</sup> = 12,25  f) 3<emphasis effect="italics">x</emphasis><sup>2</sup> = 12  g) 2<emphasis effect="italics">x</emphasis><sup>2</sup> – 10,58 = 0</para>
+      <para id="id1169249432822">6 Solve for a and check your answers:</para>
+      <para id="id1169249432828"> a) <emphasis effect="italics">a</emphasis><sup>3</sup> = 64  b) <emphasis effect="italics">a</emphasis><sup>3</sup> + 1 = 0  c) 2<emphasis effect="italics">a</emphasis><sup>2</sup> = 16  d) <emphasis effect="italics">a</emphasis><sup>4</sup> = 81</para>
+      <para id="id1169249432890">Score yourself on the last 12 problems:</para>
+    </section>
+    <section id="id1169249432895">
+      <title>Assessment</title>
+      <table id="id1169249432902" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry>Patterns, Functions and AlgebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>2.1 investigates, in different ways, a variety of numeric and geometric patterns and relation­ships by representing and generalising them, and by explaining and justifying the rules that generate them (including patterns found in nature and cultural forms and patterns of the learner’s own creation;</entry>
+            </row>
+            <row>
+              <entry>2.2 represents and uses relationships between variables in order to determine input and/or output values in a variety of ways using:</entry>
+            </row>
+            <row>
+              <entry>2.2.1 verbal descriptions;</entry>
+            </row>
+            <row>
+              <entry>2.2.2 flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.2.3 tables;</entry>
+            </row>
+            <row>
+              <entry>2.2.4 formulae and equations;</entry>
+            </row>
+            <row>
+              <entry>2.3 constructs mathematical models that repre­sent, describe and provide solutions to pro­blem situations, showing responsibility to­ward the environment and health of others (including problems within human rights, social, economic, cultural and environmental contexts);</entry>
+            </row>
+            <row>
+              <entry>2.4 solves equations by inspection, trial-and-improvement or algebraic processes (additive and multiplicative inverses, and factorisa­tion), checking the solution by substitution;</entry>
+            </row>
+            <row>
+              <entry>2.5 draws graphs on the Cartesian plane for given equations (in two variables), or deter­mines equations or formulae from given graphs using tables where necessary;</entry>
+            </row>
+            <row>
+              <entry>2.6 determines, analyses and interprets the equivalence of different descriptions of the same relationship or rule presented:</entry>
+            </row>
+            <row>
+              <entry>2.6.1  verbally;</entry>
+            </row>
+            <row>
+              <entry>2.6.2 in flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.6.3 in tables;</entry>
+            </row>
+            <row>
+              <entry>2.6.4 by equations or expressions;</entry>
+            </row>
+            <row>
+              <entry>2.6.5 by graphs on the Cartesian plane in order to select the most useful represen­ta­tion for a given situation;</entry>
+            </row>
+            <row>
+              <entry>2.8 uses the laws of exponents to simplify expressions and solve equations;</entry>
+            </row>
+            <row>
+              <entry>2.9 uses factorisation to simplify algebraic expressions and solve equations.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1169249433246">
+      <title/>
+      <para id="para-id1169249433246">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+  </content>
+</document>

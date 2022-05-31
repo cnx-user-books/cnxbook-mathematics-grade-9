@@ -1,0 +1,411 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Extract meaningful information from data</title>
+  <metadata>
+  <md:content-id>m31282</md:content-id><md:title>Extract meaningful information from data</md:title>
+  <md:abstract/>
+  <md:uuid>1582df37-eb94-4798-8a6c-2c553c2a41e9</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1956438">MATHEMATICS</para>
+    <para id="id1171761490164">Grade 9</para>
+    <para id="id1171764715082">NUMBER PATTERNS, GRAPHS, EQUATIONS, </para>
+    <para id="id1171766910158">STATISTICS AND PROBABILITY</para>
+    <para id="id1171762282792">Module 19</para>
+    <para id="id1171764861662">EXTRACT MEANINGFUL INFORMATION FROM DATA</para>
+    <para id="id1171764828300">ACTIVITY 1</para>
+    <para id="id4935293">To be able to extract meaningful information from data</para>
+    <para id="id1171762423488">[LO 5.5] </para>
+    <para id="id1171760572989">As you know, graphs are to be seen everywhere: in advertisements, in textbooks, in magazine articles and in mathematics classes. In this section we will look at a wide selection of graphs and what we can say about the statistics they represent. </para>
+    <para id="id8827263">When we have only one set of values (for example the previous study of the breakfast and lunch habits of some learners), we can use a simple graph like a pie chart. </para>
+    <para id="id8647014">On the other hand, many graphs make a connection between two sets of values. We call this a relation. </para>
+    <para id="id1171763454084">Some examples from your previous work are: number of prison inmates in particular years; height above sea level at certain distances from a point; amount charged by a gardener for certain number of hours worked; y–values obtained from x–values substituted into a given formula; etc.</para>
+    <para id="id1171764880165">Usually this means that the graph will have a horizontal axis and a vertical axis. Just to remind you, here is the table of important words again:</para>
+    <table id="id1171761239985" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Equation:</entry>
+            <entry>x</entry>
+            <entry>y</entry>
+          </row>
+          <row>
+            <entry>Equation:</entry>
+            <entry>Independent variable</entry>
+            <entry>Dependent variable</entry>
+          </row>
+          <row>
+            <entry>Flow diagram:</entry>
+            <entry>Input value</entry>
+            <entry>Output value</entry>
+          </row>
+          <row>
+            <entry>Table:</entry>
+            <entry>First row</entry>
+            <entry>Second row</entry>
+          </row>
+          <row>
+            <entry>Coordinates:</entry>
+            <entry>1st coordinate</entry>
+            <entry>2nd coordinate</entry>
+          </row>
+          <row>
+            <entry>Graph:</entry>
+            <entry>x- axis</entry>
+            <entry>y- axis</entry>
+          </row>
+          <row>
+            <entry>Graph:</entry>
+            <entry>Horizontal axis</entry>
+            <entry>Vertical axis</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1171761544677">1 James and Gabriel are the same age – they are friends, both entering their first job at the start of January 2000. Each of them can easily take a bus to work. Each also has enough money from their holiday jobs to use as a deposit on a new car.</para>
+    <para id="id1171761082316">James wants a new car immediately, and now that he has a job, he arranges hire purchase financing for a car. He has enough for the deposit, and he can just about afford the monthly repayments. At the end of four years he replaces the car with another new one, a slightly nicer model. He again buys it on hire purchase, paying the deposit from the sale of his old car, and pays the higher instalments regularly. At the start of 2008, he does the same. Every four years he replaces his car.</para>
+    <para id="id1171764785081">Gabriel is willing to do something different. Instead of getting a new car immediately, he puts the money he would have used for the deposit into a savings account and saves up enough every month so that after four years he can buy a new car for cash. So in 2004 he chooses the same one his friend James does. Immediately he starts another savings account, making monthly payments big enough for a new car in four years’ time like the one his friend buys then. In 2008, he sells his old car when he gets the new one, and puts the money in the bank to start his savings for the next car. So he also replaces his car every four years</para>
+    <para id="id1171763785990">In other words, from 2004 they drive exactly the same cars!</para>
+    <para id="id1171764767423">The information about their expenditure is given below as a bar graph as well as a table.</para>
+    <para id="id1171761115338">
+      <figure id="id1171763723841">
+        <media id="id1171763723841_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 19-ce99.png" id="id1171763723841__onlineimage" height="313" width="641"/>
+        </media>
+      </figure>
+    </para>
+    <table id="id1171766901781" summary="">
+      <tgroup cols="15">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <colspec colnum="11" colname="c11"/>
+        <colspec colnum="12" colname="c12"/>
+        <colspec colnum="13" colname="c13"/>
+        <colspec colnum="14" colname="c14"/>
+        <colspec colnum="15" colname="c15"/>
+        <tbody>
+          <row>
+            <entry>Year</entry>
+            <entry>2000</entry>
+            <entry>2001</entry>
+            <entry>2002</entry>
+            <entry>2003</entry>
+            <entry>2004</entry>
+            <entry>2005</entry>
+            <entry>2006</entry>
+            <entry>2007</entry>
+            <entry>2008</entry>
+            <entry>2009</entry>
+            <entry>2010</entry>
+            <entry>2011</entry>
+            <entry>2012</entry>
+            <entry>2013</entry>
+          </row>
+          <row>
+            <entry>James</entry>
+            <entry>28 304</entry>
+            <entry>21 228</entry>
+            <entry>21 228</entry>
+            <entry>21 228</entry>
+            <entry>33 965</entry>
+            <entry>25 474</entry>
+            <entry>25 474</entry>
+            <entry>25 474</entry>
+            <entry>40 758</entry>
+            <entry>30 568</entry>
+            <entry>30 568</entry>
+            <entry>30 568</entry>
+            <entry>48 909</entry>
+            <entry>36 682</entry>
+          </row>
+          <row>
+            <entry>Gabriel</entry>
+            <entry>22 436</entry>
+            <entry>15 360</entry>
+            <entry>15 360</entry>
+            <entry>15 360</entry>
+            <entry>21 000</entry>
+            <entry>21 000</entry>
+            <entry>21 000</entry>
+            <entry>21 000</entry>
+            <entry>32 317</entry>
+            <entry>22 128</entry>
+            <entry>22 128</entry>
+            <entry>22 128</entry>
+            <entry>38 807</entry>
+            <entry>26 580</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1171761572661">1.1 As you can see in the graph, the horizontal axis is marked in years. The bars show the amount of money paid in instalments by James, or saved up for a car by Gabriel. You will notice that the light bar is always higher than the dark bar for a specific year. Does the light bar show Gabriel’s or James’s situation?</para>
+    <para id="id1171764514572">1.2 Can one say whether Gabriel or James acted most wisely?</para>
+    <para id="id1171764498798">1.3 If both friends earn the same amount every month and get regular salary increases every year, who has the most left over every month to spend on other necessities, and fun?</para>
+    <para id="id4930946">1.4 Use the values in the table and calculate how much money each young man used in total in purchasing his cars over the whole period from 2000 to 2013.</para>
+    <para id="id1171761234424">1.5 When your father offers you his old car (which is still in sound working order) as a gift when you start work, will you accept and start saving for a new car of your own in a few years (like Gabriel) or will you decline his offer and buy a new car on hire purchase like James? Explain your answer.</para>
+    <para id="id1171766844970">1.6 Speak to a car salesman who sells new cars and ask him / her to explain exactly which conditions you have to comply with before you can enter into a hire purchase agreement. Ask about insurance, about who owns the car and about what happens if you can’t continue with your repayments. </para>
+    <para id="id1171764743366">2 Straight-line graphs with positive gradients show a direct relationship between two variables. Some graphs show an inverse relationship between two variables. We will look at two situations with this kind of relationship.</para>
+    <para id="id1171761393575">2.1 Here is a situation that we will return to in the section on probability:</para>
+    <para id="id1171764785764">You have to guess a number between 1 and 6. A friend rolls one dice. You have one chance out of 6 of being right.</para>
+    <para id="id1171764666817">If your friend rolls two dice (plural of die) and you guess one number, you have six chances out of 21 of being right. If you guess two numbers, then there is only one chance out of 21 of getting both numbers right.</para>
+    <para id="id1171764746539">With three dice, guessing one number gives you a chance of 21 out of 56; two numbers gives 6 out of 56 and guessing all three numbers gives a chance of one out of 56.</para>
+    <para id="id1171761235234">Here is the scatter plot for the three-dice game, and one for a four-dice game.</para>
+    <para id="id1171761147331"/>
+    <figure id="id1171759720065">
+      <media id="id1171759720065_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 20-2ee5.png" id="id1171759720065__onlineimage" height="296" width="634"/>
+      </media>
+    </figure>
+    <para id="id1171761002840">If you can imagine a curved line in each graph going through the points (it isn’t sen­sible to join the points – why?), you will notice the lines have the same general shape. This shape of graph illustrates an inverse relationship between two variables. </para>
+    <para id="id1171761012541">2.2 Here is another practical example of this shape of graph:</para>
+    <para id="id8832978">Sindiswa and Alan are in charge of arranging a dance to raise money in support of the AIDS organisation in their neighbourhood. They can get a DJ who will do it for free, but they have to pay to hire a hall. There are four halls to choose from: A, costing R1 000 and accommodating 200; B, costing R1 400, accommodating 350; C, costing R1 800, accommodating 600 and D, costing R2 100 and accommodating 500. </para>
+    <para id="id1171761425250">They have drawn this graph showing how the four halls differ as far as costs go. Depending on how many people attend the dance (shown on the horizontal axis), the cost per person to cover the cost of the hall, is shown on the vertical axis. They would like to donate at least R4 000 to the charity, but it would be nice if they could make it R5 000.</para>
+    <figure id="id1171760602541">
+      <media id="id1171760602541_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 21-ad68.png" id="id1171760602541__onlineimage" height="282" width="425"/>
+      </media>
+    </figure>
+    <para id="id1171760554191">a) Can you say which line applies to which hall? If you use the number of people the hall can accommodate as a clue, it will be easy!</para>
+    <para id="id1171761493952">b) Now, use the information supplied to you as well as the graphs and discuss which hall will be the best one for Alan and Sindiswa to choose. Not everybody will get to the same answer, but you must give reasons for your choice.</para>
+    <para id="id1171763576790">3 Maybe you recognise this table of test marks of two classes from a previous exercise:</para>
+    <table id="id1171764706381" summary="">
+      <tgroup cols="21">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <colspec colnum="11" colname="c11"/>
+        <colspec colnum="12" colname="c12"/>
+        <colspec colnum="13" colname="c13"/>
+        <colspec colnum="14" colname="c14"/>
+        <colspec colnum="15" colname="c15"/>
+        <colspec colnum="16" colname="c16"/>
+        <colspec colnum="17" colname="c17"/>
+        <colspec colnum="18" colname="c18"/>
+        <colspec colnum="19" colname="c19"/>
+        <colspec colnum="20" colname="c20"/>
+        <colspec colnum="21" colname="c21"/>
+        <tbody>
+          <row>
+            <entry>Group A</entry>
+            <entry>82</entry>
+            <entry>78</entry>
+            <entry>57</entry>
+            <entry>91</entry>
+            <entry>29</entry>
+            <entry>80</entry>
+            <entry>85</entry>
+            <entry>49</entry>
+            <entry>82</entry>
+            <entry>67</entry>
+            <entry>99</entry>
+            <entry>68</entry>
+            <entry>83</entry>
+            <entry>12</entry>
+            <entry>87</entry>
+            <entry>86</entry>
+            <entry>38</entry>
+            <entry>81</entry>
+            <entry>58</entry>
+            <entry>79</entry>
+          </row>
+          <row>
+            <entry>Group B</entry>
+            <entry>72</entry>
+            <entry>82</entry>
+            <entry>74</entry>
+            <entry>84</entry>
+            <entry>81</entry>
+            <entry>84</entry>
+            <entry>76</entry>
+            <entry>12</entry>
+            <entry>2</entry>
+            <entry>71</entry>
+            <entry>70</entry>
+            <entry>93</entry>
+            <entry>13</entry>
+            <entry>90</entry>
+            <entry>80</entry>
+            <entry>73</entry>
+            <entry>91</entry>
+            <entry>70</entry>
+            <entry>99</entry>
+            <entry>88</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1171763441042">This can be put on a stem-and-leaf graph, with Group A on the left, and Group B on the right. We separate the tens digits from the units digits, and put the tens digits in the middle, in order. The units then go next to the appropriate tens digit (on the left or the right depending on the group). </para>
+    <para id="id1171761135849">Study the graph together with the table to make sure you know how it works.</para>
+    <para id="id1171764766534"/>
+    <figure id="id1171758053254">
+      <media id="id1171758053254_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 22-5ba7.png" id="id1171758053254__onlineimage" height="264" width="323"/>
+      </media>
+    </figure>
+    <para id="id1171761235123">You were given this exercise earlier on to practise your skills in working out averages and finding out more about the differences between the two classes. The stem-and-leaf graph shows a few things we can’t see easily from the table and we can’t find out from the calculations. For example, class A has learners in every symbol class, but Class B has three learners with very poor marks and the rest with very good marks.</para>
+    <para id="id1171761002857"/>
+    <para id="id8827543">On the right is the same information drawn as two sideways bar graphs, one to the right and one to the left.</para>
+    <para id="id7474645">This is a very common and handy way to show data about two groups you are comparing. Ask your geography teacher about demographic graphs (also called demographic pyramids) in this form. We often find the ages of the population of a country shown with women on one side and men on the other. See if you can find one of these graphs.</para>
+    <figure id="id1171760825316">
+      <media id="id1171760825316_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 23-a2b2.png" id="id1171760825316__onlineimage" height="270" width="306"/>
+      </media>
+    </figure>
+    <para id="id1171764793975"/>
+    <para id="id1171764736535">ACTIVITY 2</para>
+    <para id="id1171761240227">To avoid being fooled by poorly gathered or badly presented statistics</para>
+    <para id="id1171764814789">[LO 5.5] </para>
+    <para id="id1171764587532">It is easy to draw wrong conclusions from statistics, or to be presented with a graph that has been designed to make you believe something which is not so. Statisticians do a valuable job – we need information, and we need reliable informa­tion. Statisticians encounter many problems in assembling and presenting information. </para>
+    <para id="id1171763596499">1 One of the first things that can go wrong is in the way we gather that informa­tion. Go back to the exercise about TV news viewing. If you ask your questions at filling stations, you are talking to people who own a car (or at least drive one). This means that people who don’t drive have been ignored in your survey. Maybe their answers would have changed the conclusions you came to. You have no way of knowing until you design a better experiment so that no one is excluded. </para>
+    <para id="id8339326">2. The important principle here is that your sample (the people you ask the question of) must reflect very accurately the general population you want to know about. There are many ways that one can ensure that the sample one chooses is representative. For example, if your school has 1 200 learners and you would like to know how many of them like listening to kwaito, then you could ask 30 and multiply the answer by 40 to get an idea. But it would be no good if all 30 were the same age, or the same race group, or the same sex. A better plan would be to ask the school secretary to help by showing you a list of the learners in alphabetic order. You then pick every fortieth name and write it down. This will give you 30 names. You ask them and then multiply by 40.</para>
+    <para id="id1171761178724">3 What are you asking? If you go from house to house asking people whether they have brushed their teeth that morning, you’ll no doubt find that most people do! By now most people know that it is socially desirable to use toothbrush and toothpaste, so they wouldn’t want you to think they are ignorant – and they’ll say yes, they did. </para>
+    <para id="id1171759569074">Statisticians often encounter people who lie, or who are economical with the truth. Of course, people don’t actually have to lie to make the information worthless. If you send a letter to all the people you can reach who graduated from your school 10 years ago, asking them to let you know what their current salary is, you might get back only a quarter as many answers as you asked for. But, if you work out the average of the ones who replied, wouldn’t that be good enough? Let’s have a look. The school did not have everybody’s current address, so you could not trace every­body. Is the school more likely to have the addresses of the ones who became well–known with a steady job and a constant home, or the others who floated around doing odd jobs? And the people who threw away your letter – maybe they had no­thing to brag about; the people who replied were probably proud to have others know what they earn. Maybe some even lied! It turns out that the average ob­tained under these circumstances could be totally unreliable.</para>
+    <para id="id1171761240377">4 Statisticians often experience trouble with central values.</para>
+    <para id="id1171759121899">As you know, the three central values are median, mode and mean. Say you are looking for a job, and you investigate the salaries of two possible employers. Below is a table showing the actual salaries for ten employees each in the two companies. You are told that the average salary is R14 000. Does that mean that it doesn’t matter which </para>
+    <para id="id1171759176976">you work for? No, because you don’t know what they mean by “average” – is it the mean, mode or median? As it turns out, R14 000 is the mean, but the medians are R14 000 and R5 500 respectively. Do you now know what to do? Remember that the median says that half of the people fall below that figure and half above. </para>
+    <table id="id1171759422070" summary="">
+      <tgroup cols="11">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <colspec colnum="11" colname="c11"/>
+        <tbody>
+          <row>
+            <entry>A</entry>
+            <entry>10 000</entry>
+            <entry>10 000</entry>
+            <entry>12 000</entry>
+            <entry>12 000</entry>
+            <entry>14 000</entry>
+            <entry>14 000</entry>
+            <entry>16 000</entry>
+            <entry>16 000</entry>
+            <entry>18 000</entry>
+            <entry>18 000</entry>
+          </row>
+          <row>
+            <entry>B</entry>
+            <entry>1 000</entry>
+            <entry>2 000</entry>
+            <entry>3 000</entry>
+            <entry>4 000</entry>
+            <entry>5 000</entry>
+            <entry>6 000</entry>
+            <entry>7 000</entry>
+            <entry>8 000</entry>
+            <entry>9 000</entry>
+            <entry>95 000</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1171758119641">The lesson is to make sure that you don’t make a judgement on one average only, especially if you don’t know which average is meant.</para>
+    <para id="id1171758229078">5 Graphs can easily fool.</para>
+    <para id="id7479613">Here are three graphs – let’s look at the first one.</para>
+    <para id="id1171761184464">This graph shows how a certain company’s exports increased from about R16 million to nearly R19 million in a year’s time – the months are shown on the x-axis and the amount in millions on the y-axis</para>
+    <para id="id1171762423947">The graph tells no lies – the y-axis starts at 0, and the line shows that there has been a small steady increase in the value of exports.</para>
+    <para id="id1171761335862">It is easy to read and understand.</para>
+    <figure id="id1171764472268">
+      <media id="id1171764472268_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 24-25b6.png" id="id1171764472268__onlineimage" height="329" width="369"/>
+      </media>
+    </figure>
+    <para id="id1171761336275"/>
+    <figure id="id1171758144936">
+      <media id="id1171758144936_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 25.png" id="id1171758144936__onlineimage" height="163" width="334"/>
+      </media>
+    </figure>
+    <para id="id1171759039940">But the Board of Directors of the company are not satisfied. They would like people to invest money in the company. To encourage them, the directors decide to get rid of all that unsightly white below and above the line by changing what the y-axis shows. </para>
+    <para id="id1171761444271">This graph still does not lie – but it fools the eye into seeing a dramatic increase in exports – starting from what looks like almost nothing.</para>
+    <para id="id1171760839356">But, by doing a bit of stretching, this same graph can be given a make-over that will appeal more to possible investors.</para>
+    <para id="id1171761240063">And here is the last version – much more impressive than number one!</para>
+    <para id="id1171760620282">See how steep the growth is – it looks as if the company is growing fiercely!</para>
+    <para id="id1171761242121">It is important to check that all the values you need to understand a graph are pre­sent. Sometimes the axes are unlabelled, which makes a graph worthless for putting across accurate information. Don’t place any faith in graphs which don’t tell the whole story – someone may be trying to pull the wool over your eyes.</para>
+    <figure id="id1171760854584">
+      <media id="id1171760854584_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-2c64.png" id="id1171760854584__onlineimage" height="306" width="347"/>
+      </media>
+    </figure>
+    <para id="id1171761241657"/>
+    <para id="id1171759890204">Exercise.</para>
+    <para id="id1171761233953">6 Study all the graphs of all kinds you can find, and see whether all of them tell a true and reliable story. If you find any that are doubtfully accurate, bring them to class and discuss them with your teacher and the rest of the learners. A collection of poor graphs on the maths notice board will be useful to remind us not to be gullible.</para>
+    <para id="id1171761410040">7 Evaluate the following statements to see whether the speaker could be trying to mislead you. You can assume that the figures appearing in them are correct. Write down whether you need more information to be able to say what is the truth. Also try to find out what logical errors are made in the statements.</para>
+    <para id="id1171764856749">7.1 New Spediclene kills 85% of bacteria.</para>
+    <para id="id1171764944158">7.2 As nearly half of all car accidents happen over weekends, this means that people who drive during the weekend are poorer drivers than the rest.</para>
+    <para id="id1171763588019">7.3 Last year more people died in aircraft accidents than ten years ago. Therefore flying is becoming more dangerous.</para>
+    <para id="id1171763612505">7.4 A certain travel brochure states that a certain place is suitable for people who don’t like it too warm, as “the average temperature is 22 °C”.</para>
+    <para id="id8900180"><figure id="id8973772"><media id="id8973772_media" alt=""><image mime-type="image/png" src="../../media/graphics1-36a1.png" id="id8973772__onlineimage" height="432" width="455"/></media></figure>8 Finally, here is a famous graph. It does not resemble our graphs; in fact it is much more of a map or a picture. But graphs are really only special types of pictures. </para>
+    <para id="id7504390"/>
+    <para id="id1171761438774">Dr John Snow was a doctor in Central London, England in the 1850’s. There was an outbreak of cholera (a very serious disease, often carried in contaminated water). He used a map of the area and on it he marked the public water pumps with crosses, and the home of every case of cholera with a dot. He noticed that the cholera cases lay closest to the Broad Street water pump. He had the handle of the pump removed and ended the epidemic during which more than 500 people had died. On the map you will see the cross for that water pump next to the word Broad. </para>
+    <para id="id1171764420898">If this section has opened your eyes to the value of graphs, you will appreciate a beautiful book written by Edward R. Tufte, called The Visual Display of Quantitative Information. You will probably have to ask a very sympathetic librarian or a university library to find out about it.</para>
+    <para id="id1171763675323">Sources: </para>
+    <para id="id1171761019007">Mathematics Teacher, December 1987</para>
+    <para id="id1171763332819">How to Lie with Statistics, Darrell Huff, Penguin Books, 1976</para>
+    <para id="id1171762643754">Getal en Ruimte, 5/6 V–A1, J H Dijkhuis et al. Educaboek (Holland), 1985</para>
+    <para id="id1171762229370">Assessment</para>
+    <table id="id1171761240214" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry>LO 5 </entry>
+          </row>
+          <row>
+            <entry>Data HandlingThe learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions and to interpret and determine chance variation.</entry>
+          </row>
+          <row>
+            <entry>We know this when the learner:</entry>
+          </row>
+          <row>
+            <entry>5.1 poses questions relating to human rights, social, economic, environmental and political issues in South Africa;</entry>
+          </row>
+          <row>
+            <entry>5.2 selects, justifies and uses appropriate methods for collecting data (alone and/or as a member of a group or team) which include questionnaires and interviews, experiments, and sources such as books, magazines and the Internet in order to answer questions and thereby draw conclusions and make predictions about the environment;</entry>
+          </row>
+          <row>
+            <entry>5.3 organises numerical data in different ways in order to summarise by determining:</entry>
+          </row>
+          <row>
+            <entry>5.3.1 measures of central tendency;</entry>
+          </row>
+          <row>
+            <entry>5.3.2 measures of dispersion;</entry>
+          </row>
+          <row>
+            <entry>5.4 draws a variety of graphs by hand/technology to display and interpret data including:</entry>
+          </row>
+          <row>
+            <entry>5.4.1 bar graphs and double bar graphs;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1171763394346"/>
+  </content>
+</document>

@@ -1,0 +1,313 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Finding the equation of a straight line graph from a diagram</title>
+  <metadata>
+  <md:content-id>m31271</md:content-id><md:title>Finding the equation of a straight line graph from a diagram</md:title>
+  <md:abstract/>
+  <md:uuid>cb0815e6-b97b-49d2-9a26-f5f3ff6bfb02</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6673748">
+      <title>MATHEMATICS</title>
+      <para id="para-id6673748">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6673755">
+      <title>Grade 9</title>
+      <para id="para-id6673755">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6673763">
+      <title>NUMBER PATTERNS, GRAPHS, EQUATIONS, </title>
+      <para id="para-id6673763">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6673771">
+      <title>STATISTICS AND PROBABILITY</title>
+      <para id="para-id6673771">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6673779">
+      <title>Module 15</title>
+      <para id="para-id6673779">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6673786">
+      <title>FINDING THE EQUATION OF A STRAIGHT LINE GRAPH FROM A DIAGRAM</title>
+      <para id="id6673795">ACTIVITY 1</para>
+      <para id="id6673799">To find the equation of a straight line graph from a diagram</para>
+      <para id="id6673804">[LO 2.5] </para>
+      <list id="id6673815" list-type="enumerated" number-style="arabic">
+        <item>If we can find out the values of <emphasis effect="italics">m</emphasis> and <emphasis effect="italics">c</emphasis>, then we simply substitute them in the general equation <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">mc</emphasis> + <emphasis effect="italics">c</emphasis> to give us the defining equation of the line. Let’s do an example from the given diagram.</item>
+      </list>
+      <figure id="id6673878">
+        <media id="id6673878_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 37.png" id="id6673878__onlineimage" height="199" width="191"/>
+        </media>
+      </figure>
+      <para id="id6673900"/>
+      <para id="id6673904">To find c is easy as it is the value (positive or negative or zero) where the line cuts the y–axis. Substitute this value (it is –1) for c.</para>
+      <para id="id6673915">The equation now becomes y = mx – 1. To find the gradient (the value of m) we construct the right-angled triangle between two suitable points where the graph goes exactly through corners on the graph paper.</para>
+      <table id="id6673926" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <list id="id6673946" list-type="bulleted">
+                  <item>Remembering that m is a fraction:</item>
+                </list>
+              </entry>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>change in vertical distance</entry>
+                  </row>
+                  <row>
+                    <entry>change in horizontal distance</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id6673986" list-type="bulleted">
+        <item>We read off the number of units of the height and the length of the triangle to give us the numerator and denominator respectively</item>
+        <item>We also have to decide whether the sign is negative or positive by looking at which way the line slopes. </item>
+        <item>This gives us: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{m```=``` -  {  { size 8{4} }  over  { size 8{6} } } ```=``` -  {  { size 8{2} }  over  { size 8{3} } } }} {}</m:annotation></m:semantics></m:math> (remember to simplify the fraction). </item>
+        <item>This value is now substituted for m in the equation: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow></m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi>x</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{y```=``` - ``` {  { size 8{2} }  over  { size 8{3} } } x``` - ```1}} {}</m:annotation></m:semantics></m:math>. This gives us the defining equation of the line in the diagram.</item>
+      </list>
+      <list id="id6674234" list-type="bulleted">
+        <item>Going back to the previous section, use this method to find the defining equations of the eight graphs in the first two diagrams.</item>
+      </list>
+      <para id="id6674244">2 How do we deal with horizontal and vertical graphs? They are the easiest.</para>
+      <list id="id6674257" list-type="bulleted">
+        <item>If the line is horizontal, then the equation is <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">c</emphasis>. We have to replace the <emphasis effect="italics">c</emphasis> by a value. We read this value off the graph – it is the <emphasis effect="italics">y</emphasis>–intercept! Substitute this into <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">c</emphasis>, and you have the defining equation.</item>
+        <item>If the line is vertical, the equation is <emphasis effect="italics">x</emphasis> = <emphasis effect="italics">k</emphasis>. Find <emphasis effect="italics">k</emphasis> by reading from the graph where the line cuts the <emphasis effect="italics">x</emphasis>–axis and substitute this number for <emphasis effect="italics">k</emphasis>. This gives the defining equation.</item>
+      </list>
+      <list id="id6674383" list-type="bulleted">
+        <item>From the previous section, find the equations for the four graphs in the last diagram. </item>
+      </list>
+      <para id="id6674394">Here are the answers:<emphasis effect="italics">y</emphasis> = 1 and <emphasis effect="italics">y</emphasis> = –1,5 are the two horizontal lines, and <emphasis effect="italics">x</emphasis> = –1 and <emphasis effect="italics">x</emphasis> = –2,5 are the two vertical lines.</para>
+      <para id="id6674436">3 The following diagrams have a mixture of lines for you to test your skills on.</para>
+      <para id="id6674447">
+        <figure id="id6674451">
+          <media id="id6674451_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 38-bb59.png" id="id6674451__onlineimage" height="198" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id6674473">4 Did you notice that the gradients (<emphasis effect="italics">m</emphasis>) of lines G and H are the same? Why is this?</para>
+      <para id="id6674493">ACTIVITY 2</para>
+      <para id="id6674497">To calculate the gradient of a straight line from two points on the line</para>
+      <para id="id6674503">[LO 2.5] </para>
+      <list id="id6674511" list-type="bulleted">
+        <item>If you know the coordinates of two points on a certain straight line, then you can draw that line, as you have seen. And from the sketch you can find the gradient as you have already learnt. But it is not necessary to have a graph to find the gradient. </item>
+      </list>
+      <list id="id6674529" list-type="bulleted">
+        <item>Here is an example: The points (3 ; –1) and (4 ; 2) are on a certain straight line.</item>
+      </list>
+      <list id="id6674543" list-type="bulleted">
+        <item>First we calculate the vertical distance between the two points by subtracting the second point’s <emphasis effect="italics">y</emphasis>-coordinate from the first point’s <emphasis effect="italics">y</emphasis>–coordinate. This is the numerator of the gradient.</item>
+        <item>Then we calculate the horizontal distance between the two points by subtracting the second point’s <emphasis effect="italics">x</emphasis>-coordinate from the first point’s <emphasis effect="italics">x</emphasis>-coordinate. This is the denominator of the gradient. </item>
+        <item>So, the gradient is: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mtext>vertical</m:mtext><m:mi/><m:mtext>distance</m:mtext></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mtext>horizontal</m:mtext><m:mi/><m:mtext>distance</m:mtext></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="13pt"><m:mrow><m:mi/></m:mrow></m:mstyle><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{m``=`` {  { size 11{"vertical"``"distance"}}  over  { size 11{"horizontal"```"distance"}} } ``=`` {  { size 11{ - 1` - `2}}  over  { size 11{3 - 4}} } ``=`` {  { size 11{ - 3}}  over  { size 11{ - 1}} } ``=`} size 13{`}3} {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <list id="id6674800" list-type="bulleted">
+        <item>If you do the subtraction the other way round, then you must do it for both coordinates, like this:</item>
+      </list>
+      <para id="id6674810"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mtext>vertical</m:mtext><m:mi/><m:mtext>distance</m:mtext></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mtext>horizontal</m:mtext><m:mi/><m:mtext>distance</m:mtext></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mfenced open="(" close=")"><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{m``=`` {  { size 11{"vertical"```"distance"}}  over  { size 11{"horizontal"```"distance"}} } ``=`` {  { size 11{2` - ` left ( size 11{ - 1} right )}}  over  { size 11{4 - 3}} } ``=`` {  { size 11{+3}}  over  { size 11{+1}} } ``=``3}} {}</m:annotation></m:semantics></m:math>, the same answer!</para>
+      <para id="id6675005">1 On squared paper, mark the two points (3 ; –1) and (4 ; 2) and draw the line. Then use the graphical method you used before to calculate the gradient, to confirm that it agrees with the answer from the calculation above.</para>
+      <para id="id6675022">2 Below you are given five pairs of coordinates. Calculate the five gradients between the points.</para>
+      <para id="id6675037">2.1 (2 ; 6) and (4 ; 4) </para>
+      <para id="id6675045">2.2 (1 ; 2) and (–2 ; –1) </para>
+      <para id="id6675055">2.3 (0 ; 0) and (1 ; 5)</para>
+      <para id="id6675064">2.4 (–1 ; 4) and (5 ; 4) </para>
+      <para id="id6675072">2.5 (7 ; 0) and (7 ; –3)</para>
+      <para id="id6675080"> ACTIVITY 3</para>
+      <para id="id6675089">To graphically solve two linear equations simultaneously</para>
+      <para id="id6675094">[LO 2.5] </para>
+      <para id="id6675105">1 Solve the following five sets of equations simultaneously (you can refer to the chapter where you learnt to do this).</para>
+      <para id="id6675117">1.1 <emphasis effect="italics">y</emphasis> = ½<emphasis effect="italics">x</emphasis> + 2 and <emphasis effect="italics">y</emphasis> = 3 </para>
+      <para id="id6675141">1.2 <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis> = –3 </para>
+      <para id="id6675164">1.3 <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">x</emphasis> – 2 and <emphasis effect="italics">y</emphasis> = –3 </para>
+      <para id="id6675190">1.4 <emphasis effect="italics">y</emphasis> = –<emphasis effect="italics">x</emphasis> + 4 and <emphasis effect="italics">y</emphasis> = 0</para>
+      <para id="id6675215">1.5 <emphasis effect="italics">y</emphasis> = ½<emphasis effect="italics">x</emphasis><emphasis effect="bold"/>– 2 and <emphasis effect="italics">y</emphasis><emphasis effect="bold"/>= 0 </para>
+      <para id="id6675245">2 Look at the diagrams in the previous e<emphasis effect="italics">x</emphasis>ercise and write down the coordinates of the points where the following lines cross:</para>
+      <para id="id6675264">2.1 A and C </para>
+      <para id="id6675272">2.2 E and G </para>
+      <para id="id6675279">2.3 E and H </para>
+      <para id="id6675286">2.4 J and L </para>
+      <para id="id6675294">2.5 K and J</para>
+      <para id="id6675300">3 Study these answers together with the equations for lines A to L that you found in problem three of the previous section.</para>
+      <list id="id6675311" list-type="bulleted">
+        <item>An example: </item>
+      </list>
+      <list id="id6675327" list-type="bulleted">
+        <item>Line <emphasis effect="bold">J</emphasis> above has the equation <emphasis effect="italics">y</emphasis> = 0, and for line <emphasis effect="bold">I</emphasis> you should have found the equation
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= -  {  {1}  over  {8} } x+ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>. (This equation can also be written as <emphasis effect="italics">x</emphasis> + 8<emphasis effect="italics">y</emphasis> = 4. Confirm that this is so by writing <emphasis effect="italics">x</emphasis> + 8<emphasis effect="italics">y</emphasis> = 4 in the standard form.)</item>
+        <item>When we solve these two equations simultaneously, we substitute from <emphasis effect="italics">y</emphasis> = 0 into <emphasis effect="italics">x</emphasis> + 8<emphasis effect="italics">y</emphasis><emphasis effect="italics"/>= 4.</item>
+      </list>
+      <para id="id6675521">So, <emphasis effect="italics">x</emphasis> + 8(0) = 4 </para>
+      <para id="id6675546"><emphasis effect="italics">x</emphasis> + 0 = 4 </para>
+      <para id="id6675562"><emphasis effect="italics">x</emphasis> = 4 </para>
+      <para id="id6675579">The solution is ( 4 ; 0). Checking this with the graph, we see that the lines I and J do indeed intersect at the point ( 4 ; 0 ).</para>
+      <list id="id6675587" list-type="bulleted">
+        <item>Confirm that your answers are correct by comparing the answers you found when solving the equations <emphasis effect="italics">algebraically</emphasis>, and those found by solving them <emphasis effect="italics">graphically</emphasis>.</item>
+      </list>
+      <para id="id6675618">Source:</para>
+      <para id="id6675622"><emphasis effect="italics">New Scientist</emphasis>, 27 April 2002 for Graphs A and B.</para>
+    </section>
+    <section id="id6675631">
+      <title>Assessment</title>
+      <table id="id6675638" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry>Patterns, Functions and AlgebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>2.1 investigates, in different ways, a variety of numeric and geometric patterns and relation­ships by representing and generalising them, and by explaining and justifying the rules that generate them (including patterns found in nature and cultural forms and patterns of the learner’s own creation;</entry>
+            </row>
+            <row>
+              <entry>2.2 represents and uses relationships between variables in order to determine input and/or output values in a variety of ways using:</entry>
+            </row>
+            <row>
+              <entry>2.2.1 verbal descriptions;</entry>
+            </row>
+            <row>
+              <entry>2.2.2 flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.2.3 tables;</entry>
+            </row>
+            <row>
+              <entry>2.2.4 formulae and equations;</entry>
+            </row>
+            <row>
+              <entry>2.3 constructs mathematical models that repre­sent, describe and provide solutions to pro­blem situations, showing responsibility to­ward the environment and health of others (including problems within human rights, social, economic, cultural and environmental contexts);</entry>
+            </row>
+            <row>
+              <entry>2.4 solves equations by inspection, trial-and-improvement or algebraic processes (additive and multiplicative inverses, and factorisa­tion), checking the solution by substitution;</entry>
+            </row>
+            <row>
+              <entry>2.5 draws graphs on the Cartesian plane for given equations (in two variables), or deter­mines equations or formulae from given graphs using tables where necessary;</entry>
+            </row>
+            <row>
+              <entry>2.6 determines, analyses and interprets the equivalence of different descriptions of the same relationship or rule presented:</entry>
+            </row>
+            <row>
+              <entry>2.6.1  verbally;</entry>
+            </row>
+            <row>
+              <entry>2.6.2 in flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.6.3 in tables;</entry>
+            </row>
+            <row>
+              <entry>2.6.4 by equations or expressions;</entry>
+            </row>
+            <row>
+              <entry>2.6.5 by graphs on the Cartesian plane in order to select the most useful represen­ta­tion for a given situation;</entry>
+            </row>
+            <row>
+              <entry>2.8 uses the laws of exponents to simplify expressions and solve equations;</entry>
+            </row>
+            <row>
+              <entry>2.9 uses factorisation to simplify algebraic expressions and solve equations.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id6675986">
+      <title/>
+      <para id="para-id6675986">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6675993">
+      <title>Memorandum</title>
+      <para id="id6676000">2.1 <emphasis effect="italics">m</emphasis> = –1; <emphasis effect="italics">c</emphasis> = 1  </para>
+      <para id="id6676027"><emphasis effect="italics">y</emphasis> = –<emphasis effect="italics">x</emphasis> + 1  </para>
+      <para id="id6676050">2.2 <emphasis effect="italics">m</emphasis> = –1,5; <emphasis effect="italics">c</emphasis> = –1,5 </para>
+      <para id="id6676076"><emphasis effect="italics">y</emphasis> = –1½<emphasis effect="italics">x</emphasis> – 1½ </para>
+      <para id="id6676097">2.3 <emphasis effect="italics">m</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math>; <emphasis effect="italics">c</emphasis> = –0,4 </para>
+      <para id="id6676174"><emphasis effect="italics">y</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis> – 0,4  </para>
+      <para id="id6676242">2.4 <emphasis effect="italics">m</emphasis> = 2; <emphasis effect="italics">c</emphasis> = –1  </para>
+      <para id="id6676269"><emphasis effect="italics">y</emphasis> = 2<emphasis effect="italics">x</emphasis> – 1</para>
+      <para id="id6676289">2.5 <emphasis effect="italics">m</emphasis> = –1; <emphasis effect="italics">c</emphasis> = 0  </para>
+      <para id="id6676316"><emphasis effect="italics">y</emphasis> = –<emphasis effect="italics">x</emphasis></para>
+      <para id="id6676339">2.6 <emphasis effect="italics">m</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>; <emphasis effect="italics">c</emphasis> = 0  </para>
+      <para id="id6676421"><emphasis effect="italics">y</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis></para>
+      <para id="id6676488">2.7 <emphasis effect="italics">m</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math>;  <emphasis effect="italics">c</emphasis> = 0  </para>
+      <para id="id6676569"><emphasis effect="italics">y</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis></para>
+      <para id="id6676638">2.8 <emphasis effect="italics">m</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>; <emphasis effect="italics">c</emphasis> = 0   </para>
+      <para id="id6676716"><emphasis effect="italics">y</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis></para>
+      <para id="id6676779">3. A: <emphasis effect="italics">y</emphasis> = 3 </para>
+      <para id="id6676802">B: <emphasis effect="italics">y</emphasis> = –½ <emphasis effect="italics">x</emphasis></para>
+      <para id="id6676830"> C: <emphasis effect="italics">y</emphasis> = ½<emphasis effect="italics">x</emphasis> + 2 </para>
+      <para id="id6676867"> D: <emphasis effect="italics">x</emphasis> = –1</para>
+      <para id="id6676887"> E: <emphasis effect="italics">y</emphasis> = –3 </para>
+      <para id="id6676908">F: <emphasis effect="italics">x</emphasis> = 2 </para>
+      <para id="id6676927">G: <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">x</emphasis></para>
+      <para id="id6676954">H: <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">x</emphasis> – 2</para>
+      <para id="id6676981"> I: <emphasis effect="italics">y</emphasis> = –¼<emphasis effect="italics">x</emphasis> + ½  </para>
+      <para id="id6677011">J: <emphasis effect="italics">y</emphasis> = 0  </para>
+      <para id="id6677032">K: <emphasis effect="italics">y</emphasis> = ½<emphasis effect="italics">x</emphasis> – 2  </para>
+      <para id="id6677061">L: <emphasis effect="italics">y</emphasis> = –½<emphasis effect="italics">x</emphasis> + 4 </para>
+      <para id="id6677088">4. The lines are parallel. At this point, depending on the class, the educator may want to introduce the facts that for parallel lines, <emphasis effect="italics">m</emphasis><sub>1</sub> = <emphasis effect="italics">m</emphasis><sub>2</sub>, and for perpendicular lines, <emphasis effect="italics">m</emphasis><sub>1</sub> × <emphasis effect="italics">m</emphasis><sub>2</sub> = –1.</para>
+      <para id="id6677161">Gradients between two points</para>
+      <para id="id6677166">2.1  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>2</m:mn><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {6 - 4}  over  {2 - 4} } = {  {2}  over  { - 2} } = - 1} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id6677278">2.2  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {2 -  left ( - 1 right )}  over  {1 -  left ( - 2 right )} } = {  {2+1}  over  {1+2} } = {  {3}  over  {3} } =1} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id6677426">2.3  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {5 - 0}  over  {1 - 0} } = {  {5}  over  {1} } =5} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id6677525">2.4  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>0</m:mn><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {4 - 4}  over  { - 1 - 5} } = {  {0}  over  { - 6} } =0} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id6677636">2.5  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {0 -  left ( - 3 right )}  over  {7 - 7} } = {  {3}  over  {0} } } {}</m:annotation></m:semantics></m:math> which is undefined.</para>
+      <list id="id6677742" list-type="bulleted">
+        <item>Learners often confuse the meanings of the zero numerator and the zero denominator. It is wise to emphasize that a 0 denominator must be dealt with first. </item>
+      </list>
+      <para id="id6677757">If time allows, ask the learners to sketch the lines above by connecting the two given points and to confirm that their answers are reasonable.</para>
+      <para id="id6677764">1.1 (2 ; 3) </para>
+      <para id="id6677772">1.2 (–3 ; –3) </para>
+      <para id="id6677780">1.3 (–1 ; –3) </para>
+      <para id="id6677788">1.4 (4 ; 0) </para>
+      <para id="id6677795">1.5 (4 ; 0)</para>
+      <para id="id6677801">2.1 (2 ; 3) </para>
+      <para id="id6677808">2.2 (–3 ; –3) </para>
+      <para id="id6677816">2.3 (–1 ; –3) </para>
+      <para id="id6677824">2.4 (4 ; 0) </para>
+      <para id="id6677832">2.5 (4 ; 0)</para>
+    </section>
+  </content>
+</document>

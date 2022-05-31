@@ -1,0 +1,446 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Understanding what graphs tell us</title>
+  <metadata>
+  <md:content-id>m31265</md:content-id><md:title>Understanding what graphs tell us</md:title>
+  <md:abstract/>
+  <md:uuid>8f830864-21b3-4213-ae82-f41f36ef742b</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171082960551">
+      <title>MATHEMATICS</title>
+      <para id="para-id1171082960551">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171082960558">
+      <title>Grade 9</title>
+      <para id="para-id1171082960558">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171087555773">
+      <title>NUMBER PATTERNS, GRAPHS, EQUASIONS, </title>
+      <para id="para-id1171087555773">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171087555780">
+      <title>STATISTICS AND PROBABILITY</title>
+      <para id="para-id1171087555780">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171087555788">
+      <title>Module 13</title>
+      <para id="para-id1171087555788">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171087290457">
+      <title>UNDERSTAND WHAT GRAPHS TELL US</title>
+      <para id="id1171087290463">Are graphs just pretty pictures?</para>
+      <para id="id1171087290468">ACTIVITY 1</para>
+      <para id="id1171092903523">To study a number of graphs with the aim of understanding what they can tell one</para>
+      <para id="id1171092903527">[LO 1.3, 5.5]</para>
+      <para id="id1171092903532"/>
+      <para id="id1171092903537">
+        <figure id="id1171092903541">
+          <media id="id1171092903541_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 11-d6f3.png" id="id1171092903541__onlineimage" height="329" width="604"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1171087578107"><emphasis effect="bold">Graph A</emphasis> shows how the number of TV sets owned by every 1 000 people changed between 1985 and 1995 in six different regions in the world. For example, South Asia had 20 TV sets per 1 000 people in 1985, and 55 sets per 1 000 people in 1995.</para>
+      <para id="id1171087578123"><emphasis effect="bold">Graph B</emphasis> shows, on the vertical axis, the number of people in prison in the United States of America in the years shown on the horizontal axis. For e<emphasis effect="italics">x</emphasis>ample, in 1940 there were 135 000 people in prison.</para>
+      <list id="id1171087473444" list-type="bulleted">
+        <item>Work in pairs; one person works with graph A, answering question 1 below, and the other with Graph B and question 2. Give the reason or explanation for each of your answers.</item>
+      </list>
+      <para id="id1171087473456">1 Study <emphasis effect="bold">graph A</emphasis>, then write down answers and explanations to these questions:</para>
+      <para id="id1171082830040">1.1 Which region had the smallest number of TV sets per 1 000 in 1985?</para>
+      <para id="id1171087333357">1.2 Which region had the highest number of TV sets per 1 000 in 1995?</para>
+      <para id="id1171087333367">1.3 In which region did the number of TV sets per 1 000 increase the most?</para>
+      <para id="id1171087429302">1.4 Is there a region where the number of TV sets per 1 000 has decreased?</para>
+      <para id="id1171087429311">1.5 Compare Sub–Saharan Africa with the Arab States and discuss the change in the number of TV sets per 1 000 in these two regions.</para>
+      <para id="id1171087274354">1.6 Draw a similar graph showing two other regions: South Africa and the United States of America. Make up the figures.</para>
+      <para id="id1171087274367">2 Now study <emphasis effect="bold">graph B</emphasis> and answer these questions:</para>
+      <para id="id1171087280634">2.1 From the graph, try to estimate how many people were in prison in these years:</para>
+      <para id="id1171087350861">a)  1930 b)  1950 c) 1995</para>
+      <para id="id1171082935338">2.2 In 1980, were there more than or fewer than 200 000 people in jail?</para>
+      <para id="id1171082935347">2.3 There is a dip in the graph just after 1940. What do you think the graph is telling us?</para>
+      <para id="id1171087435866">2.4 Say roughly how many years it took for the prison population to double from what it was in 1950</para>
+      <para id="id1171087273116">2.5 How long did it take the prison population to double from what it was in 1985?</para>
+      <para id="id1171087273125">2.6 Would you say that the number of people in jail in the USA keeps increasing? Give reasons.</para>
+      <para id="id1171087296124">2.7 From the information in the graph make a prediction about the number of people in USA jails in the future.</para>
+      <para id="id1171087296134">3 In Geography, an interesting kind of graph is a <emphasis effect="italics">section</emphasis> drawing. This shows how the height of the land varies over a straight line between two places. Here is one for the line between Bottelaryberg and Papegaaiberg, two hills near Stellenbosch. All the measurements are in metres. From this we can see (on the left) that Bottelaryberg is about 470 m above sea level, and Papegaaiberg about 255 m above sea level. Walking in a straight line from Bottelaryberg you come to sharp dip, after about 2,5 km, and then, for the next half a kilometre, you go over a little rounded rise.</para>
+      <list id="id1171082834964" list-type="bulleted">
+        <item>This is a very useful graph for road planners, as it shows the steepness of the terrain.<figure id="id1171087425770"><media id="id1171087425770_media" alt=""><image mime-type="image/png" src="../../media/Picture 12-efd8.png" id="id1171087425770__onlineimage" height="224" width="653"/></media></figure></item>
+        <item>We can clearly see that the descent from the top of Bottelaryberg is very steep, as the line drops sharply over about 750 m. But, if you were on top of Papegaaiberg, and going down in the direction of Bottelaryberg, it would take 1,5 km to drop the same distance, making the route much less steep.</item>
+      </list>
+      <list id="id1171087300033" list-type="bulleted">
+        <item>Steepness (also called <emphasis effect="italics">slope</emphasis>) is measured as the vertical distance divided by the horizontal distance, namely: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>vertical</m:mtext></m:mrow></m:mstyle><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>change</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>horizontal</m:mtext></m:mrow></m:mstyle><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>change</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "vertical"` ital "change"}  over  { ital "horizontal"` ital "change"} } } {}</m:annotation></m:semantics></m:math> or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>rise</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>run</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "rise"}  over  { ital "run"} } } {}</m:annotation></m:semantics></m:math> in engineer-speak. As you will see, this is exactly how one measures the <emphasis effect="italics">gradient</emphasis> of a graph. </item>
+      </list>
+      <para id="id1171087291696">3.1 What is the height above sea level of the spot exactly halfway between the two hills?</para>
+      <para id="id1171087284034">3.2 What is the difference in height of the two hills?</para>
+      <para id="id1171087284044">3.3 What is the lowest spot, according to the graph?</para>
+      <para id="id1171093285793">4 Look for graphs to study. You can look in newspapers, magazines (car, sports and financial magazines) and textbooks in other subjects. If you have an atlas, you will usually see graphs there. If possible, bring these graphs to school to discuss in class. If the graph is about something that you find interesting, then you can ask yourself some questions like the ones in the e<emphasis effect="italics">x</emphasis>ercises above.</para>
+      <list id="id1171087580004" list-type="bulleted">
+        <item>When you learn about statistics in a later module, you will study more (and different) graphs.</item>
+        <item>
+          <emphasis effect="bold">ACTIVITY 2</emphasis>
+        </item>
+      </list>
+      <para id="id1171087595025">To be able to understand, construct and use the Cartesian system of coordinates</para>
+      <para id="id1171093080534">[LO 1.4, 1.7, 2.3, 3.7]</para>
+      <para id="id1171093080538">1. Arranging seats in the school hall:</para>
+      <para id="id1171093080545">The diagram shows a small school hall. The blocks are chairs for the audience. There are three doors (marked X) – one at the back and two in the middle of the sides. From the stage you can see the Left half of the chairs and the Right half of the chairs on either side of the passage. The other passage separates the front chairs (with Soft seats) from the back chairs (with Hard seats). </para>
+      <para id="id1171087275585">The rows are numbered from the centre of the hall 1 to 6 to the front, 1 to 6 to the back, 1 to 6 to the right and 1 to 6 to the left, as viewed from the stage.</para>
+      <para id="id1171087275591">
+        <figure id="id1171087188498">
+          <media id="id1171087188498_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 13-d521.png" id="id1171087188498__onlineimage" height="353" width="319"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id1171087311575" list-type="bulleted">
+        <item>The four tickets belonging to the four white blocks in the diagram are labelled L4S1, L5H4, R2S2 and R4H2. As you can see, the first letter tells us whether the seats are to the left or to the right. The number after this letter tells how far from the centre passage the seat is. The next letter tells us whether the seat is a soft seat in the front half or a hard seat in the back, and the last number says how far it is from the passage that runs across the hall.</item>
+      </list>
+      <para id="id1171087274195">1.1 How many people can be seated in the hall?</para>
+      <para id="id1171087274204">1.2 If you have to show the guests to their seats, you must know which one of the white blocks goes with which ticket. Fill the correct labels in on the diagram.</para>
+      <para id="id1171087339052">1.3 In the same way, find and label these seats: R6S6; R5H1; L1S1; L6S1; L2S5; L3H3; R1H1.</para>
+      <para id="id1171087466185">1.4 If the school needed to put 25 more chairs into the hall, they could be put in the passage. Without changing the numbers already on the chairs, how would you number the 25 extra chairs? Can you use the letters now? What about the numbers?</para>
+      <para id="id1171093061121">2. Numbering the points on graph paper:</para>
+      <figure id="id1171093061130">
+        <media id="id1171093061130_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 14-56dd.png" id="id1171093061130__onlineimage" height="302" width="259"/>
+        </media>
+      </figure>
+      <para id="id1171087431636">This diagram is called the Cartesian plane.</para>
+      <para id="id1171087431640">The numbers refer to the places where the lines cross, NOT the spaces in between.</para>
+      <para id="id1171087429957">The horizontal dark line is called the x–axis and the vertical dark line is the y–axis. The place where they cross is called the origin. Its coordinates are (0 ; 0). Coordinates are always written as two numbers separated by a semi–colon, in brackets</para>
+      <para id="id1171087429971">The first number in the brackets always refers to the numbers on the x–axis, and the second number refers to the number on the y–axis.</para>
+      <list id="id1171087338191" list-type="bulleted">
+        <item>Let us play follow–the–leader. On the diagram alongside, (–3 ; 5) is marked with a white circle. From there the arrow points to (0 ; 2). The ne<emphasis effect="italics">x</emphasis>t arrow leads to (4½ ; 2½) and then to (3 ; 0), (–5 ; –3), (1 ; –6), (0 ; 0), (–4 ; 1½) and (–4½ ; 4½), ending at the black circle.</item>
+      </list>
+      <para id="id1171087301748">Make sure that your understand how coordinates work before you continue.</para>
+      <para id="id1171093066405">The axes (the dark lines) divide the Cartesian plane into four quadrants. </para>
+      <figure id="id1171093066414">
+        <media id="id1171093066414_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 16-3724.png" id="id1171093066414__onlineimage" height="108" width="130"/>
+        </media>
+      </figure>
+      <figure id="id1171087186334">
+        <media id="id1171087186334_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 15-72a7.png" id="id1171087186334__onlineimage" height="340" width="344"/>
+        </media>
+      </figure>
+      <para id="id1171082974520">2.1 Write down the coordinates of the cros---sings marked A to G on the dia­gram. Use brackets and semicolons and put the two numbers in the correct order.</para>
+      <para id="id1171082974530">2.2 Find the following dots on the dia­gram and carefully join them in order. What does your picture remind you of?</para>
+      <para id="id1171082956539">(–4 ; 0) (–4 ; –6) (–3 ; –6) (–3 ; –2) (–2 ; –2)(–2 ; –6) (–1 ; –6) (–1 ; –2) (3 ; –2) (3 ; –6)(5 ; –6) (5 ; 0) (7 ; 0) (7 ; 2) (5½ ; 2)(4½ ; 4) (4 ; 2) (–4 ; 2) (–6 ; 4) (–4 ; 0)</para>
+      <para id="id1171082956551"/>
+      <list id="id1171093054891" list-type="bulleted">
+        <item>René Descartes (pronounced <emphasis effect="italics">daycar</emphasis>) was born in France in 1596, and died of pneumonia when he was 54. At the time he lived, there were many wars in Europe and he became a soldier and took part in several campaigns. He was not only a mathematician, but also studied physics (particularly optics), astronomy, meteorology and anatomy as well as the theory of music. While working on some difficult mathematical problems, he developed the system of numbering graph paper so that geometry could be combined with algebra to solve the problems. This is why the design of the diagram above is called the <emphasis effect="italics">Cartes</emphasis>ian plane.</item>
+      </list>
+      <para id="id1171092909868">ACTIVITY 3</para>
+      <para id="id1171092909873">To use a table of values to draw a graph on the Cartesian plane</para>
+      <para id="id1171092909877">[LO 1.3, 2.1, 2.2, 2.5]</para>
+      <para id="id1171092981995">1 In this table there is a relationship between a number in the top row of the table (input value) and the one directly below it (output value). There are some missing numbers and these gaps have been labelled <emphasis effect="italics">a</emphasis>, <emphasis effect="italics">b</emphasis> and <emphasis effect="italics">c</emphasis>. </para>
+      <para id="id1171087305395">1.1 Study the first seven columns of numbers in the table until you can see the pattern, and write down the rule used to calculate the output value from the input value. Now use this rule to fill in the gaps by calculating what <emphasis effect="italics">a</emphasis>, <emphasis effect="italics">b</emphasis> and <emphasis effect="italics">c</emphasis> have to be if they follow the same rule.</para>
+      <figure id="id1171093287520">
+        <media id="id1171093287520_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 18-24bb.png" id="id1171093287520__onlineimage" height="101" width="583"/>
+        </media>
+      </figure>
+      <para id="id1171087435541">1.2 We now take the pairs of numbers in each column to make up sets of coordinates. They always look like this: </para>
+      <para id="id1171087275499">(input value ; output value), </para>
+      <para id="id1171087275508">with the input value in the first position.</para>
+      <list id="id1171087295882" list-type="bulleted">
+        <item>Here are the first two sets of co-ordinates: ( 1 ; 17 ) and ( 2 ; 22). Write down the rest in the same way, including the last three with your calculated values instead of <emphasis effect="italics">a</emphasis>, <emphasis effect="italics">b</emphasis> and <emphasis effect="italics">c</emphasis>.</item>
+      </list>
+      <para id="id1171087348897">1.3 Make a dot on this Cartesian plane for every set of coordinates you have found from the table.</para>
+      <para id="id1171087348904">You should have ten dots, and they should lie in a straight line. </para>
+      <para id="id1171087348912">Use a ruler to draw the line.</para>
+      <figure id="id1171087463207">
+        <media id="id1171087463207_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 17-6b4b.png" id="id1171087463207__onlineimage" height="467" width="328"/>
+        </media>
+      </figure>
+      <para id="id1171087619560"/>
+      <para id="id1171087619564">2 The next table shows the charges for a gardener who charges R35 per hour or part–hour.</para>
+      <table id="id1171087296294" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Hours worked</entry>
+              <entry>1</entry>
+              <entry>1,5</entry>
+              <entry>2</entry>
+              <entry>2,5</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>Total amount</entry>
+              <entry>35</entry>
+              <entry>70</entry>
+              <entry>70</entry>
+              <entry>105</entry>
+              <entry>105</entry>
+              <entry>140</entry>
+              <entry>175</entry>
+              <entry>280</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171087302279">2.1 Write down your explanation of the fact that there are two R70’s in the second row, and also two R105’s.</para>
+      <para id="id1171087302291">2.2 Use squared paper similar to the previous e<emphasis effect="italics">x</emphasis>ercise. Carefully plan what the numbers on the axes must be to fit the values in this table, and plot the coordinates from the table as dots. </para>
+      <para id="id1171087321343">2.3 For this graph it is wrong to try joining the dots with a straight line. This graph has to go up in steps. The reason is that the gardener will charge the same amount for working, say, two hours 10 minutes, two hours 25 minutes, two hours 40 minutes and three hours. Complete the graph by making the appropriate shape of the steps.</para>
+      <para id="id1171087450702">2.4 From the completed graph, read off how much it will cost if the gardener works for 6½ hours.</para>
+    </section>
+    <section id="id1171082786333">
+      <title>Assessment</title>
+      <table id="id1171082786340" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>1.2 recognises, uses and represents rational numbers (including very small numbers written in scientific notation), moving flexibly between equivalent forms in appropriate contexts;</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>1.3 solves problems in context including contexts that may be used to build awareness of other learning areas, as well as human rights, social, economic and environmental issues such as:</entry>
+            </row>
+            <row>
+              <entry>1.3.1 financial (including profit and loss, budgets, accounts, loans, simple and compound interest, hire purchase, exchange rates, commission, rental and banking);</entry>
+            </row>
+            <row>
+              <entry>1.3.2 measurements in Natural Sciences and Technology contexts;</entry>
+            </row>
+            <row>
+              <entry>1.4 solves problems that involve ratio, rate and proportion (direct and indirect);</entry>
+            </row>
+            <row>
+              <entry>1.7 recognises, describes and uses the properties of rational numbers.</entry>
+            </row>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry>Patterns, Functions and AlgebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>2.1 investigates, in different ways, a variety of numeric and geometric patterns and relation­ships by representing and generalising them, and by explaining and justifying the rules that generate them (including patterns found in nature and cultural forms and patterns of the learner’s own creation;</entry>
+            </row>
+            <row>
+              <entry>2.2 represents and uses relationships between variables in order to determine input and/or output values in a variety of ways using:</entry>
+            </row>
+            <row>
+              <entry>2.2.1 verbal descriptions;</entry>
+            </row>
+            <row>
+              <entry>2.2.2 flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.2.3 tables;</entry>
+            </row>
+            <row>
+              <entry>2.2.4 formulae and equations;</entry>
+            </row>
+            <row>
+              <entry>2.3 constructs mathematical models that repre­sent, describe and provide solutions to pro­blem situations, showing responsibility to­ward the environment and health of others (including problems within human rights, social, economic, cultural and environmental contexts);</entry>
+            </row>
+            <row>
+              <entry>2.4 solves equations by inspection, trial-and-improvement or algebraic processes (additive and multiplicative inverses, and factorisa­tion), checking the solution by substitution;</entry>
+            </row>
+            <row>
+              <entry>2.5 draws graphs on the Cartesian plane for given equations (in two variables), or deter­mines equations or formulae from given graphs using tables where necessary;</entry>
+            </row>
+            <row>
+              <entry>2.6 determines, analyses and interprets the equivalence of different descriptions of the same relationship or rule presented:</entry>
+            </row>
+            <row>
+              <entry>2.6.1  verbally;</entry>
+            </row>
+            <row>
+              <entry>2.6.2 in flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.6.3 in tables;</entry>
+            </row>
+            <row>
+              <entry>2.6.4 by equations or expressions;</entry>
+            </row>
+            <row>
+              <entry>2.6.5 by graphs on the Cartesian plane in order to select the most useful represen­ta­tion for a given situation;</entry>
+            </row>
+            <row>
+              <entry>2.8 uses the laws of exponents to simplify expressions and solve equations;</entry>
+            </row>
+            <row>
+              <entry>2.9 uses factorisation to simplify algebraic expressions and solve equations.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171082961201"/>
+      <table id="id1171082961206" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 3 </entry>
+            </row>
+            <row>
+              <entry>Space and Shape (Geometry)The learner will be able to describe and represent cha­racteristics and relationships between two–dimensional shapes and three–dimensional objects in a variety of orientations and positions.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>3.7 uses various representational systems to describe position and movement between positions, including:</entry>
+            </row>
+            <row>
+              <entry><list id="id1171083013757" list-type="bulleted"><item>ordered grids;</item></list>3.7.2 Cartesian plane (4 quadrants)3.7.3 compass directions in degrees;3.7.4 angles of elevation and depression.</entry>
+            </row>
+            <row>
+              <entry>LO 4 </entry>
+            </row>
+            <row>
+              <entry>MeasurementThe learner will be able to use appropriate measuring units, instruments and formulae in a variety of conte<emphasis effect="italics">x</emphasis>ts</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>4.1 solves ratio and rate problems involving time, distance and speed;</entry>
+            </row>
+            <row>
+              <entry>4.4 uses the theorem of Pythagoras to solve problems involving missing lengths in known geometric figures and solids.</entry>
+            </row>
+            <row>
+              <entry>LO 5 </entry>
+            </row>
+            <row>
+              <entry>Data HandlingThe learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions and to interpret and determine chance variation.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>5.1 poses questions relating to human rights, social, economic, environmental and political issues in South Africa;</entry>
+            </row>
+            <row>
+              <entry>5.2 selects, justifies and uses appropriate methods for collecting data (alone and/or as a member of a group or team) which include questionnaires and interviews, e<emphasis effect="italics">x</emphasis>periments, and sources such as books, magazines and the Internet in order to answer questions and thereby draw conclusions and make predictions about the environment;</entry>
+            </row>
+            <row>
+              <entry>5.3 organises numerical data in different ways in order to summarise by determining:</entry>
+            </row>
+            <row>
+              <entry>5.3.1 measures of central tendency;</entry>
+            </row>
+            <row>
+              <entry>5.3.2 measures of dispersion;</entry>
+            </row>
+            <row>
+              <entry>5.4 draws a variety of graphs by hand/technology to display and interpret data including:</entry>
+            </row>
+            <row>
+              <entry>5.4.1 bar graphs and double bar graphs;</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1171082796150">
+      <title>Memorandum</title>
+      <para id="id1171082796157">Discussion</para>
+      <para id="id1171082796162">Basic graphical literacy</para>
+      <para id="id1171082796166">The first part serves only to familiarise learners with the general appearance of a graph. Help them understand that the legends to the left and bottom of the graph contain meaningful information.</para>
+      <para id="id1171082867121">In this section the importance of correct and adequate labelling of graphs has not been emphasized in the learner’s module. This is mainly to keep the graphs legible. The teacher should point out that titles and other explanatory labels are necessary, and at appropriate times discuss the value of and need for annotation of graphs. Learners should always label their own graphs properly.</para>
+      <para id="id1171082867135">It will be difficult, as it often is with graphs, to be completely accurate in readings taken from the graph. The main idea is that they learn where and how readings can be taken, and not to want perfectly accurate answers. It is important that they be encouraged to motivate their answers – this will lead them to try and make logical sense of the work, and not to only guess.</para>
+      <para id="id1171093287116">1.1 South Asia 1.2 East Asia 1.3 East Asia 1.4 No</para>
+      <para id="id1171087182398">1.5 Roughly speaking, the increase was about in the same ratio – each increased by about 50% of what it had been. </para>
+      <para id="id1171093287435">1.6 SA started from a very low base (almost no TV sets) and increased fast. The US started with many TV sets and could therefore not increase so much.</para>
+      <list id="id1171093287443" list-type="bulleted">
+        <item>In question 1.6 learners should get some input from the educator, as they might not be old enough to have the necessary experience. </item>
+      </list>
+      <para id="id1171092904014">2.1 (a) 50 000 – 60 000 (b) about 125 000 (c) nearly a million</para>
+      <para id="id1171087434962">2.2 more than 2.3 (see below) 2.4 About thirty years</para>
+      <para id="id1171087434978">2.5 Less than ten years 2.6 Yes – the graph goes up to the right.</para>
+      <para id="id1171082948835">Question 2.3 – think Second World War! </para>
+      <para id="id1171082948841">Question 2.7: The main idea is that it is impossible for the graph to keep on going upwards forever.</para>
+      <para id="id1171087536575">Question 3 uses a graph from an area in the Western Cape – maybe it will be possible to find something close to the home range of the learners. </para>
+      <para id="id1171087536582">3.1 Between 100 m and 110 m</para>
+      <para id="id1171087536589">3.2 About 215 m</para>
+      <para id="id1171093065919">3.3 Nearly 3 000 m from Papegaaiberg</para>
+      <list id="id1171093065927" list-type="bulleted">
+        <item>The teacher can help a great deal to make learners more graphically literate by looking for graphs to show and discuss, and to encourage learners to do the same. An atlas usually has graphs of various kinds. Later in the module when other graphical methods are discussed, atlases can once again be used for additional examples.</item>
+      </list>
+      <para id="id1171082965834">Cartesian planes</para>
+      <list id="id1171082965838" list-type="bulleted">
+        <item>Graph paper is very expensive. Two sheets of squared paper is included at the end of this section, instead of in the learner’s module. The teacher can make photocopies of them whenever necessary</item>
+        <item>Most learners understand coordinate systems well after a bit of practice. The hardest thing to grasp can be that the integers refer to where the <emphasis effect="italics">lines</emphasis> are, and not to the space in between. This is essential to knowing how to deal with fractions of a unit. It is effort well-repaid to make sure they get this point mastered. Point out that it works like a ruler.</item>
+      </list>
+      <para id="id1171082815817">1. 4 × 36 = 144</para>
+      <para id="id1171092892314">2. R4H2 ; L5H4 ; L4S1 ; R2S2 (Please check these answers with the learner’s module)</para>
+      <para id="id1171087269300">3. Answer not included – left as an exercise for the teacher.</para>
+      <para id="id1171087269308">4. The letters are less useful – but this is the opportunity to bring in zero (for the chairs in the passages) and negative numbers for the seats to the left and to the front.</para>
+      <para id="id1171087329047">There is a great deal of terminology coming in at this stage – the more the educator uses the correct terms, the more familiar the learners will become with them.</para>
+      <para id="id1171087329054">1. A ( –5 ; 6)  B (–4 ; –2)  C (5 ; –5)  D (2 ; 3) </para>
+      <para id="id1171093061533">E (6 ; 0)  F (0 ; 8)  G (–6 ; –6)</para>
+      <para id="id1171087354349">2. Something looking like a dog should emerge.</para>
+      <para id="id1171087354355">Tables and graphs</para>
+      <list id="id1171087354359" list-type="bulleted">
+        <item>When working with tables, it is important to take note of the order and pattern of the top row when trying to determine a pattern for the bottom row.</item>
+      </list>
+      <para id="id1171087425450">1.1 (The formula is 5<emphasis effect="italics">x</emphasis> + 12) <emphasis effect="italics">a</emphasis> = 57; <emphasis effect="italics">b</emphasis> = 72; <emphasis effect="italics">c</emphasis> = 13</para>
+      <para id="id1171093292763">1.2 (1 ; 17) (2 ; 22) (3 ; 27) (4 ; 32) (5 ; 37) (6 ; 42) (7 ; 47) (9 ; 57) (12 ; 72) (13 ; 77)</para>
+      <para id="id1171087472363">2. This situation illustrates a stepped graph</para>
+      <para id="id1171087472369">2.1 1,5 hours is part of two hours and 2,5 hours is part of 3 hours.</para>
+      <para id="id1171092980032">2.2 Plot only dots, and don’t join them.</para>
+      <para id="id1171092980039">2.4 R245</para>
+      <para id="id1171092980046">Homework</para>
+      <para id="id1171092980050"><table id="id1171092900915" summary=""><tgroup cols="17"><colspec colnum="1" colname="c1"/><colspec colnum="2" colname="c2"/><colspec colnum="3" colname="c3"/><colspec colnum="4" colname="c4"/><colspec colnum="5" colname="c5"/><colspec colnum="6" colname="c6"/><colspec colnum="7" colname="c7"/><colspec colnum="8" colname="c8"/><colspec colnum="9" colname="c9"/><colspec colnum="10" colname="c10"/><colspec colnum="11" colname="c11"/><colspec colnum="12" colname="c12"/><colspec colnum="13" colname="c13"/><colspec colnum="14" colname="c14"/><colspec colnum="15" colname="c15"/><colspec colnum="16" colname="c16"/><colspec colnum="17" colname="c17"/><tbody><row><entry>Hours</entry><entry>0,5</entry><entry>1</entry><entry>1,5</entry><entry>2</entry><entry>2,5</entry><entry>3</entry><entry>3,5</entry><entry>4</entry><entry>4,5</entry><entry>5</entry><entry>5,5</entry><entry>6</entry><entry>6,5</entry><entry>7</entry><entry>7,5</entry><entry>8</entry></row><row><entry>A</entry><entry>125</entry><entry>210</entry><entry>295</entry><entry>380</entry><entry>465</entry><entry>550</entry><entry>635</entry><entry>720</entry><entry>805</entry><entry>890</entry><entry>975</entry><entry>1060</entry><entry>1145</entry><entry>1230</entry><entry>1315</entry><entry>1400</entry></row><row><entry>B</entry><entry>145</entry><entry>230</entry><entry>315</entry><entry>400</entry><entry>485</entry><entry>570</entry><entry>655</entry><entry>740</entry><entry>825</entry><entry>910</entry><entry>995</entry><entry>1080</entry><entry>1165</entry><entry>1250</entry><entry>1335</entry><entry>1420</entry></row><row><entry>C</entry><entry>175</entry><entry>175</entry><entry>325</entry><entry>325</entry><entry>475</entry><entry>475</entry><entry>625</entry><entry>625</entry><entry>775</entry><entry>775</entry><entry>925</entry><entry>925</entry><entry>1075</entry><entry>1075</entry><entry>1225</entry><entry>1225</entry></row><row><entry>D</entry><entry>200</entry><entry>200</entry><entry>400</entry><entry>400</entry><entry>600</entry><entry>600</entry><entry>800</entry><entry>800</entry><entry>1000</entry><entry>1000</entry><entry>1200</entry><entry>1200</entry><entry>1400</entry><entry>1400</entry><entry>1600</entry><entry>1600</entry></row></tbody></tgroup></table>Here is a table of the values to be plotted. Important: This is also a stepped graph.</para>
+    </section>
+  </content>
+</document>

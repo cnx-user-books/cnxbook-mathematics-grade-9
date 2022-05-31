@@ -1,0 +1,902 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Number patterns</title>
+  <metadata>
+  <md:content-id>m31253</md:content-id><md:title>Number patterns</md:title>
+  <md:abstract/>
+  <md:uuid>69e998ed-fd68-4e0b-adb4-59c71cc9b049</md:uuid>
+</metadata>
+
+<content>
+    <section id="id11126658">
+      <title>MATHEMATICS</title>
+      <para id="para-id11126658">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12689204">
+      <title>Grade 9</title>
+      <para id="para-id12689204">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4646584">
+      <title>NUMBER PATTERNS, GRAPHS, EQUASIONS, </title>
+      <para id="para-id4646584">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id21237950">
+      <title>STATISTICS AND PROBABILITY</title>
+      <para id="para-id21237950">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16525797">
+      <title>Module 12</title>
+      <para id="para-id16525797">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5534402">
+      <title>NUMBER PATTERNS</title>
+      <para id="id11548769">ACTIVITY 1</para>
+      <para id="id6251170">To use a table to arrange information</para>
+      <para id="id6251174">[LO 2.1, 2.2] </para>
+      <para id="id20950930">1. Alice is making necklaces by using triangular motifs that she places on a wire necklet (as shown in Diagram 1 below). Each motif is made from three black beads, six white beads and six coloured beads. It is important that she has the right number of beads of each colour. She wants to make 50 necklaces with black, white and red beads, 40 with black, white and yellow beads, 40 with black, white and blue beads and 30 with black, white and green beads. </para>
+      <figure id="id21224144">
+        <media id="id21224144_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-cffd.png" id="id21224144__onlineimage" height="200" width="601"/>
+        </media>
+      </figure>
+      <para id="id21276467"/>
+      <para id="id21186707">Question: Calculate how many beads of each colour she has to buy.</para>
+      <para id="id5305617">2. She also combines three of these motifs in a bigger necklace (as shown in Diagram 2 above). The two top motifs in each necklace have the same design as before, but the bottom motif is made of 15 coloured beads only. She makes only half as many of these necklaces in each colour as she makes of the smaller necklaces referred to in Question 1. </para>
+      <para id="id21252184">Question: How many beads of each colour will she need for these necklaces?</para>
+      <para id="id14048375">3. She finds that the bigger necklaces are very popular, so she decides to use bigger motifs, and to combine more motifs in one necklace. The ne<emphasis effect="italics">x</emphasis>t two diagrams show her new plans.</para>
+      <figure id="id11537873">
+        <media id="id11537873_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-0046.png" id="id11537873__onlineimage" height="211" width="633"/>
+        </media>
+      </figure>
+      <para id="id4753962">Alice wants to use four colours in these motifs. Use the diagram above to make your own four-colour design. </para>
+      <para id="id12677660">Question: Repeat the calculation exercises above for these necklaces.</para>
+      <para id="id8779443">4. These triangular motifs can be made larger and larger, of course. Not all of them are suitable for necklaces though! </para>
+      <para id="id6740306">Exercise: Below you see equilateral triangular Motifs 1 to 4. Draw Motifs 6 and 7 in the same sequence.</para>
+      <para id="id11192782">
+        <figure id="id11192786">
+          <media id="id11192786_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 4-d6a4.png" id="id11192786__onlineimage" height="195" width="569"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id12727916">The Motif 3 above has 1 black bead, 3 white beads and si<emphasis effect="italics">x</emphasis> red beads. You will need to refer to it in problem 6 below.</para>
+      <para id="id18551264">5. Data gathering: The beads in the motifs have a diameter of 1 cm each. Thus, the surrounding triangle in Motif 1 in the sequence has a side length of 2 cm. Complete the table below by referring to the triangles above as well as the ones you have drawn. </para>
+      <table id="id20624510" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry>Side length of triangle in centimetres</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>Number of beads per triangle</entry>
+              <entry>3</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Perimeter of triangle</entry>
+              <entry>6</entry>
+              <entry>9</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id18778433">6. Investigation: Alice makes her necklaces by combining triangular motifs as in diagrams 2 and 4. She uses the 10-bead motifs (Motif 3). The smallest necklace has one motif (size 1) and the next necklace has three motifs (size 2) with a triangular gap in the middle. Visualise the next sizes (3, 4, etc) of the necklaces (or draw them) and complete the table below. Try to complete the last column as well.</para>
+      <table id="id11297979" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Size of necklace</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>Number of triangular motifs</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Number of triangular spaces</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Number of beads on each side of triangular motif</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Total number of beads in necklace</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Number of black beads</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Total perimeter of pendant with 1 cm-diameter beads</entry>
+              <entry>9</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id10083065">7. Investigation: Do the same for the next table, if Alice now uses the 15-bead motif that we saw in the very first diagram.</para>
+      <table id="id5801534" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Size of necklace</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>x</entry>
+            </row>
+            <row>
+              <entry>Number of triangular motifs</entry>
+              <entry>1</entry>
+              <entry>3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Number of triangular spaces</entry>
+              <entry>0</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Number of beads on each side of triangular motif</entry>
+              <entry>5</entry>
+              <entry>10</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Total number of beads in necklace</entry>
+              <entry>15</entry>
+              <entry>45</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Number of black beads</entry>
+              <entry>3</entry>
+              <entry>9</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Total perimeter of pendant with 1 cm-diameter beads</entry>
+              <entry>12</entry>
+              <entry>27</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id11209759">Putting information in a table makes it much easier to notice the patterns that the numbers form. That is why tables are very often used to arrange information. You will see many cases where tables are used in mathematics. Use a table whenever you think that it will be helpful when you are working on a problem.</para>
+      <para id="id4874536">ACTIVITY 2</para>
+      <para id="id12073231">To investigate relationships between variables</para>
+      <para id="id12073236">[LO 2.1, 2.6] </para>
+      <para id="id7925695">Mr and Mrs Peters want to hire a caravan for their holiday. They made enquiries about the cost from three caravan hire firms. Now they need to decide which caravan to hire, and for how long. We will help them decide. Here are the verbal descriptions of the details they obtained from the firms:</para>
+      <list id="id18911624" list-type="bulleted">
+        <item>Away–van: Their caravans cost R750 per day.</item>
+        <item>Best Caravans charge a rental fee of R1 200, with a daily charge of R360.</item>
+        <item>Car-a-holiday: They rent out a caravan for R950, with a R540 daily charge.</item>
+      </list>
+      <para id="id10487456">1. Arranging data: Complete the following table from the descriptions above.</para>
+      <table id="id3507538" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry>Number of days:</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+            </row>
+            <row>
+              <entry>Away-van:</entry>
+              <entry>R750</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Best Caravans:</entry>
+              <entry>R1560</entry>
+              <entry>R1920</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Car-a-holiday:</entry>
+              <entry>R1490</entry>
+              <entry>R2030</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id20504567">2. Can you tell from the table which option will be the best depending on the length of the holiday?</para>
+      <para id="id6774281"> Write a short summary of your conclusions.</para>
+      <para id="id10581282">3. This is a flow diagram for the Car-a-holiday prices. Calculate the missing values for the blocks:</para>
+      <figure id="id4768884">
+        <media id="id4768884_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-9bcc.png" id="id4768884__onlineimage" height="154" width="650"/>
+        </media>
+      </figure>
+      <para id="id4647617">4. Make flow diagrams for the other two options.</para>
+      <para id="id4629306">5. Bradley is holidaying in America. He would like to hire a cell phone. He has investigated three different offers. Below are the following: A <emphasis effect="underline">description in words</emphasis> of offer 1, A <emphasis effect="underline">table of values</emphasis> for offer 2 and A <emphasis effect="underline">flow diagram</emphasis> for offer 3. </para>
+      <para id="id15060472">There are spaces for you to complete the other two offers in each case. After you have completed the six, do the next e<emphasis effect="italics">x</emphasis>ercise.</para>
+      <para id="id6711715">Verbal descriptions:</para>
+      <para id="id18856935">Offer 1: “ADVANCED MOBILE! Lowest call cost! Popular handset! $20 when you  sign, plus 60 cents per call!”</para>
+      <para id="id23067383">Offer 2: “GENIE RENTALS</para>
+      <para id="id11369997"> Offer 3: “HI–PRO</para>
+      <para id="id21221119">Tables:</para>
+      <table id="id22932996" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Number of calls:</entry>
+              <entry>10</entry>
+              <entry>20</entry>
+              <entry>30</entry>
+              <entry>40</entry>
+              <entry>50</entry>
+              <entry>60</entry>
+            </row>
+            <row>
+              <entry>Advanced mobile:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Genie rentals:</entry>
+              <entry>$24</entry>
+              <entry>$38</entry>
+              <entry>$52</entry>
+              <entry>$66</entry>
+              <entry>$80</entry>
+              <entry>$940</entry>
+            </row>
+            <row>
+              <entry>Hi–Pro:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id10624106">Flow diagrams:</para>
+      <para id="id10624110"><figure id="id12577458"><media id="id12577458_media" alt=""><image mime-type="image/png" src="../../media/Picture 6-f521.png" id="id12577458__onlineimage" height="456" width="636"/></media></figure>6. Write down which offer Bradley should choose under which circumstances. You don’t know whether he wants to use the phone for two days, two weeks or two months, for example. You also don’t know how many calls he wants to make. </para>
+      <para id="id6223136">7. Now write down which one of the three representations was the most useful to you when you answered question 6. Give complete reasons for your statements.</para>
+      <para id="id9121015">ACTIVITY 3</para>
+      <para id="id14565376">To create a model to explain relationships</para>
+      <para id="id14565380">[LO 2.2, 2.3] </para>
+      <para id="id4397606">Olga likes chocolate-covered raisins. She has been making a list of the contents of the packets that she has been buying. She always buys from the same shop, but sometimes she buys small packets (50g), sometimes medium (100g) and sometimes large (200g) packets.</para>
+      <para id="id8781711">She has made a table of the facts she has discovered.</para>
+      <table id="id12853483" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Packet size</entry>
+              <entry>50g</entry>
+              <entry>100g</entry>
+              <entry>200g</entry>
+            </row>
+            <row>
+              <entry>Average number of raisins</entry>
+              <entry>78</entry>
+              <entry>153</entry>
+              <entry>304</entry>
+            </row>
+            <row>
+              <entry>Cost per packet</entry>
+              <entry>R3,80</entry>
+              <entry>R7,40</entry>
+              <entry>R14,50</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id12845563">Olga contacted the manufacturers and found out from them that part of the price is for the packaging and the other part is for the contents. The packet cost is very similar for the three sizes, and the greatest part of the price is for the raisins. The unit cost of the contents stays the same regardless of the size of the packet. </para>
+      <para id="id11528144">Another interesting fact she found is that the factory controls very carefully that the packets do not contain too few raisins. They aim to have at least 75 in the 50g packet, 150 in the 100g packet and 300 in the 200g packet. To be sure that this happens, they are careful to make the packet of raisins with the same final mass. They also put a few extra raisins in most packets. Olga was very happy to tell them that her figures agreed with their standards.</para>
+      <para id="id6774154">From the given information, find out how much the raisins (excluding the packaging) cost. Give your answer in rand per kilogram.</para>
+    </section>
+    <section id="id12649831">
+      <title>Assessment</title>
+      <table id="id18526075" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry>Patterns, Functions and AlgebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>2.1 investigates, in different ways, a variety of numeric and geometric patterns and relation­ships by representing and generalising them, and by explaining and justifying the rules that generate them (including patterns found in nature and cultural forms and patterns of the learner’s own creation;</entry>
+            </row>
+            <row>
+              <entry>2.2 represents and uses relationships between variables in order to determine input and/or output values in a variety of ways using:</entry>
+            </row>
+            <row>
+              <entry>2.2.1 verbal descriptions;</entry>
+            </row>
+            <row>
+              <entry>2.2.2 flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.2.3 tables;</entry>
+            </row>
+            <row>
+              <entry>2.2.4 formulae and equations;</entry>
+            </row>
+            <row>
+              <entry>2.3 constructs mathematical models that repre­sent, describe and provide solutions to pro­blem situations, showing responsibility to­ward the environment and health of others (including problems within human rights, social, economic, cultural and environmental contexts);</entry>
+            </row>
+            <row>
+              <entry>2.4 solves equations by inspection, trial-and-improvement or algebraic processes (additive and multiplicative inverses, and factorisa­tion), checking the solution by substitution;</entry>
+            </row>
+            <row>
+              <entry>2.5 draws graphs on the Cartesian plane for given equations (in two variables), or deter­mines equations or formulae from given graphs using tables where necessary;</entry>
+            </row>
+            <row>
+              <entry>2.6 determines, analyses and interprets the equivalence of different descriptions of the same relationship or rule presented:</entry>
+            </row>
+            <row>
+              <entry>2.6.1  verbally;</entry>
+            </row>
+            <row>
+              <entry>2.6.2 in flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.6.3 in tables;</entry>
+            </row>
+            <row>
+              <entry>2.6.4 by equations or expressions;</entry>
+            </row>
+            <row>
+              <entry>2.6.5 by graphs on the Cartesian plane in order to select the most useful represen­ta­tion for a given situation;</entry>
+            </row>
+            <row>
+              <entry>2.8 uses the laws of exponents to simplify expressions and solve equations;</entry>
+            </row>
+            <row>
+              <entry>2.9 uses factorisation to simplify algebraic expressions and solve equations.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id5229446">
+      <title>Memorandum</title>
+      <para id="id16818032">Discussion</para>
+      <para id="id5012582">
+        <emphasis effect="bold">Answers:</emphasis>
+      </para>
+      <para id="id9469899"> 1 480 black; 960 white; 300 red; 240 yellow; 240 blue and 180 green</para>
+      <para id="id10568844"> 2 480 black; 960 white; 675 red; 540 yellow; 540 blue and 405 green</para>
+      <para id="id6517233">5.</para>
+      <table id="id10654364" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry>Side length of triangle in centimetres</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>Number of beads per triangle</entry>
+              <entry>3</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>15</entry>
+              <entry>21</entry>
+              <entry>28</entry>
+              <entry>36</entry>
+            </row>
+            <row>
+              <entry>Perimeter of triangle</entry>
+              <entry>6</entry>
+              <entry>9</entry>
+              <entry>12</entry>
+              <entry>15</entry>
+              <entry>18</entry>
+              <entry>21</entry>
+              <entry>24</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id11416883">6.</para>
+      <table id="id11416888" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Size of necklace</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>x</entry>
+            </row>
+            <row>
+              <entry>Number of triangular motifs</entry>
+              <entry>1</entry>
+              <entry>3</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>15</entry>
+              <entry><emphasis effect="italics">x</emphasis>+(<emphasis effect="italics">x</emphasis>–1)+(<emphasis effect="italics">x</emphasis>–2)+ … +1</entry>
+            </row>
+            <row>
+              <entry>Number of triangular spaces</entry>
+              <entry>0</entry>
+              <entry>1</entry>
+              <entry>3</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>(<emphasis effect="italics">x</emphasis>–1)+(<emphasis effect="italics">x</emphasis>–2)+ … +1</entry>
+            </row>
+            <row>
+              <entry>Number of beads on each side of triangular motif</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>12</entry>
+              <entry>16</entry>
+              <entry>20</entry>
+              <entry>4<emphasis effect="italics">x</emphasis></entry>
+            </row>
+            <row>
+              <entry>Total number of beads in necklace</entry>
+              <entry>10</entry>
+              <entry>30</entry>
+              <entry>60</entry>
+              <entry>100</entry>
+              <entry>150</entry>
+              <entry>10{<emphasis effect="italics">x</emphasis>+(<emphasis effect="italics">x</emphasis>–1)+(<emphasis effect="italics">x</emphasis>–2)+ … +1}</entry>
+            </row>
+            <row>
+              <entry>Number of black beads</entry>
+              <entry>1</entry>
+              <entry>3</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>15</entry>
+              <entry>(<emphasis effect="italics">x</emphasis>–1)+(<emphasis effect="italics">x</emphasis>–2)+ … +1</entry>
+            </row>
+            <row>
+              <entry>Total perimeter of pendant with 1cm-diameter beads</entry>
+              <entry>9</entry>
+              <entry>21</entry>
+              <entry>33</entry>
+              <entry>45</entry>
+              <entry>57</entry>
+              <entry>3(4<emphasis effect="italics">x</emphasis>–1)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id18662330">7.</para>
+      <table id="id11734136" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Size of necklace</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>x</entry>
+            </row>
+            <row>
+              <entry>Number of triangular motifs</entry>
+              <entry>1</entry>
+              <entry>3</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>15</entry>
+              <entry><emphasis effect="italics">x</emphasis>+(<emphasis effect="italics">x</emphasis>–1)+(<emphasis effect="italics">x</emphasis>–2)+ … +1</entry>
+            </row>
+            <row>
+              <entry>Number of triangular spaces</entry>
+              <entry>0</entry>
+              <entry>1</entry>
+              <entry>3</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>(<emphasis effect="italics">x</emphasis>–1)+(<emphasis effect="italics">x</emphasis>–2)+ … +1</entry>
+            </row>
+            <row>
+              <entry>Number of beads on each side of triangular motif</entry>
+              <entry>5</entry>
+              <entry>10</entry>
+              <entry>15</entry>
+              <entry>20</entry>
+              <entry>25</entry>
+              <entry>5<emphasis effect="italics">x</emphasis></entry>
+            </row>
+            <row>
+              <entry>Total number of beads in necklace</entry>
+              <entry>15</entry>
+              <entry>45</entry>
+              <entry>90</entry>
+              <entry>150</entry>
+              <entry>225</entry>
+              <entry>15{<emphasis effect="italics">x</emphasis>+(<emphasis effect="italics">x</emphasis>–1)+(<emphasis effect="italics">x</emphasis>–2)+ … +1}</entry>
+            </row>
+            <row>
+              <entry>Number of black beads</entry>
+              <entry>3</entry>
+              <entry>9</entry>
+              <entry>18</entry>
+              <entry>30</entry>
+              <entry>45</entry>
+              <entry>3{<emphasis effect="italics">x</emphasis>+(<emphasis effect="italics">x</emphasis>–1)+(<emphasis effect="italics">x</emphasis>–2)+ … +1}</entry>
+            </row>
+            <row>
+              <entry>Total perimeter of pendant with 1cm-diameter beads</entry>
+              <entry>12</entry>
+              <entry>27</entry>
+              <entry>42</entry>
+              <entry>57</entry>
+              <entry>72</entry>
+              <entry>3(5<emphasis effect="italics">x</emphasis>–1)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id20960206">ACTIVITY 2</para>
+      <para id="id11228225">1.</para>
+      <table id="id11228229" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry>Number of days:</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+            </row>
+            <row>
+              <entry>Away-van:</entry>
+              <entry>R750</entry>
+              <entry>1500</entry>
+              <entry>2250</entry>
+              <entry>3000</entry>
+              <entry>3750</entry>
+              <entry>4500</entry>
+              <entry>5250</entry>
+              <entry>6000</entry>
+              <entry>6750</entry>
+              <entry>7500</entry>
+              <entry>8250</entry>
+            </row>
+            <row>
+              <entry>Best Caravans:</entry>
+              <entry>R1560</entry>
+              <entry>R1920</entry>
+              <entry>2280</entry>
+              <entry>2640</entry>
+              <entry>3000</entry>
+              <entry>3360</entry>
+              <entry>3720</entry>
+              <entry>4080</entry>
+              <entry>4440</entry>
+              <entry>4800</entry>
+              <entry>5160</entry>
+            </row>
+            <row>
+              <entry>Car-a-holiday:</entry>
+              <entry>R1490</entry>
+              <entry>R2030</entry>
+              <entry>2570</entry>
+              <entry>3110</entry>
+              <entry>3650</entry>
+              <entry>4190</entry>
+              <entry>4730</entry>
+              <entry>5270</entry>
+              <entry>5810</entry>
+              <entry>6350</entry>
+              <entry>6890</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id11141930">If they want to go for only three days then Away-van is the cheapest. Best Caravans is the cheapest for holidays of from 4 to 11 days. Car-a-holiday is never the cheapest option, even if the holiday is longer than11 days.</para>
+      <para id="id17086013">3. Input = 9; output = 540 × 5 + 950 = 3 650</para>
+      <para id="id18925512">4.</para>
+      <figure id="id12114020">
+        <media id="id12114020_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8.png" id="id12114020__onlineimage" height="226" width="544"/>
+        </media>
+      </figure>
+      <para id="id8326925">5. Bradley and his phones:</para>
+      <list id="id11181029" list-type="bulleted">
+        <item>Offer 1: “ADVANCED MOBILE! Lowest call cost! Popular handset! $20 when you sign, plus 60 cents per call!”</item>
+        <item>Offer 2: “GENIE RENTALS has a basic charge of only $10, and calls cost $1,40 each.”</item>
+        <item>Offer 3: “HI-PRO for mobile hire! We charge only $1,00 per call! Sign up for $30.”</item>
+      </list>
+      <para id="id4966393">Tables:</para>
+      <table id="id20856798" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Number of calls:</entry>
+              <entry>10</entry>
+              <entry>20</entry>
+              <entry>30</entry>
+              <entry>40</entry>
+              <entry>50</entry>
+              <entry>60</entry>
+            </row>
+            <row>
+              <entry>Advanced mobile:</entry>
+              <entry>$26</entry>
+              <entry>$32</entry>
+              <entry>$38</entry>
+              <entry>$44</entry>
+              <entry>$50</entry>
+              <entry>$56</entry>
+            </row>
+            <row>
+              <entry>Genie rentals: </entry>
+              <entry>$24</entry>
+              <entry>$38</entry>
+              <entry>$52</entry>
+              <entry>$66</entry>
+              <entry>$80</entry>
+              <entry>$94</entry>
+            </row>
+            <row>
+              <entry>Hi-Pro:</entry>
+              <entry>$40</entry>
+              <entry>$50</entry>
+              <entry>$60</entry>
+              <entry>$70</entry>
+              <entry>$80</entry>
+              <entry>$90</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id12662391" list-type="bulleted">
+        <item>Flow diagrams:</item>
+        <item>Advanced mobile:</item>
+      </list>
+      <figure id="id5777174">
+        <media id="id5777174_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-b091.png" id="id5777174__onlineimage" height="507" width="644"/>
+        </media>
+      </figure>
+      <para id="id5725628"/>
+      <para id="id5725632">6. Genie Rentals is the cheapest as long as he won’t want to make more than about 10 calls. Hi-Pro is never the cheapest. He is likely to get the best deal from Advanced Mobile if he wants to stay for a while.</para>
+      <para id="id4824140">7. It is easier to compare costs from the table. A graph would be easier still.</para>
+      <para id="id5471901">ACTIVITY 3</para>
+      <list id="id9222177" list-type="bulleted">
+        <item>From the table, the unit cost of raisins plus packaging varies between 4,77 cents and 4,87 cents.</item>
+        <item>As the packaging is supposed to be very cheap, the raisins will be somewhat less than R73 per kilogram.</item>
+      </list>
+      <para id="id22027105">TEST</para>
+      <list id="id12105909" list-type="bulleted">
+        <item>This unit has no test.</item>
+      </list>
+    </section>
+  </content>
+</document>

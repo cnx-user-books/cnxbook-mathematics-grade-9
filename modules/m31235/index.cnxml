@@ -1,0 +1,266 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Similarity</title>
+  <metadata>
+  <md:content-id>m31235</md:content-id><md:title>Similarity</md:title>
+  <md:abstract/>
+  <md:uuid>e1f41412-4580-458c-88b8-3370efd95aae</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165949175492">
+      <title>MATHEMATICS</title>
+      <para id="para-id1165949175492">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165939556852">
+      <title>Grade 9</title>
+      <para id="para-id1165939556852">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165947851493">
+      <title>ALGEBRA AND GEOMETRY</title>
+      <para id="para-id1165947851493">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165948206555">
+      <title>Module 10</title>
+      <para id="para-id1165948206555">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165937117365">
+      <title>SIMILARITY</title>
+      <para id="id1165948255282">ACTIVITY 1: </para>
+      <para id="id1165947992610">To practically investigate the conditions for similarity</para>
+      <para id="id1165948172848">1. The pentagons ABDEF and LCMRK are given (A-6). LCMRK is an enlargement of ABDEF. What is the scale factor by which ABDEF were enlarged to give LCMRK?</para>
+      <para id="id1165947990653">2. Write down the ratios between the corresponding pairs of sides of ABDEF and LCMRK.</para>
+      <para id="id1165939675439">3. Write down the relationship between the corresponding pairs of angles of the two figures.</para>
+      <para id="id1165948232588">4. These two figures are not congruent. What do we call them?</para>
+      <para id="id1165937381591">5. Name as many as possible e<emphasis effect="italics">x</emphasis>amples of this phenomenon in real life.</para>
+      <para id="id1165939681677">Similar figures:</para>
+      <list id="id1165948992818" list-type="bulleted">
+        <item>The pentagons in the activity above are similar. They have the same form, but do not have the same size. </item>
+        <item>Their corresponding angles have the same magnitudes. </item>
+        <item>Their corresponding sides are in the same ratio.</item>
+      </list>
+      <para id="id1165939687753">Therefore 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>LK</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>AF</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>KR</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>FE</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>MR</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>DE</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CM</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BD</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CL</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BA</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "LK"}  over  { ital "AF"} } = {  { ital "KR"}  over  { ital "FE"} } = {  { ital "MR"}  over  { ital "DE"} } = {  { ital "CM"}  over  { ital "BD"} } = {  { ital "CL"}  over  { ital "BA"} } = {  {3}  over  {1} } } {}</m:annotation></m:semantics></m:math> This constant ratio also is the scale factor of the enlargement.</para>
+      <list id="id1165948280468" list-type="bulleted">
+        <item>We say that ABDEF  LCMRK. Note that the order of the letters is in the same order of the angles which are equal and the sides which are in proportion. (The symbol for similarity is )</item>
+      </list>
+      <para id="id1165947125974">Homework assignment</para>
+      <para id="id1165939679821">1. Measure the lengths of the sides and the magnitudes of the angles in the following figures (A-7) and decide whether they are similar or not. If the two figures are not similar, give a reason why they are not similar.</para>
+      <para id="id1165939420948">2. If the corresponding a<emphasis effect="bold">ngles </emphasis>of two quadrilaterals are <emphasis effect="bold">equ</emphasis>a<emphasis effect="bold">l</emphasis>, are they <emphasis effect="bold">necess</emphasis>a<emphasis effect="bold">rily</emphasis> also <emphasis effect="bold">simil</emphasis>a<emphasis effect="bold">r</emphasis>?</para>
+      <para id="id1165946852003">3. If corresponding <emphasis effect="bold">sides</emphasis> of two quadrilaterals are <emphasis effect="bold">proportion</emphasis>a<emphasis effect="bold">l</emphasis>, are they <emphasis effect="bold">necess</emphasis>a<emphasis effect="bold">rily </emphasis>also <emphasis effect="bold">simil</emphasis>a<emphasis effect="bold">r</emphasis>?</para>
+      <list id="id1165946631833" list-type="bulleted">
+        <item>In the homework assignment above you saw that, for quadrilaterals to be similar, both conditions of similarity must be satisfied. In other words, the corresponding angles must be equal and the corresponding sides must be proportional. Do the same conditions also apply to triangles?</item>
+      </list>
+      <para id="id1165947952545">ACTIVITY 2:</para>
+      <para id="id1165948270849">To practically investigate the conditions for similarity in triangles</para>
+      <para id="id1165948473243">[LO 3.5] </para>
+      <figure id="id1165939397320">
+        <media id="id1165939397320_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-22a5.png" id="id1165939397320__onlineimage" height="222" width="513"/>
+        </media>
+      </figure>
+      <para id="id1165937372864">Construct ΔABC and ΔDEF. Calculate the magnitudes A and E.</para>
+      <para id="id1165948484296">1.2 Are the corresponding angles of the two triangles equal?</para>
+      <para id="id1165947856516">1.3 Complete the following:</para>
+      <para id="id1165947924594"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>AB</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ED</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "AB"}  over  { ital "ED"} } ={}} {}</m:annotation></m:semantics></m:math>....................</para>
+      <para id="id1165939800166"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BC</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>DF</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "BC"}  over  { ital "DF"} } ={}} {}</m:annotation></m:semantics></m:math>....................</para>
+      <para id="id1165948209483"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>AC</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>EF</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "AC"}  over  { ital "EF"} } ={}} {}</m:annotation></m:semantics></m:math>....................</para>
+      <para id="id1165948292560">1.4 Are the corresponding sides of the two triangles proportional?</para>
+      <para id="id1165948415041">1.5 Are the two triangles similar?</para>
+      <para id="id1165939674859">1.6 Complete the following: If the corresponding angles of two triangles are equal, their corresponding sides are necessarily also always ......................... This means that, if the corresponding angles of triangles are equal the triangles are ......................... </para>
+      <para id="id1165939607178">2.1 Construct the following two triangles:</para>
+      <figure id="id1165946266160">
+        <media id="id1165946266160_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-2aec.png" id="id1165946266160__onlineimage" height="176" width="513"/>
+        </media>
+      </figure>
+      <para id="id1165949370072">2.2 Are the sides of the two triangles proportional? </para>
+      <para id="id1165946371726">2.3 Measure all the angles of ΔABC and ΔMOR. What do you find?</para>
+      <para id="id1165937125150">2.4 Is ΔABC  ΔMOR?</para>
+      <para id="id1165948282045">2.5 Complete the following: If the corresponding sides of two triangles are proportional then their corresponding ..................................... are equal. That therefore means that, if the corresponding sides of two triangles are proportional, the triangles are.....................................</para>
+      <list id="id1165946553454" list-type="bulleted">
+        <item>We therefore see that with triangles only one of the conditions of similarity have to be present for triangles to be similar. </item>
+        <item>That means that, if the <emphasis effect="bold">three </emphasis>a<emphasis effect="bold">ngles </emphasis>of <emphasis effect="bold">one tri</emphasis>a<emphasis effect="bold">ngle</emphasis> are equal to the <emphasis effect="bold">three </emphasis>a<emphasis effect="bold">ngles</emphasis> of the <emphasis effect="bold">other tri</emphasis>a<emphasis effect="bold">ngle</emphasis>, then the corresponding sides of the two triangles are proportional and the triangles are therefore also similar.</item>
+        <item>It also means that, if the <emphasis effect="bold">corresponding sides</emphasis> of the triangles are <emphasis effect="bold">proportion</emphasis>a<emphasis effect="bold">l</emphasis>, then the corresponding angles of the two triangles are equal and the triangles are therefore also similar.</item>
+      </list>
+      <para id="id1165947814338">Homework assignment</para>
+      <para id="id1165939452329">1. The following pairs of triangles are given. State whether they are similar or not and give reasons for you answer. If the two triangles are similar, calculate the lengths of the sides not given and also the magnitudes of the angles not given in the figure.</para>
+      <para id="id1165946626360">Example:</para>
+      <figure id="id1165949280244">
+        <media id="id1165949280244_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-aa20.png" id="id1165949280244__onlineimage" height="160" width="466"/>
+        </media>
+      </figure>
+      <para id="id1165949374031">C = F = 60°Δ ABC  ΔEDF ()</para>
+      <para id="id1165946636526">AB = 4 cmAC = 5 cm (pyth)EF = 10 cm</para>
+      <para id="id1165946303312">1.1. </para>
+      <figure id="id1165939763178">
+        <media id="id1165939763178_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-f59e.png" id="id1165939763178__onlineimage" height="177" width="488"/>
+        </media>
+      </figure>
+      <para id="id1165948169470"/>
+      <para id="id1165948485617">1.2</para>
+      <figure id="id1165948210734">
+        <media id="id1165948210734_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-a658.png" id="id1165948210734__onlineimage" height="192" width="453"/>
+        </media>
+      </figure>
+      <para id="id1165939691033">1.3. </para>
+      <figure id="id1165948411141">
+        <media id="id1165948411141_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6-17a5.png" id="id1165948411141__onlineimage" height="196" width="499"/>
+        </media>
+      </figure>
+      <para id="id1165939687811">1.4</para>
+      <figure id="id1165939592829">
+        <media id="id1165939592829_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics7-892a.png" id="id1165939592829__onlineimage" height="192" width="453"/>
+        </media>
+      </figure>
+      <para id="id1165946854638">2. </para>
+      <para id="id1165947986525">
+        <figure id="id1165949333678">
+          <media id="id1165949333678_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics8-b22f.png" id="id1165949333678__onlineimage" height="232" width="297"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1165937621416">2.1 Complete the following:</para>
+      <para id="id1165947875192">In ΔAOB and ΔDOE:</para>
+      <para id="id1165949191392"><emphasis effect="italics"> Re</emphasis>a<emphasis effect="italics">son</emphasis></para>
+      <para id="id1165947886388">.......... = .......... (...........................................................................)</para>
+      <para id="id1165947928061">.......... = .......... (...........................................................................)</para>
+      <para id="id1165947958961">Δ.............. .............. ( )</para>
+      <para id="id1165946659135">2.2 Now calculate the lengths of the sides not given in the figure.</para>
+      <para id="id1165939692730"/>
+      <para id="id1165939682613"/>
+      <para id="id1165939764860"/>
+      <para id="id1165946905262">3.</para>
+      <para id="id1165937517223">
+        <figure id="id1165939677965">
+          <media id="id1165939677965_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics9-bcfd.png" id="id1165939677965__onlineimage" height="296" width="395"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1165948441161">3.1 Complete the following:</para>
+      <para id="id1165948363318">In Δ.......... and Δ.......... </para>
+      <para id="id1165939476285">.......... = .......... (...........................................................................)</para>
+      <para id="id1165949218407">.......... = .......... (...........................................................................)</para>
+      <para id="id1165939678429">Δ.............. .............. ( )</para>
+      <para id="id1165946618964">3.2 Calculate the lengths of the following:</para>
+      <para id="id1165937553513">3.2.1 HE</para>
+      <para id="id1165937128771">3.2.2 EG</para>
+      <para id="id1165937378975">3.2.3 FJ</para>
+      <para id="id1165948484787">4. The height of a high vertical object can be determined by measuring the length of the shadow of a stick of known length and the shadow of the object. The following figures give the measurements which were made.</para>
+      <para id="id1165948013835">
+        <figure id="id1165947803350">
+          <media id="id1165947803350_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics10-bd33.png" id="id1165947803350__onlineimage" height="208" width="505"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1165939452158">Determine the length of the flagpole.</para>
+      <para id="id1165939692647"/>
+      <para id="id1165949151632">ASSESSMENT TASK: </para>
+      <para id="id1165939682257">To use similarity to calculate the height of an object:</para>
+      <list id="id1165937535119" list-type="bulleted">
+        <item>Work together in pairs.</item>
+      </list>
+      <para id="id1165939687695">1. The following are needed:</para>
+      <list id="id1165948410275" list-type="bulleted">
+        <item>A measuring tape of at least 5 m</item>
+        <item>A mirror</item>
+        <item>A ruler</item>
+        <item>A Koki pen</item>
+      </list>
+      <para id="id1165948227763">2. You do the following:</para>
+      <list id="id1165948046870" list-type="bulleted">
+        <item>Look for two high vertical objects on the school grounds; for e<emphasis effect="italics">x</emphasis>ample a netball pole, a lamp pole, rugby poles or a flagpole. Look for objects of which the heights are normally difficult to measure using normal methods.</item>
+        <item>Draw two thin lines on the mirror using the Koki pen so that the lines are perpendicular to each other.</item>
+        <item>Place the mirror a distance from the object on level ground. </item>
+        <item>One person should then step back and look in the mirror and change his / her position until the top of the object is precisely on the point of intersection of the two lines in the mirror.</item>
+      </list>
+      <para id="id1165948435129">3. Measure the following:</para>
+      <list id="id1165948394946" list-type="bulleted">
+        <item>the height of the eyes above the ground of the person who looked in the mirror;</item>
+        <item>the distance between the person who looked in the mirror and the point of intersection of the lines in the mirror’</item>
+        <item>the distance between the object and the point of intersection of the lines in the mirror.</item>
+      </list>
+      <para id="id1165947825983">Results:</para>
+      <para id="id1165947865827">1. Copy the table on folio paper and complete it: </para>
+      <table id="id1165949175798" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>The object of which the height is measured</entry>
+              <entry>The height of the eyes of the person above the ground.</entry>
+              <entry>Distance between the person and the point of intersection of the lines in the mirror</entry>
+              <entry>Distance between the point of intersection of the lines in the mirror and the object</entry>
+              <entry>Calculate the height of the object correct to the nearest cm</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165948388119">2. </para>
+      <para id="id1165946958028">PKSLV</para>
+      <para id="id1165949346048">In the sketch PK is the height of the eyes of the person, S is the position of the mirror and VL is the height of the object, which is measured. Explain why ΔPKS  ΔVLS.</para>
+      <para id="id1165948452699">3. In this task the measurements can be inaccurate. Explain which mistakes could have been made, which could influence the accuracy of the height of the object measured.</para>
+    </section>
+    <section id="id1165948314956">
+      <title>Assessment</title>
+      <table id="id1165947858613" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 3</entry>
+            </row>
+            <row>
+              <entry>Space and Shape (Geometry)The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this when the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>3.1 recognises, visualises and names geometric figures and solids in natural and cultural forms and geometric settings, including:3.1.1 regular and irregular polygons and polyhedra;3.1.2 spheres;3.1.3 cylinders;3.2 in contexts that include those that may be used to build awareness of social, cultural and environmental issues, describes the interrelationships of the properties of geometric figures and solids with justification, including:3.2.1 congruence and straight line geometry;3.3 uses geometry of straight lines and triangles to solve problems and to justify relationships in geometric figures;3.4 draws and/or constructs geometric figures and makes models of solids in order to investigate and compare their properties and model situations in the environment;</entry>
+            </row>
+            <row>
+              <entry>3.5 uses transformations, congruence and similarity to investigate, describe and justify (alone and/or as a member of a group or team) properties of geometric figures and solids, including tests for similarity and congruence of triangles.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

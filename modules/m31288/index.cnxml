@@ -1,0 +1,374 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Understanding the context and vocabulary of probability</title>
+  <metadata>
+  <md:content-id>m31288</md:content-id><md:title>Understanding the context and vocabulary of probability</md:title>
+  <md:abstract/>
+  <md:uuid>ea68334b-a1b4-43ca-ab87-7a9308afbb0e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168735783115">
+      <title>MATHEMATICS</title>
+      <para id="para-id1168735783115">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168728022461">
+      <title>Grade 9</title>
+      <para id="para-id1168728022461">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168726894236">
+      <title>NUMBER PATTERNS</title>
+      <para id="para-id1168726894236">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168735565998">
+      <title>GRAPHICAL REPRESENTATIONS</title>
+      <para id="para-id1168735565998">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168726861179">
+      <title>EQUATIONS STATISTICS</title>
+      <para id="para-id1168726861179">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168735569872">
+      <title>PROBABILITY THEORY</title>
+      <para id="para-id1168735569872">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168736030911">
+      <title>Module 20</title>
+      <para id="para-id1168736030911">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168728035502">
+      <title>UNDERSTANDING THE CONTEXT AND VOCABULARY OF PROBABILITY</title>
+      <para id="id1168735949178">What is gambling all about?</para>
+      <para id="id1168735571276">ACTIVITY 1</para>
+      <para id="id1168726903923">To understand the context and vocabulary of probability</para>
+      <para id="id1168730448334">[LO 11.2, 5.1, 5.6]</para>
+      <para id="id1168730389052">1 The following very ordinary statements all deal with probability – but they are not all perfectly accurate. With your partner, study them and decide what is left unsaid, or what information you need to be able to evaluate them. Write down the results of your discussion. </para>
+      <para id="id1168726894807"><emphasis effect="italics">For example</emphasis>: “The sun will come up tomorrow morning” really means: “If I go by the fact that the sun has come up every morning of my life, I am very certain that it will happen again tomorrow morning.”</para>
+      <para id="id1168727995870">1.1 If I toss a coin, there is a 50:50 chance that it will land tails up.</para>
+      <para id="id1168730427192">1.2 Kevin is certain to phone me tonight.</para>
+      <para id="id1168726869906">1.3 It is virtually impossible to win the lottery.</para>
+      <para id="id1168730405977">1.4 If you have a positive HIV test, then you will die of AIDS.</para>
+      <para id="id1168727964783">1.5 You are more likely to die of a spider-bite than of a lightning strike.</para>
+      <para id="id1168726863910">1.6 If you are told that every raffle ticket has two numbers, you have a double chance to win.</para>
+      <para id="id1168730446390">1.7 If you don’t play the Lotto, you are certain not to win.</para>
+      <para id="id1168727911178">1.8 In a room of 24 people, you are likely to find two people with the same birthday.</para>
+      <para id="id1168726862462">1.9 There is a 25% chance of rain tomorrow.</para>
+      <para id="id1168735989142">1.10 You are as likely to get a three as a four when you throw a die.</para>
+      <list id="id1168726857924" list-type="bulleted">
+        <item>Check the quality of your answers:</item>
+      </list>
+      <para id="id1168726869692">2 Refer to the following scale</para>
+      <figure id="id1168728007424">
+        <media id="id1168728007424_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 47.png" id="id1168728007424__onlineimage" height="73" width="633"/>
+        </media>
+      </figure>
+      <list id="id1168726870651" list-type="bulleted">
+        <item>The likelihood of something happening must lie somewhere along this line of probabilities. Nothing can be less likely than 0%, and nothing can be more likely than 100%. If you throw an ordinary six-sided die, then it is <emphasis effect="italics">certain</emphasis> (meaning 100% on the above scale) that the number it shows will be either 1, 2, 3, 4, 5 or 6. It is impossible (0%) that it will show a 7. We can’t always be sure exactly where a certain probability lies, but in some cases the probability can be worked out exactly.</item>
+      </list>
+      <list id="id1168735719386" list-type="bulleted">
+        <item>Write down at which percentage of the scale above each of the following statements falls; afterwards discuss your answers with your partner.</item>
+      </list>
+      <para id="id1168726863323">2.1 I will throw a six with an ordinary die.</para>
+      <para id="id1168735667526">2.2 If you pick a Smartie with your eyes closed, it will be a red one.</para>
+      <para id="id1168726684692">2.3 I will visit a friend next weekend.</para>
+      <para id="id1168726895522">2.4 The numbers 1, 2, 3, 4, 5 and 6 are equally likely from throwing a die.</para>
+      <para id="id1168726717170">2.5 I will meet the president of South Africa someday.</para>
+      <para id="id1168726881018">2.6 I will stay the same height for the next year.</para>
+      <para id="id1168736065158">2.7 I will get a cold next winter.</para>
+      <para id="id1168735610499">2.8 I will be the president of South Africa someday.</para>
+      <list id="id1168726898707" list-type="bulleted">
+        <item>How was the quality of my work now?</item>
+      </list>
+      <list id="id1168728055464" list-type="bulleted">
+        <item>Here is the same scale with other values:</item>
+      </list>
+      <para id="id1168726894205">
+        <figure id="id1168735952673">
+          <media id="id1168735952673_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-3fb9.png" id="id1168735952673__onlineimage" height="107" width="634"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id1168726862925" list-type="bulleted">
+        <item>These same probabilities are often written as a simplified fraction. Note that the line goes from 0 (impossible) to 1 (certain). We can’t have probabilities that are greater than 1 – nothing can be more likely than absolutely certain! In other words, these probabilities can’t be fractions with a larger numerator than denominator.</item>
+      </list>
+      <list id="id1168726806082" list-type="bulleted">
+        <item>Let’s look at the die again to make it clear how it works. The dice can show one of six numbers, but the chance that it will be a six is only one out of six chances. Look at it this way: if six friends throw one dice, and each chooses a different number from 1 to 6, then it is certain that one will be right! So, each of them has only 1 of the 6 chances to be right. The fraction (the probability) is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {6} } } {}</m:annotation></m:semantics></m:math>, which lies between 10% and 20% on the scale. </item>
+      </list>
+      <list id="id1168735957797" list-type="bulleted">
+        <item>We call the throwing of a dice (or a similar activity) an <emphasis effect="italics">e</emphasis><emphasis effect="italics">x</emphasis><emphasis effect="italics">periment</emphasis>. The result when you throw the dice is called an <emphasis effect="italics">outcome</emphasis>. If you are looking for, say, a three and you get a three, then this is called a <emphasis effect="italics">successful outcome</emphasis>. With an ordinary dice, there are six <emphasis effect="italics">possible outcomes</emphasis>. Now we can define the probability of something happening as:</item>
+      </list>
+      <para id="id1168728067437"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>number</m:mtext></m:mrow></m:mstyle><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>of</m:mtext></m:mrow></m:mstyle><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>successful</m:mtext></m:mrow></m:mstyle><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>outcomes</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>number</m:mtext></m:mrow></m:mstyle><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>of</m:mtext></m:mrow></m:mstyle><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>possible</m:mtext></m:mrow></m:mstyle><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>outcomes</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P= {  { ital "number"` ital "of"` ital "successful"` ital "outcomes"}  over  { ital "number"` ital "of"` ital "possible"` ital "outcomes"} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1168735625443"/>
+      <para id="id1168735901180">ACTIVITY 2</para>
+      <para id="id1168726895092">To calculate probabilities in certain defined conte<emphasis effect="italics">x</emphasis>ts</para>
+      <para id="id1168730355075">[LO 1.2, 1.4, 1.7, 5.4, 5.6]</para>
+      <para id="id1168735775551">Simple experiments</para>
+      <para id="id1168735726744">1 There are 12 balls in a bag: 3 blue balls, 5 green balls, 3 white balls and a red ball.</para>
+      <list id="id1168730403501" list-type="bulleted">
+        <item>If you take one out without looking, then the chance that it will be green is 5  12. </item>
+        <item>It is correct to write this probability as: <emphasis effect="italics">P</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"12"} } } {}</m:annotation></m:semantics></m:math>; but it can also be written as a decimal fraction: <emphasis effect="italics">P</emphasis> = 0,417. (Decimal fractions are often used as they make it easier to compare probabilities.) </item>
+        <item>The probability of taking out a white ball is 0,25. What is the probability of taking out a ball that is either blue or white? <emphasis effect="italics">P</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>12</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>6</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0,5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3+3}  over  {"12"} } = {  {6}  over  {"12"} } = {  {1}  over  {2} } =0,5} {}</m:annotation></m:semantics></m:math>.</item>
+      </list>
+      <para id="id1168728007309"/>
+      <para id="id1168727827089">1.1 Calculate the probability of taking out a ball that is either green or blue.</para>
+      <para id="id1168730430464">1.2 What is the probability of taking out a yellow ball? </para>
+      <para id="id1168727866041">2 You throw an ordinary die. Calculate the probability of your throwing:</para>
+      <para id="id1168726684679">2.1 a two </para>
+      <para id="id1168730143715">2.2 an odd number </para>
+      <para id="id1168735630730">2.3 a number bigger than two.</para>
+      <para id="id1168736030495">Compound experiments.</para>
+      <para id="id1168735595114">3 Consider a coin that is tossed: it can land with either heads or tails up.</para>
+      <list id="id1168736046102" list-type="bulleted">
+        <item>The possibility of getting heads is exactly the same as getting tails, namely 0,5.</item>
+        <item>But, if you toss a coin once and then once more, how likely is it that you will get two tails in a row?</item>
+      </list>
+      <para id="id1168726595732">First we have to find out what the total number of outcomes can possibly be. We could get (a) heads followed by heads, or (b) heads followed by tails; or we could get (c) tails followed by tails, or (d) tails followed by heads. </para>
+      <para id="id1168726882698">The total number of outcomes is four. Getting two tails in a row happens only once of the four outcomes. Therefore its probability is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math> or 0,25.</para>
+      <para id="id1168730419814">A question for you:</para>
+      <para id="id1168735783750">3.1 How likely is it that you will toss two <emphasis effect="italics">different</emphasis> sides of the coin in a row?</para>
+      <para id="id1168735794293">4 Take the bag of balls as another example: </para>
+      <list id="id1168736031750" list-type="bulleted">
+        <item>This time it has four balls – 1 each of red (R), green (G), blue (B) and yellow (Y).</item>
+      </list>
+      <list id="id1168735640630" list-type="bulleted">
+        <item>You draw a ball out, make a note of its colour and then put it back and draw again.</item>
+        <item>An example: You draw red followed by yellow. This can be written as RY.</item>
+      </list>
+      <list id="id1168735851255" list-type="bulleted">
+        <item>If you do this, what is the likelihood that you will draw a blue ball both times?</item>
+      </list>
+      <list id="id1168726866690" list-type="bulleted">
+        <item>First determine the total number of outcomes:</item>
+      </list>
+      <list id="id1168726809995" list-type="bulleted">
+        <item>RR ; RG ; RB ; RY if the first ball was red.</item>
+        <item>GR ; GG ; GB ; GY if the first ball was green.</item>
+        <item>BR ; BG ; BB ; BY if the first ball was blue.</item>
+        <item>YR ; YG ; YB ; YY if the first ball was yellow.</item>
+      </list>
+      <para id="id1168736063597">4.1 Draw the tree diagram for this problem.</para>
+      <list id="id1168735832435" list-type="bulleted">
+        <item>This shows that the total number of outcomes is 16! Of these outcomes, only one is BB, so our probability is 116 = 0,063. Calculate the probability that you will get</item>
+      </list>
+      <para id="id1168726864512">4.2 two balls of the same colour.</para>
+      <para id="id1168736052806">4.3  two balls of different colours.</para>
+      <para id="id1168735707174">4.4 at least one yellow ball.</para>
+      <para id="id1168726787380">4.5 a blue ball on the second draw.</para>
+      <para id="id1168730118062">4.6 a white ball.</para>
+      <para id="id1168730384884">4.7 no red balls.</para>
+      <para id="id1168735686222">ACTIVITY 3</para>
+      <para id="id1168735679798">To realise that knowledge about probabilities is vital for life decisions</para>
+      <para id="id1168735962945">[LO 5.1, 5.5]</para>
+      <para id="id1168735937305">RISKS</para>
+      <para id="id1168730253998">In life we often take certain risks – in fact, life is full of risks. We can’t avoid taking risks, but if we know how big the risks are, then we can avoid the bad ones. The study of risks is very difficult, but we can make some simple, wise choices if we understand the basics.</para>
+      <para id="id1168726799957">Let’s look at some risks everyone is exposed to. This is only a small number of many, many daily risks.</para>
+      <para id="id1168726899456">1. Radiation can cause cancer. If all the little bits of radiation you are exposed to from day to day add up to enough, you have a greater <emphasis effect="italics">risk</emphasis> of getting cancer. Where does radiation come from? </para>
+      <list id="id1168730435278" list-type="bulleted">
+        <item>There is natural radiation – it is all around us – from space and from the earth. Where you live makes a big difference. Radon is a radioactive gas that seeps out of rocks and gets trapped in houses. If you want to know how big your exposure is, then the radon in your house can be tested. Making sure that stale air in a house gets removed, is a good way to get rid of radon, even if you don’t know how much there was</item>
+        <item>Weapons are another source of radiation – think of the atom bombs dropped on Japan at the end of the Second World War. Many people died then from the explosion itself, and many died from the radiation a little later – but even now people who were e<emphasis effect="italics">x</emphasis>posed to the radiation are getting cancer</item>
+        <item>Accidents at nuclear power stations usually cause some radiation to be emitted. People who come into contact with radiation in such an accident, are at risk of dying or getting cancer later.</item>
+        <item>Ordinary medical <emphasis effect="italics">x-</emphasis>rays do not add a great deal to the radiation you are e<emphasis effect="italics">x</emphasis>posed to. But it is sensible not to have <emphasis effect="italics">x-</emphasis>rays for little reason, or too often. Just after <emphasis effect="italics">x-</emphasis>rays were discovered, they were a great novelty and <emphasis effect="italics">x-</emphasis>rays were taken just for the fun of it, or for trivial reasons. Now we are horrified at the thought that people could have been so careless – but they did not know any better.</item>
+      </list>
+      <para id="id1168726799701">2 Travel is a great source of risk. Accidents can, and do, happen frequently. But the risk varies greatly with the type of transport you choose. Passenger aircraft are very safe, while personal motorcars are much more risky. The way these risks are usually calculated is to divide the number of people dying in a certain period by the total number of kilometres each person travelled, times the total number of people travelling. This ratio is called deaths per person-kilometre. This number is higher for passenger cars than for passenger aircraft, that is why we say that travelling by air is safer than travelling by car.</para>
+      <list id="id1168735955987" list-type="bulleted">
+        <item>Many people believe that air travel is very dangerous. One of the reasons for this is that an aircraft accident can cause many deaths, but normally a car accident claims few lives. But one has to remember that there are few air accidents, but people die in car crashes daily. This is why the deaths per person-kilometre is a good way to compare them. By the way, bikers on motorbikes even more unsafe than motorists.</item>
+      </list>
+      <list id="id1168726796690" list-type="bulleted">
+        <item>If you want to have your car insured, then the insurance company takes these figures very seriously. They also know that people in certain age groups are more at risk, and that is why they have higher premiums for young males than for old ladies.</item>
+      </list>
+      <para id="id1168735692365">3 We also run a daily risk of getting sick. That is why it is sensible to protect our bodies and be aware of the ways to avoid being exposed to disease germs. For instance, people who touch their faces or food without making sure that their hands are clean after touching things like door handles, etc. that sick people may have been in contact with, are at greater risk of getting ailments like colds and flu.</para>
+      <para id="id1168735591753">4 People who often breathe in the second-hand cigarette smoke of others, run a significant risk of getting lung cancer or other lung diseases, especially if they are also often exposed to other polluted air.</para>
+      <list id="id1168735682688" list-type="bulleted">
+        <item>You will certainly be able to add to this list of risks. In small groups, list as many other significant risks that your environment exposes you to.</item>
+      </list>
+      <para id="id1168735939559">UNCERTAINTY</para>
+      <para id="id1168735688224">When a patient is tested for a disease, the <emphasis effect="italics">tests</emphasis> may be unreliable. This means that if, for example, the test is negative then there might still be a chance that you <emphasis effect="italics">have</emphasis> the disease, and if the test is positive, there might be a chance that they <emphasis effect="italics">don’t</emphasis> have the disease. </para>
+      <para id="id1168726798385">This is the reason why, for many serious diseases, a test is repeated after a while to see whether the result stays the same.</para>
+      <para id="id1168735683137">GAMBLING ODDS</para>
+      <para id="id1168735682833">We have seen that if you throw a die you have 1 chance in 6 of choosing the correct number. If you throw two dice ( a black one and a red one) and guess a number between 2 and 12, how likely are you to be correct?</para>
+      <para id="id1168726779435">If you guessed 12, then there is only 1 chance in 36 (P = 0,028) to be right. But if you said 3, then you have 2 chan­ces out of 36 (P = 0,56) of getting it right, namely a 1 on the black die and a 2 on the red die OR the other way round. If you wisely guess 7, then you have 6 chances out of 36 (P = 0,167).</para>
+      <para id="id1168726818339">In the Lotto, it has been calculated that you have 1 chance in nearly 14 million of getting all six numbers correct if you guess once. This is a very low chance! On the other hand, it can be fun thinking what you would do with your winnings, if you won.</para>
+      <para id="id1168726797982">Source:</para>
+      <para id="id1168726798025"><emphasis effect="italics">Pythagoras</emphasis>, Number 52, August 2000</para>
+    </section>
+    <section id="id1168726816696">
+      <title>Assessment</title>
+      <table id="id1168726816961" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>1.2 recognises, uses and represents rational numbers (including very small numbers written in scientific notation), moving flexibly between equivalent forms in appropriate contexts;</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>1.3 solves problems in context including contexts that may be used to build awareness of other learning areas, as well as human rights, social, economic and environmental issues such as:</entry>
+            </row>
+            <row>
+              <entry>1.3.1 financial (including profit and loss, budgets, accounts, loans, simple and compound interest, hire purchase, exchange rates, commission, rental and banking);</entry>
+            </row>
+            <row>
+              <entry>1.3.2 measurements in Natural Sciences and Technology contexts;</entry>
+            </row>
+            <row>
+              <entry>1.4 solves problems that involve ratio, rate and proportion (direct and indirect);</entry>
+            </row>
+            <row>
+              <entry>1.7 recognises, describes and uses the properties of rational numbers.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1168726802337" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 5 </entry>
+            </row>
+            <row>
+              <entry>Data HandlingThe learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions and to interpret and determine chance variation.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>5.1 poses questions relating to human rights, social, economic, environmental and political issues in South Africa;</entry>
+            </row>
+            <row>
+              <entry>5.2 selects, justifies and uses appropriate methods for collecting data (alone and/or as a member of a group or team) which include questionnaires and interviews, e<emphasis effect="italics">x</emphasis>periments, and sources such as books, magazines and the Internet in order to answer questions and thereby draw conclusions and make predictions about the environment;</entry>
+            </row>
+            <row>
+              <entry>5.3 organises numerical data in different ways in order to summarise by determining:</entry>
+            </row>
+            <row>
+              <entry>5.3.1 measures of central tendency;</entry>
+            </row>
+            <row>
+              <entry>5.3.2 measures of dispersion;</entry>
+            </row>
+            <row>
+              <entry>5.4 draws a variety of graphs by hand/technology to display and interpret data including:</entry>
+            </row>
+            <row>
+              <entry>5.4.1 bar graphs and double bar graphs;</entry>
+            </row>
+            <row>
+              <entry>5.4.2 histograms with given and own intervals;</entry>
+            </row>
+            <row>
+              <entry>5.4.3 pie charts;</entry>
+            </row>
+            <row>
+              <entry>5.4.4 line and broken–line graphs;</entry>
+            </row>
+            <row>
+              <entry>5.4.5 scatter plots;</entry>
+            </row>
+            <row>
+              <entry>5.5 critically reads and interprets data with awareness of sources of error and manipulation to draw conclusions and make predictions about:</entry>
+            </row>
+            <row>
+              <entry>5.5.1 social, environmental and political issues (e.g. crime, national expenditure, conservation, HIV/AIDS);</entry>
+            </row>
+            <row>
+              <entry>5.5.2 characteristics of target groups (e.g. age, gender, race, socio–economic groups);</entry>
+            </row>
+            <row>
+              <entry>5.5.3 attitudes or opinions of people on issues (e.g. smoking, tourism, sport);</entry>
+            </row>
+            <row>
+              <entry>5.5.4 any other human rights and inclusivity issues;</entry>
+            </row>
+            <row>
+              <entry>5.6 considers situations with equally probable outcomes, and:</entry>
+            </row>
+            <row>
+              <entry>5.6.1 determines probabilities for compound events using two-way tables and tree diagrams;</entry>
+            </row>
+            <row>
+              <entry>5.6.2 determines the probabilities for outcomes of events and predicts their relative frequency in simple experiments;</entry>
+            </row>
+            <row>
+              <entry>5.6.3 discusses the differences between the probabili­ty of outcomes and their relative frequency.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168735691409">
+      <title>Memorandum</title>
+      <para id="id1168735682236">Discussion</para>
+      <list id="id1168735686524" list-type="bulleted">
+        <item>The learner’s module is very complete, with many examples. </item>
+        <item>The teacher can spend time doing actual experiments (tossing a coin or throwing dice or drawing cards from a deck) and allowing the learners to practise their tallying skills for a frequency table.</item>
+        <item>One gets dice with four faces, eight faces, and even more. These make very interesting experimental material.</item>
+        <item>It is easy to make a cloth bag to put marbles in for some of the experiments.</item>
+      </list>
+      <para id="id1168726885040">Probabilities</para>
+      <para id="id1168726801881">Some comments only – the learners will (with guidance) have fun with the statements.</para>
+      <para id="id1168726818204">1.4 Relevant again later on.</para>
+      <para id="id1168726797991">1.5  A statement that is very hard to judge.</para>
+      <para id="id1168726797896">1.6  Encourage learners to figure out that this can’t possibly be true.</para>
+      <para id="id1168726802834">1.8 True – as most class sizes are larger that 24, this means that more than half of the classes must have at least one pair of learners with the same birthday – let learners do some research.</para>
+      <para id="id1168735682620">2.1 Only 1 in 6</para>
+      <para id="id1168735683682">2.2 They will have to find some smarties and experiment!</para>
+      <para id="id1168735680768">2.4 True (unless the die is biased – and this does happen)</para>
+      <para id="id1168735899928">There are more aspects of risk that can be discussed – feel free to explore the subject with the learners if there is time.</para>
+      <para id="id1168730404589">Test</para>
+      <para id="id1168726792110">There is no test for this unit.</para>
+      <list id="id1168726724593" list-type="bulleted">
+        <item>This guide has to include two A4 sheets: one squared paper and one set of axes.</item>
+        <item>Two paper copies of each are supplied – not electronically.</item>
+      </list>
+    </section>
+    <section id="id1168726799726">
+      <title/>
+      <para id="para-id1168726799726">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+  </content>
+</document>

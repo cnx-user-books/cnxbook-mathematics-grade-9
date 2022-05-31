@@ -1,0 +1,450 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Collecting information to answer general questions</title>
+  <metadata>
+  <md:content-id>m31279</md:content-id><md:title>Collecting information to answer general questions</md:title>
+  <md:abstract/>
+  <md:uuid>4812711c-d5c1-451f-9b0e-effc133a70a6</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3756279">
+      <title>MATHEMATICS</title>
+      <para id="para-id3756279">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7150700">
+      <title>Grade 9</title>
+      <para id="para-id7150700">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7622920">
+      <title>NUMBER PATTERNS, GRAPHS, EQUATIONS, </title>
+      <para id="para-id7622920">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6448715">
+      <title>STATISTICS AND PROBABILITY</title>
+      <para id="para-id6448715">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2050114">
+      <title>Module 17</title>
+      <para id="para-id2050114">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4397901">
+      <title>COLLECT INFORMATION TO ANSWER GENERAL QUESTIONS</title>
+      <para id="id3516681">ACTIVITY 1</para>
+      <para id="id5019571">To learn that we must collect information to be able to answer general questions</para>
+      <para id="id7683744">[LO 5.1] </para>
+      <para id="id7156917">It is useful to have information about people. For instance, if the government has to decide how many new schools to build and where to build them, then they need to know how many children there are in every region of the country, especially children who are not yet attending schools. The same applies for decisions about building new clinics and hospitals, and so on.</para>
+      <para id="id4172778">People who want to market a new product will want to know how many people would be interested in buying their product. For this they need to ask questions and obtain statistics. </para>
+      <para id="id7616282">The professionals who work in this field are called statisticians. It is their job to see that the information that is gathered is the best possible (we will learn more about this later). They then study and manipulate the data so that sensible decisions can be based on them. </para>
+      <para id="id2655579">The basis of statistics is figures, which are obtained from asking questions. We are going to do some quick research.</para>
+      <para id="id3656482">The government organises a <emphasis effect="italics">census</emphasis> from time to time to obtain information about the population. At that time many extra people are employed to gather the details of every person in the country. It usually takes a few years to organise all the information and to publish it. The information is then made public so that it can be used by people who need to plan on the basis of accurate figures.</para>
+      <para id="id2187224"><emphasis effect="bold">Important note</emphasis>: Please keep any information that you work on in this section – we will use it again later. As you learn how to work with statistics, we will get more and more information from your data.</para>
+      <list id="id7133591" list-type="enumerated" number-style="arabic">
+        <item>Think about your whole family – parents, grandparents, siblings (brothers and sisters), aunts, uncles – everybody. Count how many e<emphasis effect="italics">x</emphasis>tended family members you have. How many of them have cell phones? How many of them have had cell phones stolen? How many of them have lost their cell phones? Fill the information in on the following table, and in the last row fill in the totals for the whole class</item>
+      </list>
+      <table id="id6433336" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Number of people</entry>
+              <entry>Owns a cell phone</entry>
+              <entry>Has had cell phone stolen</entry>
+              <entry>Has lost cell phone</entry>
+            </row>
+            <row>
+              <entry>Learner</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Class</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2710292">2 Work in groups of three or four. Each must write down two sports that they would particularly like to take part in. These sports need not be school sports. For each of the sports, they must say whether they already play it, whether they are members of a team or whether they can’t play it because they don’t have access to facilities and equipment or don’t have access to a coach. Again, fill the information for your group in on the table.</para>
+      <figure id="id7084457">
+        <media id="id7084457_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-594e.png" id="id7084457__onlineimage" height="156" width="638"/>
+        </media>
+      </figure>
+      <para id="id2542937">3 Here are some more of the type of questions that statisticians might work on:</para>
+      <para id="id7682506">3.1 How representative are the learners in a particular school of the population of the area where the school is?</para>
+      <para id="id7199798"/>
+      <para id="id7083769">3.2 What are the attitudes of the people living in a certain region to the proclamation of a part of the area as a wildlife preservation area?</para>
+      <para id="id6961075"/>
+      <para id="id7800148">3.3 How many people in a particular province are HIV positive?</para>
+      <para id="id2664558"/>
+      <para id="id7589018">3.4 How does the prison population of one province compare with that of another province?</para>
+      <para id="id2265814"/>
+      <para id="id5427059">3.5 When one looks at the number of women in our parliament, how does that compare with the situation in other democratic countries?</para>
+      <para id="id3417435"/>
+      <para id="id6917685">3.6 What is the distribution of wealth in the world – in other words, what percentage of the world’s population owns, say, half of the world’s wealth?</para>
+      <para id="id6924071"/>
+      <para id="id2278003">ACTIVITY 2</para>
+      <para id="id5425889">To learn about using various methods for gathering data</para>
+      <para id="id7029772">[LO 2.2, 5.2] </para>
+      <para id="id2243666">In the research about the cell phones and sport, it was easy to get information. But sometimes one has to work a little harder. </para>
+      <para id="id6141774">1 When one has to <emphasis effect="italics">count</emphasis> something (for example, the number of lefthanders in the school), the easiest way is to use a tally table</para>
+      <list id="id7157674" list-type="bulleted">
+        <item>Below is a tally table for filling in information about the ages and sex (male or female) of you and your siblings (brothers and sisters). For each sister, you make a little line (a tally) in the “sisters” row under the appropriate age. For each brother you do the same in the “brothers” row. Don’t forget yourself! Every learner in the class must do the same. Every time you have to add a fifth tally, you put it across the four others – this makes it easier to add all the tallies at the end to get the totals for each age. The first tally table shows an imaginary e<emphasis effect="italics">x</emphasis>ample – you will use the second one for your class. </item>
+      </list>
+      <figure id="id3392724">
+        <media id="id3392724_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-b49b.png" id="id3392724__onlineimage" height="255" width="650"/>
+        </media>
+      </figure>
+      <table id="id7085794" summary="">
+        <tgroup cols="27">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <colspec colnum="18" colname="c18"/>
+          <colspec colnum="19" colname="c19"/>
+          <colspec colnum="20" colname="c20"/>
+          <colspec colnum="21" colname="c21"/>
+          <colspec colnum="22" colname="c22"/>
+          <colspec colnum="23" colname="c23"/>
+          <colspec colnum="24" colname="c24"/>
+          <colspec colnum="25" colname="c25"/>
+          <colspec colnum="26" colname="c26"/>
+          <colspec colnum="27" colname="c27"/>
+          <tbody>
+            <row>
+              <entry>Ages</entry>
+              <entry>&lt;1</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+              <entry>13</entry>
+              <entry>14</entry>
+              <entry>15</entry>
+              <entry>16</entry>
+              <entry>17</entry>
+              <entry>18</entry>
+              <entry>19</entry>
+              <entry>20</entry>
+              <entry>21</entry>
+              <entry>22</entry>
+              <entry>23</entry>
+              <entry>24</entry>
+              <entry>&gt;24</entry>
+            </row>
+            <row>
+              <entry>Sisters</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Bro­thers</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Total sisters</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Total brothers</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id5930748" list-type="bulleted">
+        <item>The numbers in the bottom two rows give the <emphasis effect="italics">frequency</emphasis> of the occurrence of the different ages. A frequency table shows the <emphasis effect="italics">frequency distribution</emphasis> of the characteristic being studied.</item>
+        <item>You can see that the tables in the cell phone and sport examples are also frequency tables.</item>
+      </list>
+      <para id="id6408558">2 <emphasis effect="italics">Questionnaires</emphasis> are used when the information to be gathered is more complicated than can be entered on a tally table</para>
+      <list id="id2690125" list-type="bulleted">
+        <item>Someone might stop you in a shopping centre and <emphasis effect="italics">interview</emphasis> you about your toothpaste and flossing habits. </item>
+      </list>
+      <list id="id4248702" list-type="bulleted">
+        <item>The questionnaire form might have questions like:</item>
+      </list>
+      <list id="id5828483" list-type="bulleted">
+        <item>Do you use toothpaste never, once, twice or more than two times a day?</item>
+        <item>Do you buy a new toothbrush every week, every month or every year?</item>
+        <item>Do you floss your teeth regularly or only when you think you have food stuck in your teeth?</item>
+        <item>Do you prefer flavoured toothpaste?</item>
+        <item>Do you like coloured toothpaste?</item>
+        <item>Do you go the dentist regularly or only when necessary?</item>
+        <item>How many fillings have you had?</item>
+        <item>Have you had any teeth extracted?</item>
+      </list>
+      <list id="id5622264" list-type="bulleted">
+        <item>Form small groups and briefly discuss some of the possible reasons why someone might want this information.</item>
+      </list>
+      <list id="id7795808" list-type="bulleted">
+        <item>Many questionnaires are printed in newspapers and magazines. Sometimes they are just for fun, and you can analyse them and read the results right away. But some can be serious, and you might be asked to post them back. Often, to encourage people to participate, a prize or reward might be offered! Many people hate filling in questionnaires, and they have to be persuaded – but for others it is great fun and they don’t mind being helpful.</item>
+      </list>
+      <para id="id3659835">3 Another way of getting information is to do an experiment. </para>
+      <list id="id7046828" list-type="bulleted">
+        <item>This is often used by medical researchers. For example, they may have developed a new medical treatment and they want to find out whether it is better than the old treatment, the same, or worse. If they know that it won’t harm people (sometimes they are not sure about this!), they might get permission from the appropriate go­vern­ment department to allow doctors to prescribe the new medicine. The doctors will then fill in questionnaires about how their patients responded, and give the information to the researchers to study. </item>
+      </list>
+      <para id="id2811742">4 You don’t always have to ask people for information. Many questions can be answered just by doing some research on your own. For example:</para>
+      <para id="id3356004">4.1 Are the storybooks in the English section of the library longer than the story­books in the other languages? To answer this question, you have to look at the last page number in each book and make some calculations</para>
+      <para id="id6917876">4.2 If I want to write a story for a magazine, how many words must the story be? Look at several issues of the magazine you want to write for and count the words in all the short stories. If you can calculate the average length (you will still learn about averages) of their stories, then you know how long yours must be.</para>
+      <para id="id2478613">5 How popular are your favourite actors? Type their names into an Internet search engine and count how many <emphasis effect="italics">hits</emphasis> (number of articles with the name) the search engine finds.</para>
+      <para id="id2065091">6 You can do an experiment in your class. Read the description below and plan exactly how things will be done, who will do what job and how you will record the results. When you are sure of all the details, you can proceed with the e<emphasis effect="italics">x</emphasis>periment.</para>
+      <para id="id7098856">EXPERIMENT</para>
+      <list id="id5001347" list-type="bulleted">
+        <item>You will need two kinds of fizzy cool drink or fruit juice – choose two that some people say taste exactly the same; it will be very good if they also look the same. Blindfold the person who will be tested (the taster). Everyone (except the experimenter and the assistant) should take a turn to be the taster.</item>
+      </list>
+      <list id="id3908819" list-type="bulleted">
+        <item>Someone (the experimenter) pours out a little of each drink where it can’t be seen. Use differently coloured cups. Only the experimenter will know which drink is in which cup, and this is filled in on a list that is kept secret. When the taster decides which is which, the experimenter’s assistant makes a note of the cup colour. </item>
+        <item>The experimenter looks at the answers, and depending on the cup colour decides whether the taster was right or wrong. After everyone has had a turn to be a taster, it may be possible to decide whether the drinks can really be told apart!</item>
+      </list>
+      <list id="id5001124" list-type="bulleted">
+        <item>If there is time the class may think of another question that can be answered by an experiment. The experiment can be designed and carried out to see if there is an answer.ACTIVITY 3</item>
+      </list>
+      <para id="id6011900">To investigate the validity of the information–gathering process</para>
+      <para id="id5389488">[LO 5.2] </para>
+      <list id="id2091852" list-type="bulleted">
+        <item>There is another important part of getting information that must be discussed before we can continue. Do the following e<emphasis effect="italics">x</emphasis>ercise in a small group of four or five learners.</item>
+      </list>
+      <list id="id7096452" list-type="bulleted">
+        <item>Say that you would like to know how many people in South Africa watch the news on TV.</item>
+      </list>
+      <list id="id6417511" list-type="bulleted">
+        <item>Well, you can go to every single person in the country and ask them, tally the answers and add them up and you’ll have a very accurate answer – if nobody tells a lie, of course.</item>
+        <item>This would be a very long and expensive job. During the <emphasis effect="italics">census</emphasis>, the government tries to ask a few important questions of every single person. This costs a lot of money, and they don’t manage to be perfectly accurate. </item>
+        <item>Perhaps we don’t have to ask everybody – we can ask a few and get an answer in that way. If there are 45 million people in the country, we can ask 45 of them whether they watch the news and then, if 30 say they do, maybe this means 30 million South Africans also do. </item>
+      </list>
+      <list id="id7682836" list-type="bulleted">
+        <item>Statisticians call this process <emphasis effect="italics">sampling</emphasis>. If the total <emphasis effect="italics">population</emphasis> we are interested in is too big, we can look at a smaller number (the <emphasis effect="italics">sample</emphasis>) and multiply from that to get the real answer.</item>
+        <item>Imagine the learners in your class have to gather the data to answer the question. You decide to take turns to spend an hour each weekday standing at a filling station to ask motorists whether they watch the TV news. This is good because you are under a roof, and the motorists have to stop and wait a few minutes anyway, so most of them might not mind giving you an answer if you ask nicely with a smile?</item>
+        <item>Imagine that this works wonderfully. For two weeks you have been at the filling stations in the area and you have a lot of tallies. You very cleverly counted how many people you asked, how many wouldn’t answer, and how many said NO and how many said YES.</item>
+        <item>Now transform these figures into an accurate estimate of how many of the total population of the country watch the TV news.</item>
+      </list>
+      <list id="id7601106" list-type="bulleted">
+        <item>Discuss in your group exactly how you would do this survey.</item>
+        <item>Also discuss how accurate you can expect the answer to be – in other words, if you could get everybody in the country to answer, would that “real” answer be the same as the one you calculated from your tallies? Write a short and clear summary of the conclusions your group came to after the discussions.</item>
+      </list>
+    </section>
+    <section id="id7125248">
+      <title>Assessment</title>
+      <table id="id7192591" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry>Patterns, Functions and AlgebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>2.1 investigates, in different ways, a variety of numeric and geometric patterns and relation­ships by representing and generalising them, and by explaining and justifying the rules that generate them (including patterns found in nature and cultural forms and patterns of the learner’s own creation;</entry>
+            </row>
+            <row>
+              <entry>2.2 represents and uses relationships between variables in order to determine input and/or output values in a variety of ways using:</entry>
+            </row>
+            <row>
+              <entry>2.2.1 verbal descriptions;</entry>
+            </row>
+            <row>
+              <entry>2.2.2 flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.2.3 tables;</entry>
+            </row>
+            <row>
+              <entry>2.2.4 formulae and equations.</entry>
+            </row>
+            <row>
+              <entry>LO 5 </entry>
+            </row>
+            <row>
+              <entry>Data HandlingThe learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions and to interpret and determine chance variation.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>5.1 poses questions relating to human rights, social, economic, environmental and political issues in South Africa;</entry>
+            </row>
+            <row>
+              <entry>5.2 selects, justifies and uses appropriate methods for collecting data (alone and/or as a member of a group or team) which include questionnaires and interviews, e<emphasis effect="italics">x</emphasis>periments, and sources such as books, magazines and the Internet in order to answer questions and thereby draw conclusions and make predictions about the environment.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id5936986">
+      <title/>
+      <para id="para-id5936986">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5075441">
+      <title/>
+      <para id="para-id5075441">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5540442">
+      <title/>
+      <para id="para-id5540442">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7452743">
+      <title/>
+      <para id="para-id7452743">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7060431">
+      <title>Memorandum</title>
+      <para id="para-id7060431">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+  </content>
+</document>

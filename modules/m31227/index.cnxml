@@ -1,0 +1,525 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Geometry of lines and triangles</title>
+  <metadata>
+  <md:content-id>m31227</md:content-id><md:title>Geometry of lines and triangles</md:title>
+  <md:abstract/>
+  <md:uuid>e4a61d49-3ccd-4e7d-9e76-fd2452d1f998</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168099216040">
+      <title>MATHEMATICS</title>
+      <para id="para-id1168099216040">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4175679">
+      <title>Grade 9</title>
+      <para id="para-id4175679">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168097576128">
+      <title>ALGEBRA AND GEOMETRY</title>
+      <para id="para-id1168097576128">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8979300">
+      <title>Module 8</title>
+      <para id="para-id8979300">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168097558973">
+      <title>GEOMETRY OF LINES AND TRIANGLES</title>
+      <para id="id1168099254211">Activity 1</para>
+      <para id="id3799370">To learn conventions of naming sides and angles in triangles</para>
+      <figure id="id3488259">
+        <media id="id3488259_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-c8c1.png" id="id3488259__onlineimage" height="238" width="323"/>
+        </media>
+      </figure>
+      <list id="id6826146" list-type="bulleted">
+        <item>Refer to the triangle alongside to understand the terms.</item>
+        <item>The three <emphasis effect="italics">sides</emphasis> of the triangle are called AB, AD and BD.</item>
+        <item>We often name a side in a triangle by using the small letter of the name of the opposite corner. The corners (vertices) of the triangle are named by using capital letters. </item>
+        <item>When A or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {A}}} {}</m:annotation></m:semantics></m:math>is used, it refers to the a<emphasis effect="italics">ngle</emphasis> made by side BA and side AD. </item>
+        <item>For the angle one can also say BAD or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>B</m:mi><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>D</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{B { hat  {A}}D} {}</m:annotation></m:semantics></m:math>. </item>
+        <item>But if I say A=38°, it is clear what I mean.</item>
+        <item>We refer to triangle ABD or ΔABD, writing the letters in alphabetical order.</item>
+      </list>
+      <para id="id1168097940374">Exercise:</para>
+      <para id="id2434535">To show that you understand the naming </para>
+      <para id="id6572340">conventions, draw the following triangle in the space</para>
+      <para id="id8054696">to the right:</para>
+      <para id="id5709699">Draw ΔQRT with q=4cm, T=65° and QT=5,5cm.</para>
+      <para id="id6186781">You should notice that you don’t need to be told</para>
+      <para id="id7083074">the length of t, nor the sizes of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>Q</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {Q}}} {}</m:annotation></m:semantics></m:math> or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>R</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {R}}} {}</m:annotation></m:semantics></m:math>. First</para>
+      <para id="id5030303">draw a rough sketch and fill the details in on that</para>
+      <para id="id1168095492618">sketch to help you plan your drawing.</para>
+      <para id="id1168097592961">Assignment:</para>
+      <para id="id1168097611295">You should already know that triangles are classified according to their shape. Make an A4–sized poster for your own use, clearly showing the characteristics of the following types of triangle: equilateral, right–angled, isosceles and scalene. Name the vertices and sides according to the conventions above. You must work as accurately and neatly as you can.</para>
+      <para id="id1168099244137">Measure the sides and the angles of your triangles and fill these measurements in on your poster.</para>
+      <para id="id1168103719390">Activity 2</para>
+      <para id="id1168099127828">To develop the principle of congruence in triangles</para>
+      <para id="id4721346">[LO 4.4, 3.3, 3.5] </para>
+      <list id="id1168097625734" list-type="bulleted">
+        <item>In the previous exercise you drew ΔQTR from specifications given to you. Ask the other learners who did this exercise to show you their drawings, and check whether their triangles agree perfectly with the sizes given in the question. Measure the side and the two angles not specified, to see whether they also agree with yours.</item>
+        <item>You should find that all triangles drawn by anybody according to the instructions, are always identical. In fact, it is impossible to draw that triangle so that it is different! Write down, with a partner, why you think this is the case.</item>
+        <item>Here are more descriptions of triangles. See whether the same happens with them – in other words, that it is impossible to draw different triangles that fit the same description. Again, write down your view of each situation. The last one is quite difficult to draw – try it!</item>
+      </list>
+      <list id="id4613467" list-type="bulleted">
+        <item>Draw ΔAGE with a=4cm, E=90° and AG=5cm.</item>
+        <item>Draw ΔNOH with HN=4cm, H=56° and O=72°.</item>
+        <item>Draw ΔBAT with B=48°, T=65° and A=67°.</item>
+        <item>Draw ΔMOD with m=5,5cm, O=65° and DM=4cm.</item>
+        <item>Draw ΔAMP with a=4,2cm, m=5cm and p=5,6cm.<list id="id1168097813787" list-type="bulleted"><item>In each of the above triangles, only three of the six sizes (three sides and three angles) were specified in the question. And sometimes that was enough to ensure that everyone drew identical triangles. But in ΔBAT and ΔMOD the three items were not enough to ensure identical triangles from everyone. </item><item>So, when is it enough? Maybe you have already discovered the secrets:</item></list></item>
+      </list>
+      <para id="id1168095337670">ΔQRT: Two sides and the angle <emphasis effect="underline">between</emphasis> them were specified.</para>
+      <para id="id1168097670371">ΔAGE: A right–angle, the hypotenuse and another side were specified.</para>
+      <para id="id4442871">ΔNOH: One side and two angles were specified.</para>
+      <para id="id4721704">ΔAMP: Three sides were specified.</para>
+      <para id="id4713699">ΔBAT: Three angles were specified, but nothing said how big the triangle could be!</para>
+      <para id="id1168099244780">ΔMOD: Two sides and the angle <emphasis effect="underline">not</emphasis> between the two sides were specified, so that it could happen that some learners drew a short OM side and others drew a longer OM side; because nothing was said how long OM had to be!</para>
+      <list id="id1168097555400" list-type="bulleted">
+        <item>When two triangles are identical in every way – size and shape – then we call them <emphasis effect="italics">congruent</emphasis>. This means that if you cut one out, it can be placed exactly on top of the other. As you will see later, the word can be used for other identical shapes as well, but for now we will concern ourselves only with triangles. </item>
+        <item>From the drawing exercise you saw that there are four different ways to ensure that triangles are congruent. Here they are, with helpful sketches:</item>
+      </list>
+      <para id="id1168099129400">
+        <figure id="id1168099160739">
+          <media id="id1168099160739_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 9-17b7.png" id="id1168099160739__onlineimage" height="194" width="223"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id1168103696696">
+        <media id="id1168103696696_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10-4606.png" id="id1168103696696__onlineimage" height="53" width="186"/>
+        </media>
+      </figure>
+      <para id="id1168095468264">Case 1: Two triangles with two sides and the <emphasis effect="italics">included </emphasis>angle equal, will be congruent.</para>
+      <para id="id4598638">Case 2: Two right–angled triangles with the hypotenuse and another side equal, will be congruent.</para>
+      <para id="id7243595">Case 3: Two triangles with three sides equal will be congruent.</para>
+      <para id="id1168095154730">Case 4: Two triangles with two angles and corresponding sides equal, will be congruent. This means that the equal sides must be opposite corresponding angles.</para>
+      <para id="id8951476"/>
+      <para id="id7377771">Investigation:</para>
+      <para id="id1168103633386">The ne<emphasis effect="italics">x</emphasis>t exercise shows 15 triangles, named A to O. They are all mixed–up and in strange orientations. Work in a group of 4 or 5 to decide whether any of them are congruent. Group the names of those that are congruent, with explanations and reasons. This is not a straight–forward exercise; it is much more like a puzzle. You will have to use all your experience, common-sense and logic. The sizes are not correct, so that you have to use the information <emphasis effect="italics">given,</emphasis> and <emphasis effect="underline">not</emphasis><emphasis effect="underline">measure</emphasis> anything.</para>
+      <para id="id8061609">
+        <figure id="id1168097820898">
+          <media id="id1168097820898_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 11-98b8.png" id="id1168097820898__onlineimage" height="680" width="634"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1168095485776">Activity 3</para>
+      <para id="id1168097991648">To apply the four cases of congruence in problems</para>
+      <para id="id6715424">[LO 4.4, 3.3, 3.4] </para>
+      <list id="id6422386" list-type="bulleted">
+        <item>When you have shown that two triangles are congruent (as you had to do in the previous exercise) you have to do a number of things: First decide which case of congruence will apply. Then say why each of the three items is equal. Then write your conclusions down in the proper order. Here is an example of how it can be done. We use the symbol  to show congruence. So we can see that, if we know that <emphasis effect="underline">three</emphasis> very special things are equal, we know that <emphasis effect="underline">everything else</emphasis> must be equal too!</item>
+      </list>
+      <para id="id7249279">Prove that ΔABC and ΔDEF are congruent.</para>
+      <figure id="id1168097777755">
+        <media id="id1168097777755_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 15-ad6f.png" id="id1168097777755__onlineimage" height="231" width="269"/>
+        </media>
+      </figure>
+      <para id="id1168099145373">1. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {A}}} {}</m:annotation></m:semantics></m:math>= 60° because the angles of a  triangle add up to 180°</para>
+      <para id="id6393832"> Therefore, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {A}}= { hat  {F}}} {}</m:annotation></m:semantics></m:math> because both are 60°</para>
+      <para id="id1168099247782">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mover accent="true"><m:mi>C</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mover accent="true"><m:mi>E</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {C}}= { hat  {E}}} {}</m:annotation></m:semantics></m:math> because both are 50°</para>
+      <para id="id8054870">3. BC = DE because they are both 12 units, and they lie opposite equal angles. We have two equal angles and a corresponding equal side in each of the two triangles.</para>
+      <para id="id8418892">4. So we write: ΔABC  ΔDEF (AAS) which means: ΔABC is congruent to ΔDEF because two angles and a corresponding side are equal. This means that all other things must be equal too.</para>
+      <para id="id1168099240510"/>
+      <para id="id1168094849965">From the exercise in the previous section, do at least three congruencies in this way.</para>
+      <para id="id1168097654110">Exercise:</para>
+      <para id="id7103463"><figure id="id5713226"><media id="id5713226_media" alt=""><image mime-type="image/png" src="../../media/graphics1-2816.png" id="id5713226__onlineimage" height="160" width="585"/></media></figure> Prove that the two triangles in each of the following problems are congruent.</para>
+      <para id="id1168097785558">1. </para>
+      <figure id="id8345287">
+        <media id="id8345287_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 16-6c0c.png" id="id8345287__onlineimage" height="269" width="196"/>
+        </media>
+      </figure>
+      <para id="id5419946">3.</para>
+      <figure id="id1168097503077">
+        <media id="id1168097503077_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 17-aa69.png" id="id1168097503077__onlineimage" height="218" width="239"/>
+        </media>
+      </figure>
+      <para id="id5114068"/>
+      <para id="id6440836">Activity 4</para>
+      <para id="id1168099192470">To understand the principle of similarity in triangles</para>
+      <para id="id5224514">[LO 1.2, 1.4, 3.5]</para>
+      <list id="id1168097590388" list-type="bulleted">
+        <item>In a previous exercise you were asked to draw ΔBAT with B=48°, T=65° and A=67°. As you noticed, it was possible to draw many triangles according to these specifications, but they were not congruent. This is because nothing specified the size of the triangle, so some were bigger and some were smaller. </item>
+        <item>Work in groups of four or five. Measure the sides of your triangle. Each uses his own Δ BAT to complete his row in the table below. Where you divide, give your answer rounded to <emphasis effect="underline">one</emphasis> decimal place.</item>
+      </list>
+      <table id="id8073008" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Learner</entry>
+              <entry>AB</entry>
+              <entry>AT</entry>
+              <entry>BT</entry>
+              <entry>BT  AT</entry>
+              <entry>AB  AT</entry>
+              <entry>BT  AB</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id7281476" list-type="bulleted">
+        <item>In the next exercise you must draw two isosceles triangles with angles 80°, 50° and 50°. Make the one triangle about two or three times as big as the other. Work very accurately. </item>
+        <item>Call the small triangle DEF (F = 80°) and the big one OPT (T = 80°). Measure all the sides and complete the table from your measurements.</item>
+      </list>
+      <table id="id1168103837118" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>OP</entry>
+              <entry>PT</entry>
+              <entry>OT</entry>
+              <entry>DE</entry>
+              <entry>EF</entry>
+              <entry>DF</entry>
+              <entry>OP  DE</entry>
+              <entry>PT  EF</entry>
+              <entry>OT  DF</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168099244066">Assignment:</para>
+      <list id="id6747417" list-type="bulleted">
+        <item>Study the two tables (especially the last three columns of both tables). What do you notice? </item>
+        <item>Write a very clear explanation of why these calculations work out the way they do.</item>
+        <item>These triangles are not congruent, as their sizes are different, even if their angles agree. When two triangles have equal angles but different sizes, we call them <emphasis effect="italics">simil</emphasis>a<emphasis effect="italics">r</emphasis>.</item>
+        <item>The sign is , so that ΔDEF  ΔOPT from the last table.</item>
+        <item>All triangles with three angles equal are automatically <emphasis effect="italics">simil</emphasis>a<emphasis effect="italics">r</emphasis>. If they have the same size, then they are <emphasis effect="italics">congruent</emphasis> as well. </item>
+        <item>Similar triangles have sides that are in the same proportion. This is what we see from the two tables we completed. The fractions that were calculated from the side lengths give us the ratios between sides. </item>
+        <item>From the first table we see that the ratios between the sides of similar triangles are the same. From the second table we see that the ratios between corresponding sides of two similar triangles are the same. This ratio is called the <emphasis effect="italics">proportion</emphasis>a<emphasis effect="italics">l const</emphasis>a<emphasis effect="italics">nt</emphasis> for the two triangles. </item>
+      </list>
+      <list id="id6423174" list-type="bulleted">
+        <item>We know two things from the facts we have learned about similar triangles:</item>
+      </list>
+      <list id="id1168095506407" list-type="bulleted">
+        <item>Firstly, if we have two triangles with equal angles (<emphasis effect="italics">equi</emphasis>a<emphasis effect="italics">ngul</emphasis>a<emphasis effect="italics">r tri</emphasis>a<emphasis effect="italics">ngles</emphasis>), then we know they are similar and therefore the sides must be in proportion. </item>
+        <item>Secondly, when we have triangles with sides in proportion, we know they must have equal angles because they must be similar.</item>
+      </list>
+      <para id="id1168097822863">Example:</para>
+      <para id="id1168097725261">What can you say about the two triangles below? Calculate the values of <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis>.</para>
+      <figure id="id2846205">
+        <media id="id2846205_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 18-e0df.png" id="id2846205__onlineimage" height="99" width="457"/>
+        </media>
+      </figure>
+      <para id="id1168097840616">To find out whether the triangles are similar, we must find either equal angles or sides in proportion. In this problem, we can say the angles are equal but we cannot say the sides are in proportion. In other problems, it may be the other way around. . </para>
+      <para id="id4320962">We set it out this way:</para>
+      <para id="id1168097851229">1. A = 65° because the angles of ΔABC add up to 180°</para>
+      <para id="id4269136"> F = 35° because the angles of ΔDEF add up to 180°</para>
+      <para id="id2848673">2. The triangles have equal angles, therefore they are similar, so</para>
+      <para id="id6528701"> ΔABC  ΔDEF (equal angles)</para>
+      <para id="id6753123">3. This means that the sides must be in proportion.</para>
+      <para id="id1168099187503">4. Find out what the proportional constant is. AC = 16 and DF = 8. </para>
+      <list id="id1168097635668" list-type="bulleted">
+        <item> These two sides are both opposite the 80° angles, so that they are corresponding angles.</item>
+        <item> The proportional constant is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {8} } =2} {}</m:annotation></m:semantics></m:math>. If we <emphasis effect="italics">multiply</emphasis> the a side of the small triangle by 2, we get the length of the corresponding side in the large triangle. If you <emphasis effect="underline">divide</emphasis> a side of the large triangle by 2 then you get the length of the corresponding side in the small triangle.</item>
+      </list>
+      <para id="id1168097863843">5. Now the value of <emphasis effect="italics">x</emphasis> can be calculated by dividing 9 by 2. <emphasis effect="italics">x</emphasis> = <emphasis effect="bold">2</emphasis>  9,4 = 4,7.</para>
+      <para id="id1168097840652">6. And y = <emphasis effect="bold">2</emphasis> × 5,5 = 11.</para>
+      <para id="id7266607">Exercise:</para>
+      <para id="id1168099254961">Calculate the values of sides PR and <emphasis effect="bold">X</emphasis>Y in the following triangles.</para>
+      <figure id="id6836323">
+        <media id="id6836323_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 20-267a.png" id="id6836323__onlineimage" height="97" width="458"/>
+        </media>
+      </figure>
+      <para id="id1168103761041">Example:</para>
+      <para id="id885021">Find all the missing angles in these two triangles, if possible.</para>
+      <figure id="id1168099191076">
+        <media id="id1168099191076_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 21-ee85.png" id="id1168099191076__onlineimage" height="159" width="513"/>
+        </media>
+      </figure>
+      <para id="id1168099188396">1. The sides are in proportion: 42 × 1,5 = 63 , 38 × 1,5 = 57 and 34 × 1,5 = 51</para>
+      <para id="id1168097694816">2. This means that the triangles are similar: ΔEFG  ΔKLM (sides in proportion)</para>
+      <para id="id1168097629093">3. So, corresponding angles are equal: L = 68° (corresponds to F)</para>
+      <para id="id6737643"> E = 51° (corresponds to K)</para>
+      <para id="id1168097796849"> G = M = 61° (sum of the angles of a triangle)</para>
+      <para id="id1168097551362">Exercise:</para>
+      <para id="id4378723">Find all the missing angles in these triangles:</para>
+      <figure id="id4171906">
+        <media id="id4171906_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 22-f5a9.png" id="id4171906__onlineimage" height="155" width="510"/>
+        </media>
+      </figure>
+      <para id="id3590569">Activity 5</para>
+      <para id="id7370939">To apply similarity in problems</para>
+      <para id="id1168099639230">[LO 4.4, 1.4, 3.5] </para>
+      <list id="id3109810" list-type="bulleted">
+        <item>In the following problems, you must draw sketches of the given triangles, but you must NOT make accurate drawings.</item>
+      </list>
+      <para id="id1168097874384">1. Are the following triangles similar?</para>
+      <para id="id2553504">1.1 ΔBAG with B = 90°, AG = 15cm and AB = 9cm and</para>
+      <para id="id1168097851372"> ΔPOT with P = 90°, OT = 5cm and PO = 4cm.</para>
+      <para id="id4415242">1.2 ΔREM with R = 60° and M = 50° and</para>
+      <para id="id5724316"> ΔSUP with U = 70° and S = 50°.</para>
+      <para id="id3131596">1.3 ΔLOP with P = 90°, LO = 13cm and OP = 12cm and</para>
+      <para id="id4828082"> ΔCAT with C = 90°, AC = 16cm and CT = 12cm</para>
+      <para id="id1168099240153">2. Calculate the proportional constant in <emphasis effect="underline">similar</emphasis> triangles ΔABC and ΔDEF when</para>
+      <para id="id4368666"> AB = 36cm, EF = 12cm, C = 48° and D = 48°. </para>
+      <para id="id4435344">3. Two flagpoles (one longer than the other) throw shadows on the ground. The shadow of the longer pole (which is 8 m tall) is 3 m and the shorter flagpole has a 2,5 m shadow. Calculate how tall the short flagpole is.</para>
+      <para id="id1168099124755">4. Gloria is designing a logo for her school’s computer club. The design shows a computer next to a pile of books which is 50 % higher than the computer. She is photocopying the design to make it smaller. On the photocopy the computer is 18 cm high and on the original the pile of books is 54 cm high. By what factor is she making the design smaller? </para>
+    </section>
+    <section id="id1168103882266">
+      <title>Assessment</title>
+      <table id="id1168097655505" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this when the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>1.1 describes and illustrates the historical development of number systems in a variety of historical and cultural conte<emphasis effect="italics">x</emphasis>ts (including local);</entry>
+            </row>
+            <row>
+              <entry>1.2 recognises, uses and represent rational numbers (including very small numbers written in scientific notation), moving fle<emphasis effect="italics">x</emphasis>ibly between equivalent forms in appropriate conte<emphasis effect="italics">x</emphasis>ts;</entry>
+            </row>
+            <row>
+              <entry>1.3 solves problems in conte<emphasis effect="italics">x</emphasis>t, including conte<emphasis effect="italics">x</emphasis>ts that may be used to build awareness of other Learning Areas, as well as human rights, social, economic and environmental issues such as:</entry>
+            </row>
+            <row>
+              <entry>1.3.1 financial (including profit and loss, budgets, accounts, loans, simple and compound interest, hire purchase, exchange rates, commission, rentals and banking);</entry>
+            </row>
+            <row>
+              <entry>1.3.2 measurements in Natural Sciences and Technology contexts;</entry>
+            </row>
+            <row>
+              <entry>1.4 solves problems that involve ratio, rate and proportion (direct and indirect);</entry>
+            </row>
+            <row>
+              <entry>LO 3</entry>
+            </row>
+            <row>
+              <entry>Space and Shape (Geometry)The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this when the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>3.1 recognises, visualises and names geometric figures and solids in natural and cultural forms and geometric settings, including:3.1.1 regular and irregular polygons and polyhedra;3.1.2 spheres;3.1.3 cylinders;3.2 in contexts that include those that may be used to build awareness of social, cultural and environmental issues, describes the interrelationships of the properties of geometric figures and solids with justification, including:3.2.1 congruence and straight line geometry;3.3 uses geometry of straight lines and triangles to solve problems and to justify relationships in geometric figures;3.4 draws and/or constructs geometric figures and makes models of solids in order to investigate and compare their properties and model situations in the environment;</entry>
+            </row>
+            <row>
+              <entry>3.5 uses transformations, congruence and similarity to investigate, describe and justify (alone and/or as a member of a group or team) properties of geometric figures and solids, including tests for similarity and congruence of triangles.</entry>
+            </row>
+            <row>
+              <entry>LO 4</entry>
+            </row>
+            <row>
+              <entry>MeasurementThe learner will be able to use appropriate measuring units, instruments and formulae in a variety of contexts.</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this when the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>4.1 solves ratio and rate problems involving time, distance and speed;</entry>
+            </row>
+            <row>
+              <entry>4.2 solves problems (including problems in contexts that may be used to develop awareness of human rights, social, economic, cultural and environmental issues) involving known geometric figures and solids in a range of measurement contexts by:</entry>
+            </row>
+            <row>
+              <entry>4.2.1 measuring precisely and selecting measuring instruments appropriate to the problem;</entry>
+            </row>
+            <row>
+              <entry>4.2.2 estimating and calculating with precision;</entry>
+            </row>
+            <row>
+              <entry>4.2.3 selecting and using appropriate formulae and measurements;</entry>
+            </row>
+            <row>
+              <entry>4.3 describes and illustrates the development of measuring instruments and conventions in different cultures throughout history;</entry>
+            </row>
+            <row>
+              <entry>4.4 uses the Theorem of Pythagoras to solve problems involving missing lengths in known geometric figures and solids.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168099599990">
+      <title/>
+      <para id="para-id1168099599990">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4180420">
+      <title>Memorandum</title>
+      <para id="id1168095522832">Discussion</para>
+      <para id="id7258533">Point out to learners the relationships between angle sizes and lengths of opposite sides, i.e. that the largest angle lies opposite the longest side, etc. In this regard the following theorems are interesting:</para>
+      <para id="id1168097851979">In Δ<emphasis effect="italics">A</emphasis><emphasis effect="italics">BC</emphasis>:</para>
+      <para id="id1168097601216"> As <emphasis effect="italics">b</emphasis><sup>2</sup> = <emphasis effect="italics">a</emphasis><sup>2</sup> + <emphasis effect="italics">c</emphasis><sup>2</sup> , then 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {B}}} {}</m:annotation></m:semantics></m:math>= 90°</para>
+      <para id="id1168099214861"> As <emphasis effect="italics">b</emphasis><sup>2</sup> &gt; <emphasis effect="italics">a</emphasis><sup>2</sup> + <emphasis effect="italics">c</emphasis><sup>2</sup> , then 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {B}}} {}</m:annotation></m:semantics></m:math>&gt; 90°</para>
+      <para id="id1168097590424"> As <emphasis effect="italics">b</emphasis><sup>2</sup> &lt; <emphasis effect="italics">a</emphasis><sup>2</sup> + <emphasis effect="italics">c</emphasis><sup>2</sup> , then 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {B}}} {}</m:annotation></m:semantics></m:math>&lt; 90°</para>
+      <list id="id1168099222973" list-type="bulleted">
+        <item>These relationships are easily confirmed by construction. If time allows, this could be a good basic familiarisation exercise.</item>
+        <item>Many learners enter grade 9 without knowing that the relationship between the height and the base of a triangle is crucial in the formula for the area of a triangle. This is a good point to emphasize that the height is measured from the vertex opposite the base, perpendicular to the base. When they construct scalene triangles with three heights and then use these heights and the corresponding three bases to work out the area three times, this usually makes the point very clear. </item>
+      </list>
+      <para id="id6521371">Congruence</para>
+      <para id="id2820618">In the first exercise in activity 3.2 the learners should not work in very large groups – pairs would be best. The aim is to obtain as many versions of the triangles as possible, so as to confirm when they are congruent and when not. It would be best to give this exercise as a homework assignment if, in the teacher’s judgement, the learners can do it without help.</para>
+      <para id="id8721757">When discussing the four cases of congruence, point out that two right–angled triangles <emphasis effect="underline">are</emphasis> congruent if the two non-hypotenuse sides are respectively equal, not by the <emphasis effect="italics">RHS</emphasis>-rule, but by the <emphasis effect="italics">SAS</emphasis>-rule.</para>
+      <para id="id1168097554149">Learners have to become comfortable with the idea that figures need not be drawn to scale – and that the information given on the figure must be used. They must not measure attributes unless specifically asked to do so.</para>
+      <para id="id8712593">Answers to matching exercise:</para>
+      <para id="id1168097740902"><emphasis effect="italics">A</emphasis>  <emphasis effect="italics">O</emphasis> (SSS or <emphasis effect="italics">RHS</emphasis> from calculated hypotenuse, Pythagoras)</para>
+      <para id="id1168095154614"><emphasis effect="italics">B</emphasis>  G (S<emphasis effect="italics">A</emphasis>S) They are not congruent to <emphasis effect="italics">I</emphasis>, as the given angle is not included</para>
+      <para id="id1168097528452"><emphasis effect="italics">C</emphasis>  <emphasis effect="italics">F</emphasis>  <emphasis effect="italics">N</emphasis> (<emphasis effect="italics">SSS</emphasis> or <emphasis effect="italics">RHS</emphasis> from calculated hypotenuse)</para>
+      <para id="id1168097634311"><emphasis effect="italics">D</emphasis>, <emphasis effect="italics">L</emphasis> and <emphasis effect="italics">K</emphasis> are not congruent as only angles are given</para>
+      <para id="id1168099434921"><emphasis effect="italics">E</emphasis>  <emphasis effect="italics">H </emphasis>(<emphasis effect="italics">AA</emphasis><emphasis effect="italics">S</emphasis>) They are not congruent to <emphasis effect="italics">M</emphasis>, as the given side is not in a corresponding position</para>
+      <list id="id8496912" list-type="bulleted">
+        <item>In doing proofs, rigour is not required from grade 9 learners. On the other hand, one of the strengths of learning geometry is that it teaches the learners to work in a logical and rigorous order. Make a point of encouraging this style from the type of learner who might benefit from it, particularly in further mathematics.</item>
+      </list>
+      <para id="id1168099404574">Congruency proofs:</para>
+      <para id="id1168097566299">1. <emphasis effect="italics">C</emphasis> = 180° – 88° – 43° = 49° = <emphasis effect="italics">F</emphasis> (angles of Δ sum to 180°)</para>
+      <para id="id3537525"> <emphasis effect="italics">B</emphasis> = 43° = <emphasis effect="italics">E</emphasis> (given)</para>
+      <para id="id2935904"><emphasis effect="italics">AB</emphasis> = 15 = <emphasis effect="italics">DE</emphasis> opposite 49°–angles (given)</para>
+      <para id="id4403236"> Δ<emphasis effect="italics">ABC</emphasis>  Δ<emphasis effect="italics">DEF</emphasis> (<emphasis effect="italics">S</emphasis>)</para>
+      <para id="id2349357">2. <emphasis effect="italics">BC</emphasis> = 12 = <emphasis effect="italics">FE</emphasis> (Pythagoras)</para>
+      <para id="id5363740"><emphasis effect="italics">AC</emphasis> = 15 = <emphasis effect="italics">DE</emphasis> (given)</para>
+      <para id="id1168097779483"> Right–angled triangles</para>
+      <para id="id1168097547179"> Δ<emphasis effect="italics">ABC</emphasis>  Δ<emphasis effect="italics">D</emphasis><emphasis effect="italics">FE</emphasis> (<emphasis effect="italics">RHS</emphasis>)</para>
+      <para id="id2595932">3. <emphasis effect="italics">BC</emphasis> = <emphasis effect="italics">BC</emphasis> (common or shared side)</para>
+      <para id="id1168095467810"> <emphasis effect="italics">B</emphasis> = 55° = <emphasis effect="italics">C</emphasis> (given)</para>
+      <para id="id6418319"> <emphasis effect="italics">A</emphasis> = <emphasis effect="italics">D</emphasis> (given; shown by little arc)</para>
+      <para id="id1168097811464"> Δ<emphasis effect="italics">ABC</emphasis>  Δ<emphasis effect="italics">D</emphasis><emphasis effect="italics">CB</emphasis><emphasis effect="italics"/>(<emphasis effect="italics">RHS</emphasis>)</para>
+      <para id="id1168099151055">Similarity</para>
+      <para id="id9036494">If a photocopier is available, teachers can design more exercises that will illustrate the principles of similarity by direct measurement.</para>
+      <para id="id1168099176247">Exercise:</para>
+      <para id="id8864116"> <emphasis effect="italics">Q</emphasis> = 55° en <emphasis effect="italics">Z</emphasis> = 65°</para>
+      <para id="id7919143"> Δ<emphasis effect="italics">PQR</emphasis>  Δ<emphasis effect="italics">XYZ</emphasis> (equiangular)</para>
+      <para id="id1168099286145"> 213 = 3(71)</para>
+      <para id="id4428821"><emphasis effect="italics">PR</emphasis> = 201  3 = 67 en <emphasis effect="italics">XY</emphasis> = 74 × 3 = 222</para>
+      <para id="id7573581"><emphasis effect="italics">DE</emphasis> = <emphasis effect="italics">AB</emphasis> × 4, <emphasis effect="italics">DF</emphasis> = <emphasis effect="italics">AC</emphasis> × 4 and <emphasis effect="italics">EF</emphasis> = <emphasis effect="italics">BC</emphasis> × 4</para>
+      <para id="id7795995"> Δ<emphasis effect="italics">ABC</emphasis>  Δ<emphasis effect="italics">DEF</emphasis> (sides are in proportion)</para>
+      <para id="id1168103694940"> Corresponding angles must be equal</para>
+      <para id="id1168099546116"> <emphasis effect="italics">A</emphasis> = <emphasis effect="italics">D</emphasis> = 62°; <emphasis effect="italics">E</emphasis> = <emphasis effect="italics">B</emphasis> = 49° en <emphasis effect="italics">C</emphasis> = <emphasis effect="italics">F</emphasis> = 69° (angles of Δ sum to 180°)</para>
+      <para id="id1168099243673">Exercise from activity 3.5:</para>
+      <para id="id1168099149661">1.1 Yes, Pythagoras gives <emphasis effect="italics">BG</emphasis> = 12 cm and <emphasis effect="italics">PT</emphasis> = 3cm; sides in proportion</para>
+      <para id="id8074049">1.2 Yes, <emphasis effect="italics">E</emphasis> = 70° = <emphasis effect="italics">U</emphasis> and <emphasis effect="italics">P</emphasis> = 60° = <emphasis effect="italics">R</emphasis> (angles of triangle); equiangular</para>
+      <para id="id1168095659603">1.3 No, <emphasis effect="italics">LP</emphasis> = 5 cm and <emphasis effect="italics">AT</emphasis> = 20 cm (Pythagoras); but sides are not in proportion</para>
+      <para id="id7997194">2. Proportional constant = 36 12 = 3</para>
+      <para id="id2595936">3. Short flagpole is 6,67 m tall</para>
+      <para id="id2358649">4. Pile of books on photocopy is 18  2 × 3 = 27 cm high</para>
+      <para id="id3419503"> 54 27 = 2 is the factor by which the design is made smaller.</para>
+    </section>
+  </content>
+</document>

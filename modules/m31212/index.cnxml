@@ -1,0 +1,1049 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The algebra of the four basic operations</title>
+  <metadata>
+  <md:content-id>m31212</md:content-id><md:title>The algebra of the four basic operations</md:title>
+  <md:abstract/>
+  <md:uuid>a8cc4682-5555-4845-8fa2-0adbc8597ac3</md:uuid>
+</metadata>
+
+<content>
+    <para id="id11851934">MATHEMATICS</para>
+    <para id="id11851939">Grade 9</para>
+    <para id="id11907636">ALGEBRA AND GEOMETRY</para>
+    <para id="id12252449">Module 6</para>
+    <para id="id9439187">THE ALGEBRA OF THE FOUR BASIC OPERATIONS</para>
+    <para id="id9776804">Activity 1</para>
+    <para id="id10800380">To refresh understanding of conventions in algebra as applied to addition and subtraction</para>
+    <para id="id13396162">[LO 1.2, 1.6]</para>
+    <para id="id11451965">A We will first have a look at terms. </para>
+    <para id="id10949454">Remember, terms are separated by + or –. In each of the following, say how many terms there are:</para>
+    <para id="id11516905">1. a + 5</para>
+    <para id="id12196873">2. 2a2</para>
+    <para id="id10647380">3. 5a (a+1) </para>
+    <para id="id11907247">4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mfrac><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mn>5a</m:mn></m:mrow></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 size 11{a} - 1}  over  { size 11{a rSup { size 8{2} } }} }  size 12{+5a}} {}</m:annotation></m:semantics></m:math></para>
+    <para id="id4814664">In the next exercise you must collect like terms to simplify the expression:</para>
+    <para id="id12197945">1. 5a + 2a </para>
+    <para id="id11822048">2. 2a2 + 3a – a2 </para>
+    <para id="id11734260">3. 3x – 6 + x + 11 </para>
+    <para id="id11715352">4. 2a(a–1) – 2a2</para>
+    <para id="id11852010">B Adding expressions </para>
+    <para id="id13337095">Example:</para>
+    <para id="id13337100">Add 3x + 4 by x + 5. </para>
+    <para id="id11917979">(x + 5) + (3x + 4) Write, with brackets, as sum.</para>
+    <para id="id7681602">x + 5 + 3x + 4 Remove brackets, with care.</para>
+    <para id="id10457596">4x + 9 Collect like terms.</para>
+    <para id="id10464178"/>
+    <para id="id10895926">In this exercise, add the two given expressions:</para>
+    <para id="id12105238">1. 7a + 3 and a + 2 </para>
+    <para id="id11545971">2. 5x – 2 and 6 – 3x </para>
+    <para id="id10464902">3. x + ½ and 4x – 3½ </para>
+    <para id="id5807904">4. a2 + 2a + 6 and a – 3 + a2  </para>
+    <para id="id11545906">5. 4a2 – a – 3 and 1 + 3a – 5a2</para>
+    <para id="id10949392">C Subtracting expressions </para>
+    <para id="id11464218">Study the following examples very carefully:</para>
+    <para id="id10440999"> Subtract 3x – 5 from 7x + 2.  </para>
+    <para id="id10466534"> (7x + 2) – (3x – 5) </para>
+    <para id="id9776743">Notice that 3x – 5 comes second, after the minus.</para>
+    <para id="id10882675"> 7x + 2 – 3x + 5 </para>
+    <para id="id8875736">The minus in front of the bracket makes a difference!</para>
+    <para id="id11836816"> 4x + 7  </para>
+    <para id="id11907587">Collecting like terms.</para>
+    <para id="id10301808"> Calculate 5a – 1 minus 7a + 12: (5a – 1) – (7a + 12)</para>
+    <para id="id10406606"> 5a – 1 – 7a – 12</para>
+    <para id="id12159100"> –2a – 13</para>
+    <para id="id12159104">D Mixed problems</para>
+    <para id="id8874334">Do the following exercise (remember to simplify your answer as far as possible):</para>
+    <para id="id4797428">1. Add 2a – 1 to 5a + 2. </para>
+    <para id="id4267943">2. Find the sum of 6x + 5 and 2 – 3x.</para>
+    <para id="id11612712">3. What is 3a – 2a2 plus a2 – 6a? </para>
+    <para id="id13334148">4. (x2 + x) + (x + x2) = . . . </para>
+    <para id="id10542043">5. Calculate (3a – 5) – (a – 2). </para>
+    <para id="id10498906">6. Subtract 12a + 2 from 1 + 7a.</para>
+    <para id="id7665382">7. How much is 4x2 + 4x less than 6x2 – 13x?</para>
+    <para id="id12126939">8. How much is 4x2 + 4x more than 6x2 – 13x?</para>
+    <para id="id9388515">9. What is the difference between 8x + 3 and 2x +1?</para>
+    <para id="id11724181"/>
+    <para id="id11724186">Use appropriate techniques to simplify the following expressions:</para>
+    <para id="id12169106">1. x2 + 5x2 – 3x + 7x – 2 + 8  </para>
+    <para id="id10453993">2. 7a2 – 12a + 2a2 – 5 + a – 3</para>
+    <para id="id11781265">3. (a2 – 4) + (5a + 3) + (7a2 + 4a) </para>
+    <para id="id11917916">4. (2x – x2) – (4x2 – 12) – (3x – 5)</para>
+    <para id="id10457652">5. (x2 + 5x2 – 3x) + (7x – 2 + 8) </para>
+    <para id="id10453627">6. 7a2 – (12a + 2a2 – 5) + a – 3</para>
+    <para id="id10458772">7. (a2 – 4) + 5a + 3 + (7a2 + 4a) </para>
+    <para id="id8027167">8. (2x – x2) – 4x2 – 12 – (3x – 5)</para>
+    <para id="id10453327">9. x2 + 5x2 – 3x + (7x – 2 + 8) </para>
+    <para id="id7673142">10. 7a2 – 12a + 2a2 – (5 + a – 3)</para>
+    <para id="id13331396">11. a2 – 4 + 5a + 3 + 7a2 + 4a </para>
+    <para id="id12196662">12. (2x – x2) – [(4x2 – 12) – (3x – 5)]</para>
+    <para id="id13335900">Here are the answers for the last 12 problems:</para>
+    <para id="id12373537">1. 6x2 + 4x + 6</para>
+    <para id="id12414044">2. 9a2 – 11a – 8</para>
+    <para id="id9484342">3. 8a2 + 9a – 1 </para>
+    <para id="id12196494">4. – 5x2 – x + 17</para>
+    <para id="id11917882">5. 6x2 + 4x + 6</para>
+    <para id="id4267699">6. 5a2 – 11a + 2</para>
+    <para id="id12196633">7. 8a2 + 9a – 1</para>
+    <para id="id10882290">8. – 5x2 – x – 7</para>
+    <para id="id11668067">9. 6x2 + 4x + 6</para>
+    <para id="id12204519">10. 9a2 – 13a – 2</para>
+    <para id="id10634528">11. 8a2 + 9a – 1</para>
+    <para id="id13330403">12. – 5x2 + 5x + 7</para>
+    <para id="id12110831">Activity 2</para>
+    <para id="id12173299">To multiply certain polynomials by using brackets and the distributive principle</para>
+    <para id="id10882159">[LO 1.2, 1.6, 2.7]</para>
+    <para id="id10456185"/>
+    <para id="id10812775">A monomial has one term; a binomial has two terms; a trinomial has three terms.</para>
+    <para id="id10091743">A Multiplying monomials.</para>
+    <para id="id12175727">Brackets are often used.</para>
+    <para id="id10949324">Examples:</para>
+    <para id="id9479920">2a × 5a = 10a2 </para>
+    <para id="id6380918">3a3 × 2a × 4a2 = 24 a6 </para>
+    <para id="id10647350">4ab × 9a2 × (–2a) × b = –36a4b2 </para>
+    <para id="id11695431">a × 2a × 4 × (3a2)3 = a × 2a × 4 × 3a2 × 3a2 × 3a2 = 126a8 </para>
+    <para id="id10634379">(2ab2)3 × (a2bc)2 × (2bc)2 = (2ab2) (2ab2) (2ab2) × (a2bc) (a2bc) × (2bc) (2bc) = 32a7b10c4 </para>
+    <para id="id11889632">Always check that your answer is in the simplest form.</para>
+    <para id="id12174712">Exercise:</para>
+    <para id="id12174716">1. (3x) (5x2)</para>
+    <para id="id11583277">(x3) (–2x)</para>
+    <para id="id11583282">(2x)2 (4) </para>
+    <para id="id12207516">(ax)2 (bx2) (cx2)2 </para>
+    <para id="id9679108">B Monomial × binomial</para>
+    <para id="id10457449">Brackets are essential.</para>
+    <para id="id10457453">Examples:</para>
+    <para id="id10406583">5(2a + 1) means multiply 5 by 2a as well as by 1. 5 (2a + 1) = 10a + 5 </para>
+    <para id="id10447678">Make sure that you work correctly with your signs.</para>
+    <para id="id10879732">4a(2a + 1) = 8a + 4a </para>
+    <para id="id12158970">–5a(2a + 1) = –10a2 – 5a </para>
+    <para id="id12158974">a2(–3a2 – 2a) = –3a4 – 2a3 </para>
+    <para id="id11587417">–7a(2a – 3) = –14a2 + 21a</para>
+    <para id="id10716998">Note: We have turned an expression in factors into an expression in terms. Another way of saying the same thing is: A product expression has been turned into a sum expression.</para>
+    <para id="id9939677">Exercise:</para>
+    <para id="id9939681">1. 3x (2x + 4)</para>
+    <para id="id8905329">x2 (5x – 2)</para>
+    <para id="id10453173">–4x (x2 – 3x) </para>
+    <para id="id11724088">(3a + 3a2) (3a)</para>
+    <para id="id10134285">C Monomial × trinomial</para>
+    <para id="id11677040">Examples:</para>
+    <para id="id12173658">5a(5 + 2a – a2) = 25a + 10a2 – 5a3 </para>
+    <para id="id10797653">– ½ (10x5 + 2a4 – 8a3) = – 5x5 – a4 +4a3</para>
+    <para id="id11621264">Exercise:</para>
+    <para id="id9823536">3x (2x2 – x + 2)</para>
+    <para id="id10454211">–ab2 (–bc + 3abc – a2c)</para>
+    <para id="id10454216">12a ( ¼ + 2a + ½ a2) </para>
+    <para id="id10364748">Also try: 4. 4x (5 – 2x + 4x2 – 3x3 + x4)</para>
+    <para id="id10798361">D Binomial × binomial</para>
+    <para id="id10676829">Each term of the first binomial must be multiplied by each term of the second binomial.</para>
+    <para id="id10865977">(3x + 2) (5x + 4) = (3x)(5x) + (3x)(4) + (2)(5x) + (2)(4) = 15x2 + 12x + 10x + 8</para>
+    <para id="id13496413"> = 15x2 + 22x + 8 </para>
+    <para id="id11847875">Always check that your answer has been    simplified.</para>
+    <para id="id11695941">Here is a cat–face picture to help you remember how to multiply two binomials:</para>
+    <figure id="id11545716">
+      <media id="id11545716_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-c3a8.png" id="id11545716__onlineimage" height="140" width="183"/>
+      </media>
+    </figure>
+    <para id="id11583448">The left ear says multiply the first term of the first binomial with the first term of the second binomial.</para>
+    <para id="id9388438">The chin says multiply the first term of the first binomial with the second term of the second binomial.</para>
+    <para id="id10882252">The mouth says multiply the second term of the first binomial with the first term of the second binomial.</para>
+    <para id="id10634102">The right ear says multiply the second term of the first binomial with the second term of the second binomial.</para>
+    <para id="id10634823"/>
+    <para id="id8822104">There are some very important patterns in the following exercise – think about them.</para>
+    <para id="id12103852">Exercise:</para>
+    <para id="id11645992">(a + b) (c + d)</para>
+    <para id="id11645997">(2a – 3b) (–c + 2d)</para>
+    <para id="id11697954">(a2 + 2a) (b 2 –3b)</para>
+    <para id="id9022047">(a + b) (a + b)</para>
+    <para id="id4144392">(x2 + 2x) (x2 + 2x)</para>
+    <para id="id4144397">(3x – 1) (3x – 1)</para>
+    <para id="id6336323">(a + b) (a – b)</para>
+    <para id="id4142344">(2y + 3) (2y – 3)</para>
+    <para id="id11608196">(2a2 + 3b) (2a2 – 3b)</para>
+    <para id="id3072549">(a + 2) (a + 3)</para>
+    <para id="id3072553">(5x2 + 2x) (x2 – x)</para>
+    <para id="id10957470">(–2a + 4b) (5a – 3b)</para>
+    <para id="id12824416">E Binomial × polynomial</para>
+    <para id="id10189925">Example:</para>
+    <para id="id9273263">(2a + 3) (a3 – 3a2 + 2a – 3) = 2a4 – 6a3 + 4a2 – 6a + 3a3 – 9a2 + 6a – 9</para>
+    <para id="id7689799"> = 2a4 – 3a3 – 5a2 – 9 (simplified)</para>
+    <para id="id10669441">Exercise:</para>
+    <para id="id13269148">(x2 – 3x) (x2 + 5x – 3)</para>
+    <para id="id11783999">(b + 1) (3b2 – b + 11)</para>
+    <para id="id12299079">(a – 4) (5 + 2a – b + 2c)</para>
+    <para id="id9823508">(–a + 2) (a + b + c – 3d)</para>
+    <para id="id11932089">Activity 3</para>
+    <para id="id12179801">To find factors of certain algebraic expressions</para>
+    <para id="id12179807">[LO 1.6, 2.1, 2.7]</para>
+    <para id="id6767103">A Understanding what factors are</para>
+    <para id="id10232126">This table shows the factors of some monomials</para>
+    <table id="id12178061" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>Expression</entry>
+            <entry>Smallest factors</entry>
+          </row>
+          <row>
+            <entry>42</entry>
+            <entry>2 × 3 × 7</entry>
+          </row>
+          <row>
+            <entry>6ab</entry>
+            <entry>2 × 3 × a × b</entry>
+          </row>
+          <row>
+            <entry>21a2b</entry>
+            <entry>3 × 7 × a × a × b</entry>
+          </row>
+          <row>
+            <entry>(5abc2)2</entry>
+            <entry>5 × a × b × c × c × 5 × a × b × c × c</entry>
+          </row>
+          <row>
+            <entry>–8y4</entry>
+            <entry>–2 × 2 × 2 × y × y × y × y</entry>
+          </row>
+          <row>
+            <entry>(–8y4)2</entry>
+            <entry>–2 × 2 × 2 × y × y × y × y × –2 × 2 × 2 × y × y × y × y</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id9204710">You can write the factors in any order, but if you stick to the usual order your work will be easier. Two lists of factors in the table are not in the usual order – rewrite them in order.</para>
+    <para id="id9758916">B Finding common factors of binomials</para>
+    <para id="id9215034">Take the binomial 6ab + 3ac.</para>
+    <para id="id10159487">The factors of 6ab are 2 × 3 × a × b and the factors of 3ac are 3 × a × c.</para>
+    <para id="id11901620">The factors that appear in both 6ab and 3ac are 3 and a – they are called common factors.</para>
+    <para id="id8803529">We can now use brackets to group the factors into the part that is common and the rest, as follows:</para>
+    <para id="id6932078">6ab = 3a × 2b and 3ac = 3a × c</para>
+    <para id="id10245027">Now we can factorise 6ab + 3ac. This is how to set it out:</para>
+    <para id="id12261024">6ab + 3ac = 3a (2b + c). </para>
+    <para id="id11811285">An expression in terms has been written as an expression in factors. </para>
+    <para id="id9484690">Or: A sum expression has been turned into a product expression.</para>
+    <para id="id3354023">Here are some more examples:</para>
+    <para id="id4139448">6x2 + 12x = 3x (2x + 4)</para>
+    <para id="id4139452">5x3 – 2x2 = x2 (5x – 2)</para>
+    <para id="id8928677">–4x3 + 12x2 = –4x (x2 – 3x)</para>
+    <para id="id12105710">9a2 + 9a3 = (3a + 3a2) (3a)</para>
+    <para id="id8923773">Look back at the exercise in section B of the previous activity – did you recognise the problems?</para>
+    <para id="id12199684">C Finding common factors of polynomials</para>
+    <para id="id10717625">In exactly the same way we can find the common factors of more than two terms. Here are some examples:</para>
+    <para id="id9739514">Examples:</para>
+    <para id="id9739519">6x3 – 3x2 + 6x = 3x (2x2 – x + 2)</para>
+    <para id="id10299712">ab3c – 3a2b3c + a3b2c = ab2c (b – 3ab + a2)</para>
+    <para id="id10373681">3a + 24a2 + 6a3 = 3a ( 1 + 8a + 2a2)</para>
+    <para id="id12125935">20x – 8x2 + 16x3 – 12x4 +4x5 = 4x (5 – 2x + 4x2 – 3x3 + x4)</para>
+    <para id="id12176651">You will notice that the terms remaining in the brackets don’t have any more common factors left. This is because they have been fully factorised. You must always take out the highest common factor from all the terms.</para>
+    <para id="id10537099">Exercise:</para>
+    <para id="id10537103">Fully factorise the following expressions by taking out the highest common factor:</para>
+    <para id="id11580771">12abc + 24ac</para>
+    <para id="id6144748">15xy – 21y</para>
+    <para id="id11407916">3abc + 18ab2c3</para>
+    <para id="id12201795">8x2y2 – 2x</para>
+    <para id="id12201800">2a2bc2 + 4ab2c – 7abc</para>
+    <para id="id10678609">12a(bc)2 – 8(abc)3 + 4(ab)2c3 – 20bc + 4a</para>
+    <para id="id13312424">Pair activity:</para>
+    <para id="id11761491">Did you notice that in each case the number of terms in the brackets after factorising was the same as the number of terms in the original expression? </para>
+    <para id="id10298169">Explain to your partner why you think this will always happen.</para>
+    <para id="id10513953">D Factorising difference of squares</para>
+    <para id="id9160205">In section D of the previous activity you had to multiply these three pairs of binomials:</para>
+    <para id="id9160210">(a + b) (a – b) , </para>
+    <para id="id10360550">(2y + 3) (2y – 3) and</para>
+    <para id="id12415188">(2a2 + 3b) (2a2 – 3b)</para>
+    <para id="id12415192">Here are the solutions:</para>
+    <para id="id12167722">(a + b) (a – b) = a2 – b2 </para>
+    <para id="id6748073">(2y + 3) (2y – 3) = 4y2 – 9 </para>
+    <para id="id12202433">(2a2 + 3b) (2a2 – 3b) = 4a4 – 9b2</para>
+    <para id="id12314036">You will have noticed that the answers have a very special pattern: square minus square.</para>
+    <para id="id6874737">This is called a difference of squares and this is how it is factorised:</para>
+    <para id="id9938228">First–square minus second–square</para>
+    <para id="id7658213">= (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>first</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>square</m:mtext></m:mrow></m:mstyle></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { ital "first" -  ital "square"} } {}</m:annotation></m:semantics></m:math>plus
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>sec</m:mtext><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ond</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>square</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"sec" ital "ond" -  ital "square"} } {}</m:annotation></m:semantics></m:math>) (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>first</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>square</m:mtext></m:mrow></m:mstyle></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { ital "first" -  ital "square"} } {}</m:annotation></m:semantics></m:math>minus
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>sec</m:mtext><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ond</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>square</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"sec" ital "ond" -  ital "square"} } {}</m:annotation></m:semantics></m:math>)</para>
+    <para id="id10326640">Examples:</para>
+    <para id="id12169163">x2 – 25 = (x + 5) (x – 5)</para>
+    <para id="id11692297">4 – b2 = (2 + b) (2 – b)</para>
+    <para id="id11692302">9a2 – 1 = (3a + 1) (3a – 1)</para>
+    <para id="id10595336">YOU HAVE TO BE VERY SURE OF THE MOST COMMON SQUARES AND THEIR ROOTS.</para>
+    <para id="id10142792">These are a few important ones – you must add to this list.</para>
+    <para id="id11811900">22 = 4 32 = 9 (a2)2 = a4 </para>
+    <para id="id9658662">(a3)2 = a6  </para>
+    <para id="id12414555">(½)2 = ¼  12 = 1</para>
+    <para id="id12203671">Exercise:</para>
+    <para id="id12168443">Factorise fully:</para>
+    <para id="id10239550">1. a2 – b 2</para>
+    <para id="id10198016">4y2 – 9</para>
+    <para id="id7703373">4a4 – 9b2 </para>
+    <para id="id10141012">1 – x2  </para>
+    <para id="id12116099">25 – a6  </para>
+    <para id="id11542484">a8 – ¼ </para>
+    <para id="id10443629">4a2b 2 – 81</para>
+    <para id="id10443634">0,25 – x2y6 </para>
+    <para id="id11427997">9. 2a2 – 2b2 (take care!)</para>
+    <para id="id11919008">E Combining common factors with differences of squares</para>
+    <para id="id11464550">As you saw in the last exercise (number 9), it is essential to check for common factors first and then to factorise the bracketed polynomial if possible. </para>
+    <para id="id11852593">Another example:</para>
+    <para id="id9411940">Factorise 12ax2 – 3ay2 </para>
+    <para id="id9354112">First recognise that there is a common factor of 3a, before saying that this can’t be a difference of squares.</para>
+    <para id="id12104140">12ax2 – 3ay2 = 3a (4x2 – y2) Now we recognise 4x2 – y2 as the difference of two squares.</para>
+    <para id="id10669640">12ax2 – 3ay2 = 3a (4x2 – y2) = 3a(2x + y)(2x – y).</para>
+    <para id="id11947473">Exercise:</para>
+    <para id="id6350593">Factorise completely: </para>
+    <para id="id10095286">1. ax2 – ay4  </para>
+    <para id="id9206400">2. a3 – ab2 </para>
+    <para id="id12221822">3. 0,5a2x – 4,5b2x </para>
+    <para id="id11532483">4. a5b3c – abc</para>
+    <para id="id9626230">F Successive differences of squares</para>
+    <para id="id10717492">Try factorising this binomial completely by keeping your eyes open: a4 – b4</para>
+    <para id="id9497267">Now do this exercise – as usual factorise as far as possible.</para>
+    <para id="id10518114">1. x6 – 64 </para>
+    <para id="id8932375">2. 1 – m8 </para>
+    <para id="id11723883">3. 3a4 – 24b8 </para>
+    <para id="id11470821">4. x – x9</para>
+    <para id="id10811309">G Factorising trinomials</para>
+    <para id="id6747840">If you study the answers to the following four problems (they are from a previous activity), you will notice that the answers, after simplifying, sometimes have two terms, sometimes three terms and sometimes four terms. Discuss what you see happening (with a partner) and decide why they are different.</para>
+    <para id="id11646888">1. (a + b) (a – b)  = a2 – ab + ab – b2 = a2 – b2 (when simplified)</para>
+    <para id="id10362839">2. (a + 2) (a + 3) = a2 + 3a + 2a + 6 = a2 + 5a + 6 </para>
+    <para id="id6342854">3. (a + b) (a + b) = a×a +ab + ba + b×b = a2 + ab + ab + b2 = a2 + 2ab + b2 (in the simplest form)</para>
+    <para id="id13401775">4. (a + b) (c + d)  = ac + ad + bc + bd (and this answer can not be simplified)</para>
+    <para id="id5602972">The answer to the type of problem represented by number 1 above is a difference of squares.</para>
+    <para id="id4751283">The answers to numbers 2 and 3 are trinomials, and we will now see how to factorise them</para>
+    <para id="id11802571">The first fact that you must always remember is that not all trinomials can be factorised.</para>
+    <para id="id9785440">Work backwards through problem 2:</para>
+    <para id="id4464321">a2 + 5a + 6 = a2 + 3a + 2a + 6 = (a + 2) (a + 3). </para>
+    <para id="id6341438">So that you can see clearly where the a2 came from, and the 5a and the 6.</para>
+    <para id="id9170760">Now try to factorise a2 + 7a + 12 = ( …………. ) ( …………… ) by filling in two correct binomials in the brackets.</para>
+    <para id="id11630243">You can check your answer by multiplying the binomials in your answer as you were taught in activity 2. Keep trying and checking your answer until you have it right. Do the same in the following three exercises:</para>
+    <para id="id6355125">Match up the two columns:</para>
+    <para id="id13393052"> A. a2 – 5a – 6   1. (x + 2)(x + 3)  </para>
+    <para id="id12160234"> B. a2 – a – 6   2. (x – 2)(x + 3)  </para>
+    <para id="id5757416"> C. a2 – 5a + 6   3. (x + 1)(x – 6)  </para>
+    <para id="id11668335"> D. a2 + 7a + 6   4. (x – 2)(x – 3)  </para>
+    <para id="id6353865"> E. a2 + 5a + 6   5. (x + 1)(x + 6)  </para>
+    <para id="id13349982"> F. a2 + 5a – 6   6. (x – 1)(x + 6)  </para>
+    <para id="id7651534"> G. a2 + a – 6   7. (x + 2)(x – 3)  </para>
+    <para id="id7613188"> H. a2 – 7a + 6   8. (x – 1)(x – 6)  </para>
+    <para id="id10085792">Now factorise the following trinomials by using the same techniques you have just learnt. The last two are more difficult than the first four!</para>
+    <para id="id9935942">a2 + 3a + 2</para>
+    <para id="id9473925">a2 + a – 12</para>
+    <para id="id7693419">a2 – 4a + 3</para>
+    <para id="id7693423">a2 – 9a + 20</para>
+    <para id="id6136158">a2 + ab – 12b2 </para>
+    <para id="id7902043">2a2 – 18a + 40</para>
+    <table id="id9683223" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>Problem</entry>
+            <entry>
+              <emphasis effect="bold">One f</emphasis>
+              <emphasis effect="bold">a</emphasis>
+              <emphasis effect="bold">ctor correct</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="bold">Both f</emphasis>
+              <emphasis effect="bold">a</emphasis>
+              <emphasis effect="bold">ctors correct</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="italics">A</emphasis>
+              <emphasis effect="bold">nswer checked by multiplic</emphasis>
+              <emphasis effect="bold">a</emphasis>
+              <emphasis effect="bold">tion</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>1</entry>
+            <entry>2</entry>
+            <entry>3</entry>
+          </row>
+          <row>
+            <entry>1</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id13423287" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>4</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>5</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>6</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id8853934">Finally, in groups of 3, 4 or 5, work out exactly how one should go about factorising these trinomials, and write down a strategy that will get you to the answer accurately and quickly. </para>
+    <para id="id11691952">Activity 4</para>
+    <para id="id10808738">To use factorising in simplifying fractions, and in multiplying, dividing and adding fractions</para>
+    <para id="id11379632">[LO 1.2, 1.6, 2.9]</para>
+    <para id="id6916850">A. Simplifying algebraic fractions</para>
+    <para id="id6694062">Two of the following four fractions can be simplified and the others can’t. Which is which?</para>
+    <para id="id7261492">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {2+a}  over  {2 - a} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+    <para id="id9402922">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>b</m:mi>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>a</m:mi>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mi>b</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {3 left (a+b right )}  over  {a+b} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+    <para id="id11722342">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {4+x}  over  {x+4} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+    <equation id="id11760009">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>a</m:mi>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mi>b</m:mi>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mi>c</m:mi>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mi>b</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>c</m:mi>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {a left (b - c right )}  over  {2 left (b+c right )} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="id11775068">As you have seen in the previous activity, factorising is a lot of trouble. So, why do we do it? </para>
+    <para id="id8687999">The following expression cannot be simplified as it is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>6a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">−</m:mo><m:mn>6b</m:mn></m:mrow></m:mrow><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6a rSup { size 8{2} } b - 6b}  over  {2a - 2} } } {}</m:annotation></m:semantics></m:math> because we are not allowed to cancel terms. If we can change the sum expressions into product expressions (by factorising) then we will be able to cancel the factors, and simplify.</para>
+    <para id="id6038849">6a2b – 6b = 6b (a2 – 1) = 6b (a + 1) (a – 1)  and  2a – 2 = 2(a – 1)</para>
+    <para id="id11475293">So, the reason we factorise is that it allows us to simplify expressions better.</para>
+    <para id="id11475299">Now: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>6a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">−</m:mo><m:mn>6b</m:mn></m:mrow></m:mrow><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6a rSup { size 8{2} } b - 6b}  over  {2a - 2} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mi>b</m:mi><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6 size 11{b left (a+1 right ) left (a - 1 right )}}  over  {2 left (a - 1 right )} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>3b</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3b left (a+1 right )}  over  {1} } } {}</m:annotation></m:semantics></m:math> = 3b(a + 1) . </para>
+    <para id="id13392426">It is very important that you factorise completely.</para>
+    <para id="id13400164">Exercise:</para>
+    <para id="id11433267">Factorise the numerator and denominator, cancel factors and write in the simplest form:</para>
+    <para id="id13329593">1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>6b</m:mn></m:mrow></m:mrow><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 11{"12"}a+6b}  over  {2a+b} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id13420934">2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{2} }  - 9}  over  {x+3} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id13329536">3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>6</m:mn><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 left (a+1 right ) left (a - 1 right )}  over  {6 left (a+1 right ) rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id13411628">4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>5a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>5a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5a rSup { size 8{2} }  - 5}  over  {5a+5} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id11935101">B. Multiplying and dividing fractions </para>
+    <para id="id11676571">Our normal rules for multiplication and division of fractions are still the same. Study the following examples, taking special note of the factorising and cancelling.</para>
+    <para id="id11942229"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mi>y</m:mi></m:mrow><m:msup><m:mn>6y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xy</m:mtext></m:mrow></m:mstyle><m:msup><m:mn>3x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>xy</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mn>3x</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4x rSup { size 8{3} } y}  over  {6y rSup { size 8{2} } } }  div  {  { ital "xy"}  over  {3x rSup { size 8{2} } } }  times  {  {2 ital "xy" rSup { size 8{2} } }  over  {3x} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mi>y</m:mi></m:mrow><m:msup><m:mn>6y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:msup><m:mn>3x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xy</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>xy</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mn>3x</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4x rSup { size 8{3} } y}  over  {6y rSup { size 8{2} } } }  times  {  {3x rSup { size 8{2} } }  over  { ital "xy"} }  times  {  {2 ital "xy" rSup { size 8{2} } }  over  {3x} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4x rSup { size 8{4} } }  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id9483371"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:msup><m:mn>4a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mi>a</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a rSup { size 8{2} }  - 9}  over  {2} }  times  {  {1}  over  {4a rSup { size 8{2} }  - "12"a} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>4a</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { left (a+3 right ) left (a - 3 right )}  over  {2} }  times  {  {1}  over  {4a left (a - 3 right )} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced><m:mn>8a</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { left (a+3 right )}  over  {8a} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id9023367"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a+6}  over  {5} }  div  {  {a rSup { size 8{2} }  - 4}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mtext>10</m:mtext><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a+6}  over  {5} }  times  {  {"10"}  over  {a rSup { size 8{2} }  - 4} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mtext>10</m:mtext><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 left (a+2 right )}  over  {5} }  times  {  {"10"}  over  { left (a+2 right ) left (a - 2 right )} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {a - 2} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id11688155">Exercise:</para>
+    <para id="id11688160">Simplify:</para>
+    <para id="id13309415">1. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mi>c</m:mi></m:mrow></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ac</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mn>4b</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow><m:msup><m:mn>2b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 ital "ab" rSup { size 8{2} } }  over  {b rSup { size 8{3} } c} }  times  {  {9 ital "ac" rSup { size 8{2} } }  over  {4b} }  div  {  {3 ital "ac"}  over  {2b rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id7666291">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>4</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 left (a+1 right ) left (a - 2 right ) rSup { size 8{2} } }  over  { left (a - 2 right ) rSup { size 8{3} }  left (a+3 right )} }  times  {  {9 left (a+1 right ) left (a+3 right ) rSup { size 8{2} } }  over  {4 left (a - 2 right )} }  div  {  {3 left (a+1 right ) left (a+3 right )}  over  {2 left (a - 2 right ) rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id11635129">3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>4a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>8a</m:mn></m:mrow><m:mrow><m:mn>2b</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mfenced open="(" close=")"><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:msup><m:mn>3a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>6a</m:mn></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4a rSup { size 8{2} } +8a}  over  {2b+4} }  times  {  {3 left (b rSup { size 8{2} } +2 right )}  over  {3a rSup { size 8{2} } +6a} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id13420525">4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>5x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac><m:mo stretchy="false">÷</m:mo><m:mfrac><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mtext>15</m:mtext><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{2} }  - 1}  over  {5x - 5} }  div  {  { left (x+1 right ) rSup { size 8{2} } }  over  {"15"x+"15"} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id11442060">5. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>7x</m:mn><m:mrow><m:mn>3</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xy</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:msup><m:mn>5x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi>y</m:mi></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:mn>5x</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mrow><m:msup><m:mn>3x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7x}  over  {3 ital "xy"} }  div  {  {3x+6}  over  {5x rSup { size 8{2} } y} }  div  {  {5x - "10"}  over  {3x rSup { size 8{2} }  - "12"} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id8928353">6. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mfrac><m:mrow><m:msup><m:mn>5x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>5x</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow></m:mfrac><m:mfrac><m:mrow><m:mn>5x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { {  {5x rSup { size 8{2} } +5x}  over  {x rSup { size 8{2} }  - x} } }  over  { {  {5x+5}  over  {x rSup { size 8{2} }  - 1} } } } } {}</m:annotation></m:semantics></m:math> (here we have a fraction divided by a fraction – first rewrite it like number 4)</para>
+    <para id="id13449916">C. Adding fractions</para>
+    <para id="id7682587">You already know quite well that adding and subtracting fractions is a lot more difficult than multiplying and dividing them. The reason is that we can only add and subtract the same kind of fractions, namely fractions with identical denominators. If the denominators are different, find the lowest common multiple of the denominators (LCD), rewrite all the terms with this as denominator, and then simplify by gathering like terms together. Finally, the answer has to be simplified by cancelling factors occurring in both numerator and denominator. Here are some examples – all the steps have been shown:</para>
+    <para id="id11603098">Simplify: </para>
+    <para id="id11603104">1. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>abx</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow><m:mn>3x</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle><m:mn>2a</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5 ital "abx"}  over  {2 ital "cx"} } + {  {4 ital "ac"}  over  {3x} } + {  { ital "cx"}  over  {2a} } } {}</m:annotation></m:semantics></m:math> (LCD = 6acx) </para>
+    <para id="id11518912"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>abx</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mn>3a</m:mn><m:mn>3a</m:mn></m:mfrac></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow><m:mn>3x</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mfenced></m:mrow><m:mo stretchy="false">+</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle><m:mn>2a</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>3</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {5 ital "abx"}  over  {2 ital "cx"} }  times  {  {3a}  over  {3a} }  right )+ left ( {  {4 ital "ac"}  over  {3x} }  times  {  {2 ital "ac"}  over  {2 ital "ac"} }  right )+ left ( {  { ital "cx"}  over  {2a} }  times  {  {3 ital "cx"}  over  {3 ital "cx"} }  right )} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>15</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bx</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>6</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:msup><m:mn>8a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>6</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:msup><m:mn>3c</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>6</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"a rSup { size 8{2} }  ital "bx"}  over  {6 ital "acx"} } + {  {8a rSup { size 8{2} } c rSup { size 8{2} } }  over  {6 ital "acx"} } + {  {3c rSup { size 8{2} } x rSup { size 8{2} } }  over  {6 ital "acx"} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>15</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:msup><m:mn>8a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>3c</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>6</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"a rSup { size 8{2} }  ital "bx"+8a rSup { size 8{2} } c rSup { size 8{2} } +3c rSup { size 8{2} } x rSup { size 8{2} } }  over  {6 ital "acx"} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id13405824"/>
+    <para id="id13450523">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow><m:mn>3</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a+b}  over  {2} } + {  {b+c}  over  {3} }  -  {  {a+c}  over  {6} } } {}</m:annotation></m:semantics></m:math> (LCD = 6) Take careful note of how the signs are handled below!</para>
+    <para id="id12160790"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced></m:mrow><m:mn>6</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow></m:mfenced></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 left (a+b right )}  over  {6} } + {  {2 left (b+c right )}  over  {6} }  -  {  {a+c}  over  {6} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow></m:mfenced><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow></m:mfenced></m:mrow></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 left (a+b right )+2 left (b+c right ) -  left (a+c right )}  over  {6} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>3a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3b</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2b</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2c</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mi>c</m:mi></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a+3b+2b+2c - a - c}  over  {6} } } {}</m:annotation></m:semantics></m:math> =  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5b</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2a+5b+c}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id8905359">3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>3a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>2</m:mn><m:mrow><m:mn>5a</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a+3}  over  {a rSup { size 8{2} }  - 4} } + {  {1}  over  {3a+6} } + {  {2}  over  {5a - "10"} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id10784036">To find Lowest Common Denominator first factorise denominators!</para>
+    <para id="id10784041">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mfenced open="(" close=")">
+                          <m:mrow>
+                            <m:mi>a</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mfenced>
+                        <m:mfenced open="(" close=")">
+                          <m:mrow>
+                            <m:mi>a</m:mi>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mfenced open="(" close=")">
+                          <m:mrow>
+                            <m:mi>a</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                  <m:mo stretchy="false">+</m:mo>
+                  <m:mfrac>
+                    <m:mn>2</m:mn>
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mi>a</m:mi>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {a+3}  over  { left (a+2 right ) left (a - 2 right )} } + {  {1}  over  {3 left (a+2 right )} } + {  {2}  over  {5 left (a - 2 right )} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+    <para id="id9939634"> Do you see that the LCD is 3×5×(a+2)(a–2)?</para>
+    <para id="id5720948">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mi>a</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mfenced open="(" close=")">
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mfenced>
+                            <m:mfenced open="(" close=")">
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mfenced>
+                          </m:mrow>
+                        </m:mfrac>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:mfrac>
+                          <m:mtext>15</m:mtext>
+                          <m:mtext>15</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mfenced>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                            <m:mfenced open="(" close=")">
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mfenced>
+                          </m:mrow>
+                        </m:mfrac>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                            <m:mfenced open="(" close=")">
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mfenced>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                            <m:mfenced open="(" close=")">
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mfenced>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                  <m:mo stretchy="false">+</m:mo>
+                  <m:mfenced open="(" close=")">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>2</m:mn>
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+                          <m:mfenced open="(" close=")">
+                            <m:mrow>
+                              <m:mi>a</m:mi>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mfenced>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mfenced open="(" close=")">
+                            <m:mrow>
+                              <m:mi>a</m:mi>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mfenced>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mfenced open="(" close=")">
+                            <m:mrow>
+                              <m:mi>a</m:mi>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mfenced>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mfenced>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {a+3}  over  { left (a+2 right ) left (a - 2 right )} }  times  {  {"15"}  over  {"15"} }  right )+ left ( {  {1}  over  {3 left (a+2 right )} }  times  {  {5 left (a - 2 right )}  over  {5 left (a - 2 right )} }  right )+ left ( {  {2}  over  {5 left (a - 2 right )} }  times  {  {3 left (a+2 right )}  over  {3 left (a+2 right )} }  right )} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+    <para id="id11607801"> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>15</m:mtext><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mtext>15</m:mtext><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15" left (a+3 right )+5 left (a - 2 right )+6 left (a+2 right )}  over  {"15" left (a+2 right ) left (a - 2 right )} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>15</m:mtext><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>45</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>5a</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6a</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow><m:mrow><m:mtext>15</m:mtext><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"a+"45"+5a - "10"+6a+"12"}  over  {"15" left (a+2 right ) left (a - 2 right )} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>26</m:mtext><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>47</m:mtext></m:mrow></m:mrow><m:mrow><m:mtext>15</m:mtext><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"26"a+"47"}  over  {"15" left (a+2 right ) left (a - 2 right )} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id7680449">Exercise:</para>
+    <para id="id5087074">Simplify the following expressions by using factorising:</para>
+    <para id="id5092273"> 1. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mi>a</m:mi><m:mi>x</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>5a</m:mn><m:mn>2x</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {x rSup { size 8{2} } } }  -  {  {a}  over  {x} } + {  {5a}  over  {2x} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5091652">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mn>2x</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mn>3x</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } + {  {2x+1}  over  {2x} }  -  {  {x - 1}  over  {3x} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id10098020">3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>4a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4b</m:mn></m:mrow><m:mrow><m:msup><m:mn>2a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mn>2b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2b</m:mn></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4a - 4b}  over  {2a rSup { size 8{2} }  - 2b rSup { size 8{2} } } }  -  {  {3}  over  {2a - 2b} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5623754">4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} }  left (a - 2 right )+ {  {2}  over  {3} }  left (a+1 right ) -  {  {3}  over  {4} }  left (a - 3 right )} {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5101835">Assessment: Assess the 4 problems in the exercise above.</para>
+    <para id="id5427372"/>
+    <para id="id5427376">Here is one final trick. We could simplify 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>3</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow></m:mfenced></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 left (x - 1 right )}  over  {3 left (x+3 right )} }  times  {  {9 left (x+3 right )}  over  { left (1 - x right )} } } {}</m:annotation></m:semantics></m:math> better if (1–x) had been: (x–1).</para>
+    <para id="id5091960">So, we make the change we want by changing the sign of the whole binomial as well:</para>
+    <para id="id5634202">(1–x) = –(x–1) because –(x–1) = –x + 1, which is 1–x. Finish the problem  yourself. </para>
+    <para id="id5493521">Assessment</para>
+    <table id="id5493526" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry>Learning outcomes(LOs)</entry>
+          </row>
+          <row>
+            <entry/>
+          </row>
+          <row>
+            <entry>LO 1</entry>
+          </row>
+          <row>
+            <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+          </row>
+          <row>
+            <entry>Assessment standards(ASs)</entry>
+          </row>
+          <row>
+            <entry/>
+          </row>
+          <row>
+            <entry>We know this when the learner:</entry>
+          </row>
+          <row>
+            <entry>1.1 describes and illustrates the historical development of number systems in a variety of historical and cultural contexts (including local);</entry>
+          </row>
+          <row>
+            <entry>1.2 recognises, uses and represent rational numbers (including very small numbers written in scientific notation), moving flexibly between equivalent forms in appropriate contexts;</entry>
+          </row>
+          <row>
+            <entry>1.3 solves problems in context, including contexts that may be used to build awareness of other Learning Areas, as well as human rights, social, economic and environmental issues such as:</entry>
+          </row>
+          <row>
+            <entry>1.3.1 financial (including profit and loss, budgets, accounts, loans, simple and compound interest, hire purchase, exchange rates, commission, rentals and banking);</entry>
+          </row>
+          <row>
+            <entry>1.3.2 measurements in Natural Sciences and Technology contexts;</entry>
+          </row>
+          <row>
+            <entry>1.4 solves problems that involve ratio, rate and proportion (direct and indirect);</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id12110847"/>
+    <table id="id12110852" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>1.5 estimates and calculates by selecting and using operations appropriate to solving problems and judging the reasonableness of results (including measurement problems that involve rational approximations of irrational numbers);</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>1.6 uses a range of techniques and tools (including technology) to perform calculations efficiently and to the required degree of accuracy, including the following laws and meanings of exponents (the expectation being that learners should be able to use these laws and meanings in calculations only):</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>1.6.1 x n × x m = xn + m</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>1.6.2 x n  x m = xn – m</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>1.6.3 x 0 = 1</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>1.6.4 x –n = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {x rSup { size 8{n} } } } } {}</m:annotation></m:semantics></m:math></entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>1.7 recognises, describes and uses the properties of rational numbers.</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>LO 2</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Patterns, Functions and AlgebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>We know this when the learner:</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>2.1 investigates, in different ways, a variety of numeric and geometric patterns and relationships by representing and generalising them, and by explaining and justifying the rules that generate them (including patterns found in natural and cultural forms and patterns of the learner’s own creation);</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">2.7 uses the distributive law and manipulative skills developed in Grade 8 to:</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">find the product of two binomials;</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">factorise algebraic expressions (limited to common factors and difference of squares).</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">2.8 uses the laws of exponents to simplify expressions and solve equations;</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">2.9 uses factorisation to simplify algebraic expressions and solve equations.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id5577467">Memorandum</para>
+    <para id="id5070633">TEST 1</para>
+    <para id="id5070639">1. Simplify the following expressions by collecting like terms:</para>
+    <para id="id5694375">1.1 3a2 + 3a2 – 6a + 3a – 4 + 1</para>
+    <para id="id5694382">1.2 2y2 – 1y + 2y2 – 6 + 2y – 9</para>
+    <para id="id6736046">1.3 8x2 – (5x + 12x2 – 1) + x – 4</para>
+    <para id="id5087988">1.4 (3a – a2) – [(2a2 – 11) – (5a – 3)]</para>
+    <para id="id5087996">2. Give the answers to the following problems in the simplest form:</para>
+    <para id="id5107889">2.1 Add 3x2 + 5x – 1 to x2 – 3x</para>
+    <para id="id5576606">2.2 Find the sum of 2a + 3b – 5 and 3 + 2b – 7a</para>
+    <para id="id5576613">2.3 Subtract 6a + 7 from 5a2 + 2a + 2</para>
+    <para id="id5438765">2.4 How much is 3a – 8b + 3 less than a + b + 2?</para>
+    <para id="id5438773">3. Simplify by multiplication, leaving your answer in the simplest form:</para>
+    <para id="id5500034">3.1 (3x2) × (2x3)</para>
+    <para id="id5099836">3.2 (abc) (a2c) (2b2)</para>
+    <para id="id5099843">3.3 abc(a2c + 2b2)</para>
+    <para id="id5078863">3.4 –3a(2a2 – 5a)</para>
+    <para id="id5696554">3.5 (a – 2b) (a + 2b)</para>
+    <para id="id5696562">3.6 (3 – x2) (2x2 + 5)</para>
+    <para id="id5647582">3.7 (x – 5y)2</para>
+    <para id="id5647588">3.8 (2 – b) (3a + c)</para>
+    <para id="id5092130">TEST 1 – Memorandum </para>
+    <para id="id5092135">1.1 6a2 – 3a – 3 </para>
+    <para id="id11878940">1.2 4y2 + y – 15  </para>
+    <para id="id5059890">1.3 – 4x2 – 4x – 3</para>
+    <para id="id5059896">1.4 – 3a2 + 8a + 8   </para>
+    <para id="id5428841">2.1 4x2 + 2x – 1  </para>
+    <para id="id5081227">2.2 – 5a + 5b – 2</para>
+    <para id="id5081234">2.3 5a2 – 4a – 5   </para>
+    <para id="id5450536">2.4 – 2a + 9b – 1  </para>
+    <para id="id5110576">3.1 6x5  </para>
+    <para id="id5110585">3.2 2a3b3c2    </para>
+    <para id="id6658432">3.3 a3bc2 + 2ab3c  </para>
+    <para id="id5560849">3.4 – 6a3 + 15a2  </para>
+    <para id="id5560857">3.5 a2 – 4b2    </para>
+    <para id="id5594317">3.6 –2x4 + x2 + 15  </para>
+    <para id="id5803633">3.7 x2 – 10xy + 25y2 </para>
+    <para id="id5803640">3.8 6a + 2c – 3ab – bc</para>
+    <para id="id5594818">TEST 2 </para>
+    <para id="id5594822">1. Find the Highest Common Factor of these three expressions: 6a2c2 and 2ac2 and 10ab2c3.</para>
+    <para id="id7731382">2. Completely factorise these expressions by finding common factors:</para>
+    <para id="id5076421">2.1 12a3 + 3a4</para>
+    <para id="id5076428">2.2 –5xy – 15x2y2 – 20y</para>
+    <para id="id6697372">2.3 6a2c2 – 2ac2 + 10ab2c3 </para>
+    <para id="id6697380">3. Factorise these differences of squares completely:</para>
+    <para id="id5062089">3.1 a2 – 4</para>
+    <para id="id13330062">3.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mn>9b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {9} } a rSup { size 8{2} }  - 9b rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5088250">3.3 x4 – 16y4</para>
+    <para id="id5682066">3.4 1 – a4b4 </para>
+    <para id="id5082276">4. Factorise these expressions as far as possible:</para>
+    <para id="id5082284">4.1 3x2 – 27</para>
+    <para id="id5082703">4.2 2a – 8ab2 </para>
+    <para id="id5082710">4.3 a2 – 5a – 6</para>
+    <para id="id5494619">4.4 a2 + 7a + 6</para>
+    <para id="id5494626">5. Simplify the following fractions by making use of factorising:</para>
+    <para id="id5110885">5.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>3a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>6a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a rSup { size 8{2} }  - 3}  over  {6a+6} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id4808718">5.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>6x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">−</m:mo><m:mn>6y</m:mn></m:mrow></m:mrow><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6x rSup { size 8{2} } y - 6y}  over  {2x - 2} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5426722">5.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:msup><m:mn>4a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mi>a</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a rSup { size 8{2} }  - 9}  over  {2} }  times  {  {1}  over  {4a rSup { size 8{2} }  - "12"a} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id6166130">5.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3x+6}  over  {5} }  div  {  {x rSup { size 8{2} }  - 4}  over  {"15"} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5782490">5.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>abx</m:mtext></m:mrow></m:mstyle><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow><m:mn>3x</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cx</m:mtext></m:mrow></m:mstyle></m:mrow><m:mn>2a</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "abx"}  over  {2 ital "cx"} } + {  {2 ital "ac"}  over  {3x} } + {  {3 ital "cx"}  over  {2a} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5058551">5.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>2a</m:mn><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>3a</m:mn><m:mi>x</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>a</m:mi><m:mn>2x</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2a}  over  {x rSup { size 8{2} } } }  -  {  {3a}  over  {x} } + {  {a}  over  {2x} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id6030071">5.7 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>4a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4b</m:mn></m:mrow><m:mrow><m:msup><m:mn>2a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mn>2b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>2a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2b</m:mn></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4a - 4b}  over  {2a rSup { size 8{2} }  - 2b rSup { size 8{2} } } }  -  {  {3}  over  {2a - 2b} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5058502">5.8 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} }  left (a+2 right )+ {  {1}  over  {3} }  left (a - 1 right ) -  {  {1}  over  {4} }  left (a - 5 right )} {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5084527">TEST 2 – Memorandum </para>
+    <para id="id5084532">1. 2ac2  </para>
+    <para id="id5440711">2.1 3a3 (4 + a2)</para>
+    <para id="id5440717">2.2 –5y (x + 3x2y + 4)</para>
+    <para id="id5582866">2.3 2ac2 (3a – 1 + 5b2c)</para>
+    <para id="id5582873">3.1 (a + 2) (a – 2)</para>
+    <para id="id10812947">3.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3b</m:mn></m:mrow></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3b</m:mn></m:mrow></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {1}  over  {3} } a+3b right ) left ( {  {1}  over  {3} } a - 3b right )} {}</m:annotation></m:semantics></m:math></para>
+    <para id="id11543354">3.3 (x2 + 4y2) (x + 2y) (x – 2y)</para>
+    <para id="id7656564">3.4 (1 + a2b2) (1 + ab) (1 – ab)</para>
+    <para id="id7656572">4.1 3 (x + 3) (x – 3)</para>
+    <para id="id11644935">4.2 2a (1 + 4b) (1 – 4b)</para>
+    <para id="id11644942">4.3 (a + 1) (a – 6)</para>
+    <para id="id7387854">4.4 (a + 1) (a + 6)</para>
+    <para id="id7387860">5.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a - 1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id6403859">5.2 3y (x + 1)</para>
+    <para id="id5070058">5.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mn>8a</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a+3}  over  {8a} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5564990">5.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {x - 2} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5060645">5.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>3a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>9c</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>6</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a rSup { size 8{2} }  ital "bx"+4a rSup { size 8{2} } c rSup { size 8{2} } +9c rSup { size 8{2} } x rSup { size 8{2} } }  over  {6 ital "acx"} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5086305">5.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mn>4a</m:mn><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ax</m:mtext></m:mrow></m:mstyle></m:mrow><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4a - 5 ital "ax"}  over  {2x rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5681552">5.7 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>7b</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a - 7b}  over  {2 left (a+b right ) left (a - b right )} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id5608271">5.8 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>3a</m:mn><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a+9}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+  </content>
+</document>

@@ -1,0 +1,210 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Congruency</title>
+  <metadata>
+  <md:content-id>m31234</md:content-id><md:title>Congruency</md:title>
+  <md:abstract/>
+  <md:uuid>3e828dd0-0e12-4160-959f-f63a61213a79</md:uuid>
+</metadata>
+
+<content>
+    <section id="id5846508">
+      <title>MATHEMATICS</title>
+      <para id="para-id5846508">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8111632">
+      <title>Grade 9</title>
+      <para id="para-id8111632">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8111640">
+      <title>ALGEBRA AND GEOMETRY</title>
+      <para id="para-id8111640">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8111647">
+      <title>Module 9</title>
+      <para id="para-id8111647">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8111655">
+      <title>CONGRUENCY</title>
+      <list id="id8111662" list-type="bulleted">
+        <item>The term congruency means that two figures are identical in every way. It therefore means that all the sides of the one figure are equal to all the sides of the other figure and that all the angles of one figure are equal to all the angles of the other figure. If the figures are cut out, they will fit precisely on one another.</item>
+      </list>
+      <para id="id5845635">ACTIVITY 1 </para>
+      <para id="id5845640">To understand what the term congruency in general means</para>
+      <para id="id5845645">[LO 3.2.1]</para>
+      <para id="id5845649">Study the figures on the grid (A-1) and decide which of them are congruent. Then give each pair of congruent figures by writing them down with the letters in order of the sides and angles which are equal. The symbol for congruency is .</para>
+      <para id="id5845670">For example:</para>
+      <figure id="id5845678">
+        <media id="id5845678_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-85a9.png" id="id5845678__onlineimage" height="144" width="518"/>
+        </media>
+      </figure>
+      <para id="id3755951">Quadrilateral APEK  Quadrilateral CDNM</para>
+      <list id="id3755967" list-type="bulleted">
+        <item>A triangle has six elements; namely three angles and three sides. Only three of these elements are needed to construct a triangle:</item>
+      </list>
+      <list id="id3755979" list-type="bulleted">
+        <item>Combinations of the three elements are:</item>
+      </list>
+      <list id="id8111305" list-type="bulleted">
+        <item>3 sides (sss)</item>
+        <item>2 sides and the angle between them (ss)</item>
+        <item>2 angles and a side (s)</item>
+        <item>2 sides and the angle not between them (ss)</item>
+        <item>3 angles ()</item>
+        <item>A 90° - angle, a side and the hypotenuse (90°ss or rhs) </item>
+      </list>
+      <para id="id8141047">ACTIVITY 2 </para>
+      <para id="id8141051">To practically determine what the conditions for congruent triangles are</para>
+      <list id="id8141056" list-type="bulleted">
+        <item>You are given four pages with accurately constructed triangles. </item>
+      </list>
+      <para id="id8141066">1.1 Study <emphasis effect="bold">p</emphasis>a<emphasis effect="bold">ge </emphasis>A<emphasis effect="bold">-2</emphasis> of the accurately constructed triangles. Study the triangles which were constructed by using three given sides and write down all the pairs of triangles which are congruent <emphasis effect="bold">(sss). </emphasis>Remember that, as in activity 1, the triangles must be written down in order of the sides which are equal to each other.</para>
+      <para id="id7772467">1.2 Will two triangles of which the sides of the one triangle are equal to the sides of the other triangle a<emphasis effect="bold">lw</emphasis>a<emphasis effect="bold">ys </emphasis>be congruent to each other?</para>
+      <para id="id7772493">1.3 If you only receive the information as in the sketches below, can you always with certainty say that the two triangles will be congruent? (Remember no real lengths are given).</para>
+      <figure id="id7772506">
+        <media id="id7772506_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-0ee5.png" id="id7772506__onlineimage" height="127" width="405"/>
+        </media>
+      </figure>
+      <para id="id8173311">2.1 Again study <emphasis effect="bold">p</emphasis>a<emphasis effect="bold">ge </emphasis>A<emphasis effect="bold">-2 </emphasis>of the accurately constructed triangles. Now look at the triangles constructed by using two sides and the angle between the two given sides, <emphasis effect="bold">(s</emphasis><emphasis effect="bold"></emphasis><emphasis effect="bold">s)</emphasis>, and write down all the pairs of triangles which are congruent. Again remember to write down the triangles in order of the side, angle, side which are equal.</para>
+      <para id="id5849778">2.2 Will two triangles of which two sides and the angle between them are equal, always be congruent?</para>
+      <para id="id5849788">2.3 If you only receive the information as in the sketches below, can you always with certainty, say that the two triangles will be congruent? (Remember no real lengths or magnitudes of angles are given).</para>
+      <para id="id5849798">3.1 <emphasis effect="bold">On p</emphasis>a<emphasis effect="bold">ge </emphasis>A<emphasis effect="bold">-3 </emphasis>of the accurately constructed triangles two angles and a side <emphasis effect="bold">(</emphasis><emphasis effect="bold"></emphasis><emphasis effect="bold">s)</emphasis> are used to construct the triangles. Study these triangles and write down the pairs of triangles, which are congruent. Again remember to write down the triangles in order of the elements, which are equal.</para>
+      <para id="id5845042">3.2 In ΔDOM and ΔLOC DM = OC, D = O en M = L, but these two triangles are not congruent. Why is that so? Give a general rule by completing the following sentence:</para>
+      <para id="id5845082">Two triangles are congruent if angle, angle, side of the one triangle are equal to angle, angle and the ……………………..side of the other triangle.</para>
+      <para id="id5849839">3.3 If you only receive the information as in the sketches below, can you say with certainty that the two triangles are a<emphasis effect="bold">lw</emphasis>a<emphasis effect="bold">ys </emphasis>congruent?</para>
+      <figure id="id8105429">
+        <media id="id8105429_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-edd7.png" id="id8105429__onlineimage" height="121" width="405"/>
+        </media>
+      </figure>
+      <para id="id8105451">DEFρCBAρ3.4 Will the following two triangles be congruent? Why?</para>
+      <para id="id8146404">4.1 <emphasis effect="bold">Study page A-4</emphasis> of the accurately constructed triangles. All the triangles on page A-4 were constructed by using two sides and the angle not between the two given sides, <emphasis effect="bold">(ss</emphasis><emphasis effect="bold"></emphasis><emphasis effect="bold">)</emphasis> Study these triangles and write down the pairs of triangles which are congruent. Again remember to write down the triangles in order of the elements which are equal.</para>
+      <para id="id8146436">4.2 There are two triangles, which, although the two sides and the angle are equal, are not congruent. Name them.</para>
+      <para id="id7772546">4.3.1 Do you think that, if two sides and the angle not between the two sides, are used to construct triangles they would <emphasis effect="bold">always</emphasis><emphasis effect="bold"/>be congruent?</para>
+      <para id="id7772564">4.3.2 What condition must the given sides satisfy for the triangles to be congruent?</para>
+      <para id="id7772572">4.4.4 If you only receive the information as in the sketches below, can you with certainty say that the two triangles are<emphasis effect="bold"> always</emphasis><emphasis effect="bold"/>congruent? (Remember you now do not know what the lengths of the two given sides).</para>
+      <figure id="id7772595">
+        <media id="id7772595_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-8dd3.png" id="id7772595__onlineimage" height="119" width="438"/>
+        </media>
+      </figure>
+      <para id="id7772617">4.5.1 There are four triangles on <emphasis effect="bold">page A-4 </emphasis>where the given angle is 90°. If the angle not between the two given sides is equal to 90°, do you think that the two triangles will always be congruent? <emphasis effect="bold">(rhs)</emphasis></para>
+      <para id="id8105524">4.5.2 If you only receive the information like in the two sketches below, can you with certainty say that the two triangles are <emphasis effect="bold">always</emphasis> be congruent? </para>
+      <figure id="id8105541">
+        <media id="id8105541_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-35c4.png" id="id8105541__onlineimage" height="161" width="433"/>
+        </media>
+      </figure>
+      <para id="id8105563">5. On <emphasis effect="bold">page A-5</emphasis> there are triangles of which the three angles of the one triangle are equal to the three angles of the other triangle. <emphasis effect="bold">(</emphasis><emphasis effect="bold"></emphasis><emphasis effect="bold">)</emphasis></para>
+      <para id="id7945095">5.1 Are the triangles constructed like this <emphasis effect="bold">always necessarily</emphasis> congruent?</para>
+      <para id="id7945107">5.2 If you only receive the information like in the two sketches below, can you with certainty say that the two triangles are <emphasis effect="bold">always</emphasis> be congruent?</para>
+      <para id="id7945122">
+        <figure id="id7945126">
+          <media id="id7945126_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-4f39.png" id="id7945126__onlineimage" height="143" width="444"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id7945148">6. Now give the combinations of sides and angles for triangles to be congruent. Illustrate each combination as in the e<emphasis effect="italics">x</emphasis>ample below:</para>
+      <para id="id7945162">1.</para>
+      <figure id="id7945169">
+        <media id="id7945169_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics7-4fa2.png" id="id7945169__onlineimage" height="161" width="484"/>
+        </media>
+      </figure>
+      <para id="id8057558">Homework assignment</para>
+      <para id="id8057563">1. State whether the following pairs of triangles are congruent or not. Do each number like the example below.</para>
+      <para id="id8057577">Example:</para>
+      <figure id="id8057584">
+        <media id="id8057584_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics8-4fa2.png" id="id8057584__onlineimage" height="161" width="484"/>
+        </media>
+      </figure>
+      <para id="id8057606"><emphasis effect="bold"></emphasis> A =  D; B = E and C = F</para>
+      <para id="id8057644"><emphasis effect="bold"> N.B. </emphasis>If the triangles are not necessarily congruent, only write ΔABC  ΔDEF and then write down why you say so.</para>
+      <list id="id7997389" list-type="bulleted">
+        <item>The triangles are not drawn to scale. You must only use the given information in each of the figures.<figure id="id7997406"><media id="id7997406_media" alt=""><image mime-type="image/png" src="../../media/graphics9-c47f.png" id="id7997406__onlineimage" height="331" width="540"/></media></figure><figure id="id7997431"><media id="id7997431_media" alt=""><image mime-type="image/png" src="../../media/graphics10-5c2c.png" id="id7997431__onlineimage" height="148" width="610"/></media></figure></item>
+      </list>
+      <para id="id7997453">
+        <figure id="id7997457">
+          <media id="id7997457_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics11.png" id="id7997457__onlineimage" height="350" width="613"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id8112216">
+        <media id="id8112216_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics12.png" id="id8112216__onlineimage" height="394" width="571"/>
+        </media>
+      </figure>
+      <figure id="id8112241">
+        <media id="id8112241_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics13.png" id="id8112241__onlineimage" height="319" width="255"/>
+        </media>
+      </figure>
+      <para id="id8112263">2. In each of the following pairs of triangles two pairs of equal elements are marked. In each case write down another pair of equal elements for the triangles to be congruent. Give the congruency test which you used and also give all the possibilities without repeating a congruency test.</para>
+      <para id="id8112275"/>
+      <figure id="id8112282">
+        <media id="id8112282_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics14.png" id="id8112282__onlineimage" height="227" width="602"/>
+        </media>
+      </figure>
+      <figure id="id8112308">
+        <media id="id8112308_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics15.png" id="id8112308__onlineimage" height="333" width="486"/>
+        </media>
+      </figure>
+      <para id="id8112330">
+        <figure id="id8112334">
+          <media id="id8112334_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics16.png" id="id8112334__onlineimage" height="254" width="527"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id5846563">
+        <media id="id5846563_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics17.png" id="id5846563__onlineimage" height="321" width="367"/>
+        </media>
+      </figure>
+      <para id="id5846585"/>
+    </section>
+    <section id="id5846591">
+      <title>Assessment</title>
+      <table id="id5846597" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 3</entry>
+            </row>
+            <row>
+              <entry>Space and Shape (Geometry)The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this when the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>3.1 recognises, visualises and names geometric figures and solids in natural and cultural forms and geometric settings, including:3.1.1 regular and irregular polygons and polyhedra;3.1.2 spheres;3.1.3 cylinders;3.2 in contexts that include those that may be used to build awareness of social, cultural and environmental issues, describes the interrelationships of the properties of geometric figures and solids with justification, including:3.2.1 congruence and straight line geometry;3.3 uses geometry of straight lines and triangles to solve problems and to justify relationships in geometric figures;3.4 draws and/or constructs geometric figures and makes models of solids in order to investigate and compare their properties and model situations in the environment;</entry>
+            </row>
+            <row>
+              <entry>3.5 uses transformations, congruence and similarity to investigate, describe and justify (alone and/or as a member of a group or team) properties of geometric figures and solids, including tests for similarity and congruence of triangles.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5851595"/>
+    </section>
+  </content>
+</document>

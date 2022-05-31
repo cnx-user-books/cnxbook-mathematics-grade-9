@@ -1,0 +1,1299 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Why all the fuss about Pythagoras?</title>
+  <metadata>
+  <md:content-id>m31205</md:content-id><md:title>Why all the fuss about Pythagoras?</md:title>
+  <md:abstract/>
+  <md:uuid>dcea3d97-f907-40fa-8581-e51585c0b877</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165153722938">
+      <title>MATHEMATICS</title>
+      <para id="para-id1165153722938">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1690057">
+      <title>Grade 9</title>
+      <para id="para-id1690057">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6350608">
+      <title>NUMBERS</title>
+      <para id="para-id6350608">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165154266618">
+      <title>Module 3</title>
+      <para id="para-id1165154266618">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165147751095">
+      <title>WHY ALL THIS FUSS ABOUT PYTHAGORAS?</title>
+      <para id="id5491275"> INVESTIGATION</para>
+      <para id="id1165149730505">1.1 Work in a group but start on your own by drawing three right–angled triangles of different shapes and sizes. Work as accurately as possible. It will be a lot easier if you use squared paper. Now work even more accurately and measure the three sides of each triangle to the nearest millimetre. Complete the first three rows of the table. Now use your calculator to complete the rest of the table.</para>
+      <table id="id5124877" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>SYMBOL</entry>
+              <entry>TRIANGLE A</entry>
+              <entry>TRIANGLE B</entry>
+              <entry>TRIANGLE C</entry>
+            </row>
+            <row>
+              <entry>Length of the shortest side</entry>
+              <entry>a</entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+            </row>
+            <row>
+              <entry>Length of the medium triangle</entry>
+              <entry>b</entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+            </row>
+            <row>
+              <entry>Length of the longest side</entry>
+              <entry>c</entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+            </row>
+            <row>
+              <entry>Square of the length of the shortest side</entry>
+              <entry>a<sup>2</sup></entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+            </row>
+            <row>
+              <entry>Square of the length of the medium side</entry>
+              <entry>b<sup>2</sup></entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+            </row>
+            <row>
+              <entry>Sum of the two squares above</entry>
+              <entry>a<sup>2</sup> + b<sup>2</sup></entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+            </row>
+            <row>
+              <entry>Square of the length of the longest side</entry>
+              <entry>c<sup>2</sup></entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+              <entry>....................</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165147836168">1.2 There should be something interesting about the shaded cells of the table. In your group write down carefully what you notice and (if you can) why it happens.</para>
+      <para id="id6984569">2. Take three lines:</para>
+      <figure id="id1165146605293">
+        <media id="id1165146605293_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 79.png" id="id1165146605293__onlineimage" height="280" width="635"/>
+        </media>
+      </figure>
+      <list id="id1547001" list-type="bulleted">
+        <item>The three given lines can be used to form a right–angled triangle.</item>
+      </list>
+      <para id="id1165157708963">Cutting–out: </para>
+      <para id="id1165147560534">2.1 Can the three given squares be used to form a triangle? </para>
+      <para id="id1165149046978">3 Write a neat summary of the results of the investigation.</para>
+      <para id="id1165154119340">end of INVESTIGATION </para>
+      <para id="id1165151477206"/>
+      <para id="id6522854">The Theorem of Pythagoras goes: </para>
+      <list id="id1165153774538" list-type="bulleted">
+        <item>
+          <emphasis effect="italics">In a </emphasis>
+          <emphasis effect="italics">right–angled</emphasis>
+          <emphasis effect="italics"> triangle, the </emphasis>
+          <emphasis effect="italics">square</emphasis>
+          <emphasis effect="italics"> on the hypotenuse is equal to </emphasis>
+          <emphasis effect="italics">the</emphasis>
+          <emphasis effect="italics"> sum of the </emphasis>
+          <emphasis effect="italics">squares</emphasis>
+          <emphasis effect="italics"> on the other two sides.</emphasis>
+        </item>
+      </list>
+      <para id="id1165156503398">The importance of the Theorem of Pythagoras is that we use it in two ways: Firstly, if we know that a triangle is right angled, then we can say something very important about its sides. Secondly, if we know that the three sides of a triangle have a certain relationship with each other, then we also know that the triangle must be right–angled.</para>
+      <para id="id1165157913488">CLASS WORK </para>
+      <para id="id2486414">1 We label triangles as follows:</para>
+      <list id="id4804370" list-type="bulleted">
+        <item>Refer to the sketch alongside.</item>
+      </list>
+      <list id="id1165148756505" list-type="bulleted">
+        <item>The three vertices (corners) get capital letters. (A, B and C).</item>
+        <item>The sides can be named as the two vertices betweenwhich the side lies (AB, BC and AC), or we can uselowercase letters, each corresponding to the vertexopposite the side (a, b and c).<figure id="id1165148741168"><media id="id1165148741168_media" alt=""><image mime-type="image/png" src="../../media/Picture 81.png" id="id1165148741168__onlineimage" height="147" width="209"/></media></figure></item>
+      </list>
+      <list id="id6358012" list-type="bulleted">
+        <item>At the moment we are dealing with right–angled triangles, but all triangles are labelled the same way.<figure id="id1165154157584"><media id="id1165154157584_media" alt=""><image mime-type="image/png" src="../../media/Picture 82.png" id="id1165154157584__onlineimage" height="121" width="229"/></media></figure></item>
+      </list>
+      <list id="id1165157725873" list-type="bulleted">
+        <item>We also use the same letter to refer <emphasis effect="italics">both</emphasis> to the name of a side <emphasis effect="italics">and</emphasis> to its length.</item>
+        <item>E.g. PR = 3,5cm or r = 5cm.ΔPRS means: <emphasis effect="underline">triangle</emphasis> PRS</item>
+      </list>
+      <para id="id1165153651814"><emphasis effect="underline">REMEMBER</emphasis> always to use a ruler for good sketches!</para>
+      <list id="id5927890" list-type="bulleted">
+        <item>In the following exercise the first problem is always an example.</item>
+      </list>
+      <para id="id1165147691913">2 <emphasis effect="italics">Problem</emphasis>: AEH has a right angle at H.AH = 6cm and EH = 8cm.Draw a sketch (not accurate) of the triangle and use the Theorem of Pythagoras to calculate the length of side AE.</para>
+      <para id="id6324706">
+        <figure id="id8823296">
+          <media id="id8823296_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 83.png" id="id8823296__onlineimage" height="165" width="234"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id5672472"><emphasis effect="italics">Solution</emphasis>: Because we know that the triangle has a rightangle, we are allowed to say that AE<sup>2</sup> = AH<sup>2</sup> + EH<sup>2</sup>(or: h<sup>2</sup> = e<sup>2</sup> + a<sup>2</sup> ) </para>
+      <para id="id1165147708784">Substitution:AH<sup>2</sup> + EH<sup>2</sup> = (6)<sup>2</sup> + (8)<sup>2</sup> = 36 + 64 = 100 cm<sup>2</sup> If E<sup>2</sup> = 100 cm<sup>2</sup> , then AE must be 10 cm.</para>
+      <para id="id1165155633327">2.1 Calculate the length of the third side of these triangles:</para>
+      <para id="id7735929">2.1.1 ΔDEF with D a right angle and e = 5 mm and f = 12 mm</para>
+      <para id="id6446028">2.1.2 ΔXYZ with Y a right angle and x = 3 cm and y = 5 cm.</para>
+      <para id="id1165150818229">3 <emphasis effect="italics">Problem</emphasis>: What is the length of the shortest side (b) of the right–angled ΔABC if the other two sides are 6 cm and 9 cm? C is the right angle.</para>
+      <para id="id6324260"><emphasis effect="italics">Solution</emphasis>: In a right–angled triangle the longest side is always the hypotenuse: the side opposite the right angle. Now we use the Theorem of Pythagoras in the other form.</para>
+      <list id="id6085009" list-type="bulleted">
+        <item>If b is the shortest side, and C is a right angle, then c must be the longest side. So, you use:</item>
+      </list>
+      <para id="id1165156722273">b<sup>2</sup> = c<sup>2</sup> – a<sup>2</sup>  (note carefully where b<sup>2</sup> is, and that we subtract)</para>
+      <para id="id6618136">b<sup>2</sup> = (9)<sup>2</sup> – (6)<sup>2</sup> = 81 – 36 = 45 cm<sup>2</sup>  Calculator time! </para>
+      <para id="id1165156489505">b<sup>2</sup> = 45. Use the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow/></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {} } {}</m:annotation></m:semantics></m:math> – button on the calculator to find the value of b.</para>
+      <list id="id1165151197390" list-type="bulleted">
+        <item>Your calculator supplies the answer: b = 6,7082039 . . . et cetera. But is this a sensible answer? Discuss whether the approximated (rounded) answer of 6,7cm is good enough for our purposes.</item>
+      </list>
+      <para id="id1165154714015">3.1.1 Calculate the length of the hypotenuse of a triangle with both of the other sides equal to 9 cm. (Label the triangle yourself.)</para>
+      <para id="id1165148757153">3.1.2 ΔPQR is right–angled and isosceles. Calculate the length of PR, if the hypotenuse is 13,5 cm.</para>
+      <para id="id1165159785828">4 <emphasis effect="italics">Problem</emphasis>: Is ΔGHK right–angled if GK = 24 cm, GH = 26 cm and HK = 10 cm?</para>
+      <para id="id1165149127669"><emphasis effect="italics">Solution</emphasis>: In this problem we know all <emphasis effect="italics">three</emphasis> the sides’ lengths. If we want to find out whether it is right–angled, we have to confirm whether (hypotenuse)<sup>2</sup> = (one side)<sup>2</sup> + (other side)<sup>2</sup> .</para>
+      <para id="id1165152627218">The hypotenuse is always the longest side. We have a very specific method whenever we have to <emphasis effect="italics">confirm</emphasis> a result. We calculate the left–hand side and the right–hand side of the equation separately. Thus:</para>
+      <list id="id1165155713370" list-type="bulleted">
+        <item>Left–hand side = (hypotenuse)<sup>2</sup> = 26<sup>2</sup> = 676 cm<sup>2</sup></item>
+        <item>Right–hand side = (one side)<sup>2</sup> + (other side)<sup>2</sup> = 24<sup>2</sup> + 10<sup>2</sup> = 576 + 100 = 676 cm<sup>2</sup></item>
+        <item>Because the left–hand side and right–hand side come out the same, we can conclude that the triangle is right–angled.</item>
+      </list>
+      <list id="id1165156868437" list-type="bulleted">
+        <item>Is it possible to know which angle is the right angle? You give the answer!</item>
+      </list>
+      <para id="id866734">4.1 Are the triangles with the given side lengths right–angled? Which angle is the right angle?</para>
+      <para id="id1165153818386">4.1.1 a = 30 mm, b = 40 mm and c = 50 mm.</para>
+      <para id="id1165156874127">4.1.2 p = 8 cm, q = 13 cm and r = 15 cm.</para>
+      <para id="id7097432">4.1.3 MN = 15,56 cm, and NP = MP = 11 cm.</para>
+      <para id="id8335800">end of CLASS WORK</para>
+      <para id="id8287230">HOMEWORK ASSIGNMENT</para>
+      <para id="id1165151654424">1 Find the third side of the following triangles:</para>
+      <para id="id1165154703306">1.1 ΔABC with C = 90° and b = 5 mm and c = 13 mm</para>
+      <para id="id1165147541870">1.2 ΔMNO with O the right angle and m = 6 cm and n = 8 cm.</para>
+      <para id="id7910113">2 Determine whether the following triangles are right–angled, and which angle is 90° .</para>
+      <para id="id1165148617096">2.1 a = 9 mm, b = 11 mm and c 13 cm</para>
+      <para id="id1165147528292">2.2 XZ = 85 mm, XY = 13 mm and YX = 86 mm.</para>
+      <para id="id6782241">end of HOMEWORK ASSIGNMENT </para>
+      <para id="id1165155568563">The connection between roots and exponents</para>
+      <para id="id8743693">CLASS WORK</para>
+      <para id="id1165154346797">1 Eight of the equations in this list must be filled in the second row of the table under the equation in the top row where each fits the best. </para>
+      <para id="id1165157584623"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mtext>25</m:mtext></m:msqrt><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"25"} =5} {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">=</m:mo><m:msqrt><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b= sqrt {b rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mn>9</m:mn></m:msqrt><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {9} =3} {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mroot><m:mtext>64</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:mroot><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{6} }  {"64"} =2} {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mroot><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mo stretchy="false">=</m:mo><m:mi>a</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {a rSup { size 8{3} } } =a} {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mroot><m:mn>8</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {8} =2} {}</m:annotation></m:semantics></m:math> ; </para>
+      <para id="id1165150819944"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mroot><m:mtext>81</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mroot><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{4} }  {"81"} =3} {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mtext>64</m:mtext></m:msqrt><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"64"} =8} {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mtext>49</m:mtext></m:msqrt><m:mo stretchy="false">=</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"49"} =7} {}</m:annotation></m:semantics></m:math></para>
+      <table id="id1165156704867" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Exponential form</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mn>2</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mn>8</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{3} } =8} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>9</m:mn>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msup>
+                              <m:mn>3</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{9=3 rSup { size 8{2} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mtext>25</m:mtext>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msup>
+                              <m:mn>5</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{"25"=5 rSup { size 8{2} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mn>7</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mtext>49</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{7 rSup { size 8{2} } ="49"} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mn>3</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>4</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mtext>81</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{3 rSup { size 8{4} } ="81"} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>b</m:mi>
+                              <m:mo stretchy="false">×</m:mo>
+                              <m:mi>b</m:mi>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msup>
+                              <m:mi>b</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{b times b=b rSup { size 8{2} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mtext>64</m:mtext>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msup>
+                              <m:mn>2</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>6</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{"64"=2 rSup { size 8{6} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                                <m:mo stretchy="false">×</m:mo>
+                                <m:mi>a</m:mi>
+                              </m:mrow>
+                              <m:mo stretchy="false">×</m:mo>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msup>
+                              <m:mi>a</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{a times a times a=a rSup { size 8{3} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>Root form</entry>
+              <entry>...........</entry>
+              <entry>..........</entry>
+              <entry>............</entry>
+              <entry>.............</entry>
+              <entry>............</entry>
+              <entry>...............</entry>
+              <entry>.............</entry>
+              <entry>....................</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165149040520">2 A radical is an expression with a root sign.How to simplify radicals. Example: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow><m:mi>c</m:mi><m:mo stretchy="false">×</m:mo><m:mn>8</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>abc</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2 ital "ab" rSup { size 8{3} } c times 8 ital "abc" rSup { size 8{5} } } } {}</m:annotation></m:semantics></m:math>.</para>
+      <list id="id1165157785822" list-type="bulleted">
+        <item>The most important step is to write the expression under the root sign as simply as possible as products of powers: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow><m:mi>c</m:mi><m:mo stretchy="false">×</m:mo><m:mn>8</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>abc</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2 ital "ab" rSup { size 8{3} } c times 8 ital "abc" rSup { size 8{5} } } } {}</m:annotation></m:semantics></m:math>=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2 rSup { size 8{4} } a rSup { size 8{2} } b rSup { size 8{4} } c rSup { size 8{6} } } } {}</m:annotation></m:semantics></m:math>.</item>
+        <item>As we are working with a square root we group them into squares:  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2 rSup { size 8{4} } a rSup { size 8{2} } b rSup { size 8{4} } c rSup { size 8{6} } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:msup><m:mfenced open="(" close=")"><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { left (2 rSup { size 8{2} }  ital "ab" rSup { size 8{2} } c rSup { size 8{3} }  right ) rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math></item>
+        <item>and remove the root sign, so: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow><m:mi>c</m:mi><m:mo stretchy="false">×</m:mo><m:mn>8</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>abc</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2 ital "ab" rSup { size 8{3} } c times 8 ital "abc" rSup { size 8{5} } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:msup><m:mfenced open="(" close=")"><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { left (2 rSup { size 8{2} }  ital "ab" rSup { size 8{2} } c rSup { size 8{3} }  right ) rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{2} }  ital "ab" rSup { size 8{2} } c rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 ital "ab" rSup { size 8{2} } c rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <list id="id1165154338383" list-type="bulleted">
+        <item>Another example: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mtext>16</m:mtext><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">×</m:mo><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mi>y</m:mi></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"16"x rSup { size 8{2} } y rSup { size 8{5} }  times 2x rSup { size 8{2} } y} } {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <list id="id7179735" list-type="bulleted">
+        <item>Write as products of powers: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mtext>16</m:mtext><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">×</m:mo><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mi>y</m:mi></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"16"x rSup { size 8{2} } y rSup { size 8{5} }  times 2x rSup { size 8{2} } y} } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">×</m:mo><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mi>y</m:mi></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {2 rSup { size 8{4} } x rSup { size 8{2} } y rSup { size 8{5} }  times 2x rSup { size 8{2} } y} } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {2 rSup { size 8{5} } x rSup { size 8{4} } y rSup { size 8{6} } } } {}</m:annotation></m:semantics></m:math></item>
+        <item>This is a third root, so we group into third powers: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {2 rSup { size 8{5} } x rSup { size 8{4} } y rSup { size 8{6} } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">×</m:mo><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {2 rSup { size 8{3} } x rSup { size 8{3} } y rSup { size 8{6} }  times 2 rSup { size 8{2} } x rSup { size 8{1} } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>xy</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">×</m:mo><m:mn>4x</m:mn></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  { left (2 ital "xy" rSup { size 8{2} }  right ) rSup { size 8{3} }  times 4x} } {}</m:annotation></m:semantics></m:math></item>
+        <item>We can now remove the root sign over the part that can be simplified. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>xy</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">×</m:mo><m:mn>4x</m:mn></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  { left (2 ital "xy" rSup { size 8{2} }  right ) rSup { size 8{3} }  times 4x} } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>xy</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mi/><m:mroot><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 ital "xy" rSup { size 8{2} } ` nroot { size 8{3} }  {4x} } {}</m:annotation></m:semantics></m:math></item>
+        <item>The simplified part is a coefficient; the rest remains as a radical.</item>
+      </list>
+      <para id="id1165148959084"><emphasis effect="underline">Please note</emphasis> that this can be done only if the root contains factors. In other words, it cannot be done with a sum expression.</para>
+      <list id="id1165156516237" list-type="bulleted">
+        <item>Simplify these radicals as far as possible:</item>
+      </list>
+      <para id="id8538947">2.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>25</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"25"a rSup { size 8{5} } b rSup { size 8{3} } c rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id8275942">2.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mtext>81</m:mtext><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"81"x rSup { size 8{9} } y rSup { size 8{"12"} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1165154377883">2.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>16</m:mtext><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"16" left (a+b right ) rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id8172544">end of CLASS WORK</para>
+      <para id="id1165155591973">ENRICHMENT ASSIGNMENT</para>
+      <para id="id8601864">1 As you may have noticed, most right–angled triangles do not have natural numbers as side lengths. But those that do have whole–number side lengths are very interesting. The well–known (3 ; 4 ; 5)-triangle is one example. These groups of three numbers are called <emphasis effect="italics">Pythagorean triples</emphasis>.</para>
+      <para id="id1165147570440">1.1 Take groups of three numbers from these numbers, trying to find all the Pythagorean triples you can.</para>
+      <para id="id8594532">3 ; 4 ; 5 ; 12 ; 13 ; 35 ; 36 ; 37 ; 77 ; 84 ; 85</para>
+      <para id="id1165157647262">end of ENRICHMENT ASSIGNMENT</para>
+      <para id="id1165152945321">There are many different ways to prove the Theorem of Pythagoras. </para>
+      <list id="id4184509" list-type="bulleted">
+        <item>An American mathematician had a hobby of collecting as many different proofs as he could. He eventually published a book of these proofs – over four hundred.</item>
+      </list>
+      <para id="id1165159806393"/>
+      <para id="id1165153014294">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"/>
+        <emphasis effect="bold">Assessment </emphasis>
+      </para>
+      <para id="id5931963">Pythagoras ω </para>
+      <table id="id1165146801948" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="italics">I can . . .</emphasis>
+              </entry>
+              <entry>ASs</entry>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry>Now I have to . . . </entry>
+            </row>
+            <row>
+              <entry>Name triangles correctly</entry>
+              <entry>4.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>&lt; </entry>
+            </row>
+            <row>
+              <entry>Use Pythagoras to calculate sides</entry>
+              <entry>4.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Identify right–angled triangles</entry>
+              <entry>4.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Calculate square roots</entry>
+              <entry>4.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry> &gt;</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165155340891">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">good</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">average</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">not so good</emphasis>
+      </para>
+      <table id="id1165152997017" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>For this learning unit . . .</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I worked very hard</entry>
+              <entry>yes</entry>
+              <entry>no</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>I neglected my work</entry>
+              <entry>yes</entry>
+              <entry>no</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Did very little</entry>
+              <entry>yes</entry>
+              <entry>no</entry>
+              <entry><emphasis effect="italics">Date</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165153729494"/>
+      <table id="id1165159769586" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Learner can . . .</entry>
+              <entry>ASs</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>Remarks</entry>
+            </row>
+            <row>
+              <entry>Name triangles correctly</entry>
+              <entry>4.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Use Pythagoras to calculate sides</entry>
+              <entry>4.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Identify right–angled triangles</entry>
+              <entry>4.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Calculate square roots</entry>
+              <entry>4.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1165156746657" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Critical outcomes</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>Identification and creative solution of problems</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Diagrammatic communication</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Accuracy</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Cooperation in groups</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1165156751314" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Educator:</entry>
+            </row>
+            <row>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1165148891287" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="italics">Feedback from parents</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1165154092701">
+      <title>Assessment</title>
+      <table id="id7559501" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 4</entry>
+            </row>
+            <row>
+              <entry>MeasurementThe learner will be able to use appropriate measuring units, instruments and formulae in a variety of contexts.</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this when the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>4.1 solves ratio and rate problems involving time, distance and speed;</entry>
+            </row>
+            <row>
+              <entry>4.2 solves problems (including problems in contexts that may be used to develop awareness of human rights, social, economic, cultural and environmental issues) involving known geometric figures and solids in a range of measurement contexts by:</entry>
+            </row>
+            <row>
+              <entry>4.2.1 measuring precisely and selecting measuring instruments appropriate to the problem;</entry>
+            </row>
+            <row>
+              <entry>4.2.2 estimating and calculating with precision;</entry>
+            </row>
+            <row>
+              <entry>4.2.3 selecting and using appropriate formulae and measurements;</entry>
+            </row>
+            <row>
+              <entry>4.3 describes and illustrates the development of measuring instruments and conventions in different cultures throughout history;</entry>
+            </row>
+            <row>
+              <entry>4.4 uses the Theorem of Pythagoras to solve problems involving missing lengths in known geometric figures and solids.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1165154416510">
+      <title>Memorandum</title>
+      <para id="id1165158014239">TEST </para>
+      <para id="id1165147663492">Where appropriate, give answers accurate to one decimal place.</para>
+      <para id="id7747035">1. Write the complete Theorem of Pythagoras down in words.</para>
+      <para id="id1165157666533">2. Calculate the hypotenuse of Δ<emphasis effect="italics">A</emphasis><emphasis effect="italics">BC</emphasis> where <emphasis effect="italics">A</emphasis> is a right angle and <emphasis effect="italics">b</emphasis> = 15 mm and <emphasis effect="italics">c</emphasis> = 20 mm.</para>
+      <para id="id1165157567410">3. Δ<emphasis effect="italics">PQR</emphasis> has a right angle at <emphasis effect="italics">R</emphasis>. <emphasis effect="italics">PR</emphasis> = <emphasis effect="italics">QR</emphasis>. Calculate the lengths of sides <emphasis effect="italics">PR</emphasis> and <emphasis effect="italics">QR</emphasis> if <emphasis effect="italics">QP</emphasis> = 15 cm.</para>
+      <para id="id8588219">4. Is ΔDEF right–angled if <emphasis effect="italics">DF</emphasis> = 16cm, <emphasis effect="italics">DE</emphasis> = 14 cm and <emphasis effect="italics">EF</emphasis> = 12 cm?</para>
+      <para id="id1165153843000">5. What kind of triangle is Δ<emphasis effect="italics">XYZ</emphasis> if <emphasis effect="italics">YZ</emphasis> = 24 cm, <emphasis effect="italics">XY</emphasis> = 10cm and <emphasis effect="italics">XZ</emphasis> = 26 cm? Give complete reasons.</para>
+      <para id="id6630988">TEST 3 </para>
+      <para id="id1165151528362">1. In a <emphasis effect="underline">right–angled</emphasis> triangle, the <emphasis effect="underline">square</emphasis> on the hypotenuse is equal to the sum of the <emphasis effect="underline">squares</emphasis> on the other two sides. </para>
+      <para id="id8597733">2. Hypotenuse = <emphasis effect="italics">a</emphasis>. <emphasis effect="italics">a</emphasis><sup>2</sup> = 15<sup>2</sup> + 20<sup>2</sup> = 225 + 400 = 625 <emphasis effect="italics">a</emphasis> = 25 Hypotenuse is 25 mm</para>
+      <para id="id1165153692589">3. <emphasis effect="italics">PR</emphasis><sup>2</sup> + <emphasis effect="italics">QR</emphasis><sup>2</sup> = <emphasis effect="italics">QP</emphasis><sup>2</sup> 2(<emphasis effect="italics">PR</emphasis>)<sup>2</sup> = 15<sup>2</sup> 2(<emphasis effect="italics">PR</emphasis>)<sup>2</sup> = 225 <emphasis effect="italics">PR</emphasis><sup>2</sup> = 112,5 <emphasis effect="italics">PR</emphasis> ≈ 10,6 cm</para>
+      <para id="id1165155589108">4. <emphasis effect="italics">LK</emphasis> = 16<sup>2</sup> = 256</para>
+      <para id="id1165159763929"><emphasis effect="italics">RK</emphasis> = 14<sup>2</sup> + 12<sup>2</sup> = 196 + 144 = 340</para>
+      <para id="id1165156913980"><emphasis effect="italics">LK</emphasis> ≠ <emphasis effect="italics">RK</emphasis>, so Δ<emphasis effect="italics">DEF</emphasis> is not right–angled.</para>
+      <para id="id6165041">5. <emphasis effect="italics">LK</emphasis> = 26<sup>2</sup> = 676</para>
+      <para id="id1165152783694"><emphasis effect="italics">RK</emphasis> = 24<sup>2</sup> + 10<sup>2</sup> = 576 + 100 = 676</para>
+      <para id="id5556571"><emphasis effect="italics">LK</emphasis> = <emphasis effect="italics">RK</emphasis>, so Δ<emphasis effect="italics">XYZ</emphasis> is right–angled with <emphasis effect="italics">Y</emphasis> the right angle.</para>
+      <para id="id1165151327021">6. Write the following roots in the simplest form:</para>
+      <para id="id1165155712926">6.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>12</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"12"} } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1165146552720">6.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>50</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"50"a rSup { size 8{3} } b rSup { size 8{5} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1165153894274">6.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mtext>64</m:mtext><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:mi>b</m:mi></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{4} }  {"64" left (a - 1 right ) rSup { size 8{4} } b} } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1165154528707">INVESTIGATION</para>
+      <list id="id1165151272848" list-type="bulleted">
+        <item>If there is confusion about the <emphasis effect="italics">a</emphasis>,<emphasis effect="italics"> b</emphasis>, <emphasis effect="italics">c</emphasis> symbols, do draw a triangle as guidance while learners complete the table Learners with poor measuring skills might need individual support, if they cannot get reasonable answers.</item>
+        <item>Photocopy the squares so that they can be cut out and fitted. </item>
+      </list>
+      <para id="id8305681">2.1 This is the well-known “proof” of the Theorem of Pythagoras. This work is addressed again when working with similarity.</para>
+      <para id="id7000515">CLASS WORK</para>
+      <para id="id1165153827004">Encourage learners to get into the habit of making realistic sketches.</para>
+      <para id="id6685326">2.1.1 </para>
+      <para id="id1165157677851"><emphasis effect="italics">EF</emphasis> = <emphasis effect="italics">d</emphasis></para>
+      <para id="id1165158068912"><emphasis effect="italics">d</emphasis><sup>2</sup> = 12<sup>2</sup> + 5<sup>2</sup> = 144 + 25 = 169 = 13<sup>2</sup></para>
+      <para id="id5195137"><emphasis effect="italics">d</emphasis> = 13</para>
+      <para id="id1165154632900">2.1.2 <emphasis effect="italics">XY</emphasis> = <emphasis effect="italics">4</emphasis></para>
+      <para id="id1165155695183">3.1.1 hypotenuse<sup> 2</sup> = 81 + 81 = 162  </para>
+      <para id="id1165153775098">hypotenuse ≈ 12,73 cm</para>
+      <para id="id1165147585249">3.1.2 <emphasis effect="italics">PR</emphasis><sup>2</sup> + <emphasis effect="italics">RQ</emphasis><sup>2</sup> = 2 (<emphasis effect="italics">PR</emphasis>)<sup>2</sup> – isosceles  </para>
+      <para id="id1165147980412">2(<emphasis effect="italics">PR</emphasis>)<sup>2</sup> = 13,5<sup>2</sup></para>
+      <para id="id1165147795440"><emphasis effect="italics">PR</emphasis> ≈ 9,55 cm</para>
+      <para id="id6250998">4. Because <emphasis effect="italics">GH</emphasis> is the longest side, it has to be the hypotenuse – so <emphasis effect="italics">K</emphasis> is a right angle.</para>
+      <para id="id7354408">4.1.1 <emphasis effect="italics">LK</emphasis> = <emphasis effect="italics">c</emphasis><sup>2</sup> = 50<sup>2</sup> = 2500 mm<sup>2</sup></para>
+      <para id="id1165149096602"><emphasis effect="italics">RK</emphasis> = <emphasis effect="italics">a</emphasis><sup>2</sup> + <emphasis effect="italics">b</emphasis><sup>2</sup> = 30<sup>2</sup> + 40<sup>2</sup> = 2500 mm<sup>2</sup></para>
+      <para id="id7476901"><emphasis effect="italics">LK</emphasis> = <emphasis effect="italics">RK</emphasis>, triangle is right–angled; <emphasis effect="italics">C</emphasis> is the right angle.</para>
+      <para id="id1165156552447">4.1.2 <emphasis effect="italics">LK</emphasis> = 225 cm<sup>2</sup><emphasis effect="italics">RK</emphasis> = 64 + 169 = 233 cm<sup>2</sup></para>
+      <para id="id1165148619447"><emphasis effect="italics">LK</emphasis> ≠ <emphasis effect="italics">RK</emphasis> so triangle is not right–angled.</para>
+      <para id="id1165156798064">4.1.3 <emphasis effect="italics">LK</emphasis> = 242,11 cm<sup>2</sup></para>
+      <para id="id1165154380898"><emphasis effect="italics">RK</emphasis> = 121 + 121 = 242 cm<sup>2</sup></para>
+      <para id="id7614757"><emphasis effect="italics">LK</emphasis> ≠ <emphasis effect="italics">RK</emphasis> but almost! </para>
+      <para id="id5537476"><emphasis effect="italics">P</emphasis> is very close to 90°.</para>
+      <para id="id1165149985263">HOMEWORK ASSIGNMENT</para>
+      <para id="id1165156818237">1.1 <emphasis effect="italics">a</emphasis> = 12 mm  </para>
+      <para id="id8924571">1.2 <emphasis effect="italics">o</emphasis> = 10 cm</para>
+      <para id="id1165148708635">2.1 No   </para>
+      <para id="id6532448">2.2 Very close –<emphasis effect="italics">Z</emphasis> ≈ 90°</para>
+      <para id="id1165156875182">CLASS WORK</para>
+      <para id="id8865856">1. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mtext>64</m:mtext></m:msqrt><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"64"} =8} {}</m:annotation></m:semantics></m:math> does not fit the table.</para>
+      <table id="id1165154539300" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry>c</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>9</m:mn>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msup>
+                              <m:mn>3</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{9=3 rSup { size 8{2} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mtext>25</m:mtext>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msup>
+                              <m:mn>5</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{"25"=5 rSup { size 8{2} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mn>7</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mtext>49</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{7 rSup { size 8{2} } ="49"} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mn>3</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>4</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mtext>81</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{3 rSup { size 8{4} } ="81"} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>b</m:mi>
+                              <m:mo stretchy="false">×</m:mo>
+                              <m:mi>b</m:mi>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msup>
+                              <m:mi>b</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{b times b=b rSup { size 8{2} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mtext>64</m:mtext>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msup>
+                              <m:mn>2</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>6</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{"64"=2 rSup { size 8{6} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>a</m:mi>
+                                <m:mo stretchy="false">×</m:mo>
+                                <m:mi>a</m:mi>
+                              </m:mrow>
+                              <m:mo stretchy="false">×</m:mo>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msup>
+                              <m:mi>a</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{a times a times a=a rSup { size 8{3} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mroot>
+                              <m:mn>8</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mroot>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {8} =2} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msqrt>
+                              <m:mn>9</m:mn>
+                            </m:msqrt>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ sqrt {9} =3} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msqrt>
+                              <m:mtext>25</m:mtext>
+                            </m:msqrt>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mn>5</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"25"} =5} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msqrt>
+                              <m:mtext>49</m:mtext>
+                            </m:msqrt>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mn>7</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"49"} =7} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mroot>
+                              <m:mtext>81</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>4</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mroot>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{4} }  {"81"} =3} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>b</m:mi>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:msqrt>
+                              <m:msup>
+                                <m:mi>b</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:msqrt>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{b= sqrt {b rSup { size 8{2} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mroot>
+                              <m:mtext>64</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>6</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mroot>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{6} }  {"64"} =2} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mroot>
+                              <m:msup>
+                                <m:mi>a</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>5</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>5</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mroot>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mi>a</m:mi>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{5} }  {a rSup { size 8{5} } } =a} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165151799551">2.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mn>5a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bc</m:mtext></m:mrow></m:mstyle><m:msqrt><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5a rSup { size 8{2} }  ital "bc" sqrt { ital "ab"} } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1165151676222">2.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mn>3x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:mi/><m:mroot><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x rSup { size 8{3} } y rSup { size 8{4} } ` nroot { size 8{3} }  {3} } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1165151471650">2.3 4(<emphasis effect="italics">a</emphasis>+<emphasis effect="italics">b</emphasis>)</para>
+      <para id="id1165157819818">ENRICHMENT ASSIGNMENT</para>
+      <list id="id1165156807536" list-type="bulleted">
+        <item>Group learners to check one another’s work so that the whole class can decide on the answer.</item>
+      </list>
+    </section>
+  </content>
+</document>

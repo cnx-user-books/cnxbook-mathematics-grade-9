@@ -1,0 +1,366 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Understanding how equations are represented on a graph</title>
+  <metadata>
+  <md:content-id>m31268</md:content-id><md:title>Understanding how equations are represented on a graph</md:title>
+  <md:abstract/>
+  <md:uuid>fd1f6ce3-be09-4a59-8274-f03cdba87b37</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168126554719">
+      <title>MATHEMATICS</title>
+      <para id="para-id1168126554719">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168125972140">
+      <title>Grade 9</title>
+      <para id="para-id1168125972140">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168126370424">
+      <title>NUMBER PATTERNS, GRAPHS, EQUASIONS, </title>
+      <para id="para-id1168126370424">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168126505774">
+      <title>STATISTICS AND PROBABILITY</title>
+      <para id="para-id1168126505774">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8455699">
+      <title>Module 14</title>
+      <para id="para-id8455699">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168120922847">
+      <title>UNDERSTANDING HOW EQUATIONS ARE REPRESENTED ON A GRAPH</title>
+      <para id="id1168129811454">ACTIVITY 1</para>
+      <para id="id1168129816984">To understand how equations can be represented on a graph</para>
+      <para id="id1168125705333">[LO 2.2, 2.5, 2.6] </para>
+      <para id="id6545973"><emphasis effect="underline">E</emphasis><emphasis effect="italics">x</emphasis><emphasis effect="underline">ample</emphasis>: The equation <emphasis effect="italics">y</emphasis> = 3<emphasis effect="italics">x</emphasis> + 2 tells one how the values of <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis> are connected – it shows the <emphasis effect="italics">relationship</emphasis> between two variables, <emphasis effect="italics">x</emphasis> and <emphasis effect="italics">y</emphasis>.</para>
+      <list id="id1168126695148" list-type="bulleted">
+        <item>For example, if <emphasis effect="italics">x</emphasis> is 5, then y can be calculated from 3 × 5 + 2, giving 17. So, we <emphasis effect="italics">substitute</emphasis> the value 5 for the <emphasis effect="italics">x</emphasis>, and complete the calculation.<figure id="id7550939"><media id="id7550939_media" alt=""><image mime-type="image/png" src="../../media/Picture 35.png" id="id7550939__onlineimage" height="86" width="159"/></media></figure></item>
+      </list>
+      <para id="id7886200"/>
+      <list id="id1168125662807" list-type="bulleted">
+        <item>The table shows some of the answers.</item>
+      </list>
+      <para id="id1168126215995">The point of making a table is that it gives us coordinates, which we can plot on a set of axes. From these we can draw a graph, which is a picture of the relationship between x and y.</para>
+      <para id="id1168126695778">1 In a group of 4 or 5 learners, complete the tables from the equations below. Each one should do a different table, and then discuss the answers and copy the others’ tables into your book. Below each table is a set of axes on which to draw the graph. All of these graphs will be straight lines, so you may connect the points you plot from each table.</para>
+      <figure id="id1168126099881">
+        <media id="id1168126099881_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 38-bc0f.png" id="id1168126099881__onlineimage" height="543" width="568"/>
+        </media>
+      </figure>
+      <figure id="id1168122936192">
+        <media id="id1168122936192_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 39.png" id="id1168122936192__onlineimage" height="382" width="584"/>
+        </media>
+      </figure>
+      <para id="id1168128037756">
+        <figure id="id1168126255385">
+          <media id="id1168126255385_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 40.png" id="id1168126255385__onlineimage" height="445" width="573"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1168124774138">2 In your group, discuss what you see in your graphs. Compare the graph with the equation. Here are a few suggestions for you to investigate:</para>
+      <para id="id1168120932867">2.1 What does the coefficient of <emphasis effect="italics">x</emphasis> in the equation do to the graph? What happens when the coefficient is negative?</para>
+      <para id="id1168133416197">2.2 In 1.6 the table has only two columns. Is it necessary to have more than two columns if you know that the graph will be a straight line?</para>
+      <para id="id1168122731212">2.3 Compare 1.1 and 1.5 to see if you can find out what the constant does to the graph.</para>
+      <list id="id1168122726044" list-type="bulleted">
+        <item>The table summarises how equations, tables and graphs agree with one another. You have to <emphasis effect="bold">memorise this information</emphasis> – you can’t work correctly with graphs if you don’t know the words</item>
+      </list>
+      <table id="id1168130105012" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Equation:</entry>
+              <entry>x</entry>
+              <entry>y</entry>
+            </row>
+            <row>
+              <entry>Equation:</entry>
+              <entry>Independent variable</entry>
+              <entry>Dependent variable</entry>
+            </row>
+            <row>
+              <entry>Flow diagram::</entry>
+              <entry>Input value</entry>
+              <entry>Output value</entry>
+            </row>
+            <row>
+              <entry>Table:</entry>
+              <entry>First row</entry>
+              <entry>Second row</entry>
+            </row>
+            <row>
+              <entry>Coordinates:</entry>
+              <entry>1st coordinate</entry>
+              <entry>2nd coordinate</entry>
+            </row>
+            <row>
+              <entry>Graph:</entry>
+              <entry><emphasis effect="italics">x</emphasis>– axis</entry>
+              <entry><emphasis effect="italics">y</emphasis>– axis</entry>
+            </row>
+            <row>
+              <entry>Graph:</entry>
+              <entry>Horizontal axis</entry>
+              <entry>Vertical axis</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8972164">ACTIVITY 2</para>
+      <para id="id7011474">To understand and apply all the characteristics of the straight-line graph</para>
+      <para id="id1168131061797">[LO 2.5] </para>
+      <para id="id7896452">1 In the previous activity you used equations to make tables from which graphs were drawn. One can also draw a graph from an equation without making a table. As we saw in graph 1.6 above, if we know that we have to draw a straight line, then two points on the graph paper are sufficient to enable us to draw the line. We don’t need a table if we have the equation of the straight line. </para>
+      <list id="id8094295" list-type="bulleted">
+        <item>In this section we will refer repeatedly to the six graphs in the previous e<emphasis effect="italics">x</emphasis>ercise.</item>
+      </list>
+      <list id="id1168133566960" list-type="bulleted">
+        <item>First we have to examine the structure of the equation:</item>
+      </list>
+      <para id="id1168130408696"><emphasis effect="italics">y</emphasis><emphasis effect="bold"> = </emphasis><emphasis effect="italics">mx</emphasis><emphasis effect="bold"> + </emphasis><emphasis effect="italics">c</emphasis> is the <emphasis effect="italics">standard form</emphasis> of the equation:</para>
+      <list id="id1168122732482" list-type="bulleted">
+        <item><emphasis effect="italics">y</emphasis> is on the left of the equal sign, and <emphasis effect="italics">y</emphasis> has no coefficient (which is the same as saying that its coefficient is <emphasis effect="bold">1</emphasis>, which we don’t write)</item>
+        <item>After the equal sign there may be one or two terms (compare equations 1.5 and 1.6 above). If there are two terms, then the term in <emphasis effect="italics">x</emphasis> is written first – the <emphasis effect="italics">x</emphasis> may have any number as a coefficient: positive, negative or fractional.</item>
+        <item>In the standard form we write an <emphasis effect="italics">m</emphasis> to stand for the coefficient. If the coefficient is <emphasis effect="bold">1</emphasis>, then again we don’t write it. </item>
+        <item>The <emphasis effect="italics">c</emphasis> stands for a <emphasis effect="italics">constant</emphasis> – any number that is not a variable: it can also be negative, positive or fractional.</item>
+        <item>If we write <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">mx</emphasis><emphasis effect="italics"/>+ <emphasis effect="italics">c</emphasis> then this is the <emphasis effect="italics">general equation</emphasis> for <emphasis effect="italics">all</emphasis> straight lines. But <emphasis effect="italics">y</emphasis> = –3<emphasis effect="italics">x</emphasis><emphasis effect="bold"/>+ 2 is the <emphasis effect="italics">defining equation</emphasis> for a <emphasis effect="italics">specific</emphasis> straight line.</item>
+      </list>
+      <list id="id5993270" list-type="bulleted">
+        <item>Writing equations in the standard form: First an e<emphasis effect="italics">x</emphasis>ample:</item>
+      </list>
+      <para id="id1168130347257">6<emphasis effect="italics">x</emphasis><emphasis effect="bold"/>+ 2<emphasis effect="italics">y</emphasis> – 1 = 0 <emphasis effect="italics">Keep the term in </emphasis><emphasis effect="italics">y</emphasis><emphasis effect="italics"> on the left; move the other two to the right.</emphasis></para>
+      <para id="id5588541">2<emphasis effect="italics">y</emphasis> = –6<emphasis effect="italics">x</emphasis> + 1 <emphasis effect="italics">Now make the coefficient of </emphasis><emphasis effect="italics">y</emphasis><emphasis effect="italics"> = 1 by dividing all the terms by 2</emphasis><emphasis effect="italics">.</emphasis></para>
+      <para id="id1168122282357"><emphasis effect="italics">y</emphasis><emphasis effect="italics"/>= –3<emphasis effect="italics">x</emphasis> + ½  <emphasis effect="italics">This the standard form.</emphasis></para>
+      <para id="id1168125785932"> Here <emphasis effect="italics">m</emphasis> = –3 and <emphasis effect="italics">c</emphasis> = ½.</para>
+      <list id="id7733078" list-type="bulleted">
+        <item>Now you practise some – also write down what <emphasis effect="italics">m</emphasis> and <emphasis effect="italics">c</emphasis> are, as above.</item>
+      </list>
+      <para id="id8189242">1.1 2<emphasis effect="italics">x</emphasis> + <emphasis effect="italics">y</emphasis> = 3 </para>
+      <para id="id1168122540856">1.2 3<emphasis effect="italics">y</emphasis> – 9 = 6<emphasis effect="italics">x</emphasis></para>
+      <para id="id1168127686937">1.3 3<emphasis effect="italics">x </emphasis>= 6<emphasis effect="italics">y</emphasis></para>
+      <para id="id6868448">1.4 2<emphasis effect="italics">y</emphasis> – 8 = 0</para>
+      <figure id="id1168133259952">
+        <media id="id1168133259952_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 49.png" id="id1168133259952__onlineimage" height="398" width="310"/>
+        </media>
+      </figure>
+      <para id="id1168133547664"/>
+      <para id="id5748519">2 Understanding the gradient.</para>
+      <para id="id7990740">Previously we mentioned that the steep­ness of a graph can be calculated – this is very easy if the graph is a straight line, because it is equally steep everywhere – we say that the gradient of a straight-line graph remains constant. </para>
+      <para id="id1168122433439">Study the values of m in the six graphs in the previous exercise</para>
+      <para id="id5704236">If your work is correct, you will have noticed that the graphs slope up to the right where m is positive, and the graphs slope down to the right where m is negative. </para>
+      <para id="id8980121">In other word, m tells us about the gradient. (What do you think happens in y = 4, the odd one out?)</para>
+      <list id="id1168129759433" list-type="bulleted">
+        <item>With <emphasis effect="italics">m</emphasis> positive, the number of units the line goes up for every unit it goes right gives us <emphasis effect="italics">m</emphasis> (the gradient). When <emphasis effect="italics">m </emphasis>is negative, we count how many units the line goes down for every unit it goes right. </item>
+      </list>
+      <list id="id1168127710008" list-type="bulleted">
+        <item>Here are two examples. By completing right-angled triangles in a convenient posi­tion on the lines in the graph, we can easily calculate the two gradients, as follows:</item>
+      </list>
+      <list id="id4391777" list-type="bulleted">
+        <item>For the top line: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= -  {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math>, because the line goes down to the right, we know the gradient is negative; 2 is the height of the triangle and 5 is its length.</item>
+        <item>For the bottom line: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mtext>=+</m:mtext><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>9</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m"=+" {  {6}  over  {9} } = {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>, with 6 the height of the triangle, and 9 its length. We don’t write the +, and we simplify the fraction.</item>
+      </list>
+      <para id="id7765536">2.1 Now go back to the previous six graphs and do the same so that you can confirm that the <emphasis effect="italics">m</emphasis> in the equation agrees with the gradient you calculate from the graph itself. Also notice how the size of <emphasis effect="italics">m</emphasis> tells you how steep the graph is.</para>
+      <para id="id8552642">3 Finding out where the graph cuts the <emphasis effect="italics">y</emphasis>–axis (called the <emphasis effect="italics">y</emphasis>–intercept):</para>
+      <list id="id1168124710014" list-type="bulleted">
+        <item>If you study the equations of the six graphs, you will notice that the constant term (<emphasis effect="bold">c</emphasis>) in the standard form tells us exactly where the graph cuts the <emphasis effect="italics">y</emphasis>–axis! </item>
+        <item>For e<emphasis effect="italics">x</emphasis>ample, in <emphasis effect="italics">y</emphasis> = 3<emphasis effect="italics">x</emphasis> –4, the <emphasis effect="italics">y</emphasis>–intercept is at –4 on the <emphasis effect="italics">y</emphasis>–axis. </item>
+        <item>Confirm that this is true for all six graphs.</item>
+      </list>
+      <list id="id1168133587058" list-type="bulleted">
+        <item>Now we have a method for drawing graphs from an equation in the standard form. We don’t have to make a table – we simply use the <emphasis effect="italics">y</emphasis>–intercept (given to us by <emphasis effect="italics">c</emphasis>), and the gradient (given by <emphasis effect="italics">m</emphasis>).</item>
+      </list>
+      <list id="id6982932" list-type="bulleted">
+        <item>On the graph paper, mark the <emphasis effect="italics">y</emphasis>–intercept. Now use the gradient in the form of a fraction; if it is a whole number, then write it with <emphasis effect="bold">1</emphasis> as a denominator. From the <emphasis effect="italics">y</emphasis>–intercept, count as many units to the right as the denominator. From there count as many units as the numerator <emphasis effect="italics">up,</emphasis> if <emphasis effect="italics">m</emphasis> is positive, or <emphasis effect="italics">down,</emphasis> if <emphasis effect="italics">m</emphasis> is <emphasis effect="italics">negative</emphasis>. Here are two examples:<figure id="id1168131239171"><media id="id1168131239171_media" alt=""><image mime-type="image/png" src="../../media/Picture 52.png" id="id1168131239171__onlineimage" height="169" width="181"/></media></figure></item>
+      </list>
+      <para id="id1168122630739">(a) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi/><m:mi>x</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{y```=``` {  { size 11{2}}  over  { size 11{3}} } `x`` - ``2}} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1168126785505">The y-intercept is –2, marked on the y-axis with a circle. The gradient is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>, so we move from the circle three units to the right, and then 2 units up (not down – the gradient is positive). Another circle marks the spot we end up at. And now we draw the straight line through these two spots.</para>
+      <figure id="id1168126245361">
+        <media id="id1168126245361_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 57.png" id="id1168126245361__onlineimage" height="173" width="183"/>
+        </media>
+      </figure>
+      <para id="id8457355">(b) <emphasis effect="italics">y</emphasis> = –<emphasis effect="italics">x</emphasis> + 3</para>
+      <list id="id1168126816296" list-type="bulleted">
+        <item>The <emphasis effect="italics">y</emphasis>-intercept is 3, marked by a circle. The gradient is –1, which we change to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  {  {1}  over  {1} } } {}</m:annotation></m:semantics></m:math>. This tells us to move one unit (denominator) to the right and then one unit (numerator) down (not up). We end up at the point ( 1 ; 2 ), marked by a second circle. Draw the line through the two circled points.</item>
+      </list>
+      <list id="id7766080" list-type="bulleted">
+        <item>Draw the following graphs using the <emphasis effect="italics">y</emphasis>-intercept/gradient method you have just studied.</item>
+      </list>
+      <para id="id8899110">3.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="13pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mn>3x</m:mn></m:mrow></m:mrow><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 13{y```=`` - 3x``+``1}} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1168122403520">3.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="13pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="13pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="13pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi>x</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="13pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="13pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 13{y```=``` {  { size 13{1}}  over  { size 13{3}} } x``` - ``` {  { size 13{5}}  over  { size 13{2}} } }} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1168122406500">3.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="13pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mstyle fontsize="13pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="13pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 13{y```=``` {  { size 13{ - 3}}  over  { size 13{4}} } x}} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id6858497">3.4 4<emphasis effect="italics">x</emphasis> – 3<emphasis effect="italics">y</emphasis> = 5 </para>
+      <para id="id1168123083113">4 In problem 3.4 above, you should have written the equation in the standard form to be able to use <emphasis effect="italics">m</emphasis> and <emphasis effect="italics">c</emphasis><emphasis effect="italics"/>for the <emphasis effect="italics">y</emphasis>–intercept/gradient method. This is a lot of extra work. </para>
+      <list id="id6298326" list-type="bulleted">
+        <item>There is another way to find the two points needed to be able to draw a straight–line graph. If we can find out where the graph cuts the <emphasis effect="italics">x</emphasis>–axis as well as the <emphasis effect="italics">y</emphasis>–axis, then we can simply draw the line through the two intercepts!<table id="id1168124656126" summary=""><tgroup cols="3"><colspec colnum="1" colname="c1"/><colspec colnum="2" colname="c2"/><colspec colnum="3" colname="c3"/><tbody><row><entry/><entry><emphasis effect="italics">y</emphasis><emphasis effect="bold">–</emphasis><emphasis effect="bold">intercept</emphasis></entry><entry><emphasis effect="italics">x</emphasis><emphasis effect="bold">–</emphasis><emphasis effect="bold">intercept</emphasis></entry></row><row><entry><emphasis effect="italics">y</emphasis> = 3<emphasis effect="italics">x</emphasis> – 4</entry><entry>( 0 ; –4 )</entry><entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi/><m:mi>;</m:mi><m:mi/><m:mn>0</m:mn></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left (1 {  { size 8{1} }  over  { size 8{3} } } `;`0 right )} {}</m:annotation></m:semantics></m:math></entry></row><row><entry><emphasis effect="italics">y</emphasis> = –4<emphasis effect="italics">x</emphasis> + 3</entry><entry>( 0 ; 3 )</entry><entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi/><m:mi>;</m:mi><m:mi/><m:mn>0</m:mn></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  { size 8{3} }  over  { size 8{4} } } `;`0 right )} {}</m:annotation></m:semantics></m:math></entry></row><row><entry><emphasis effect="italics">y</emphasis> = ½<emphasis effect="italics">x</emphasis> +1</entry><entry>( 0 ; 1 )</entry><entry>( –2 ; 0 )</entry></row></tbody></tgroup></table></item>
+      </list>
+      <para id="id1168122284428">Going back again to the previous six graph problems, the table shows the x– and y–intercepts for three of them in the form of coordinates.</para>
+      <para id="id8688134">The important thing to notice is that the y–intercept always has a zero in the position of the x–coordinate, and the x–intercept always has a zero in the position of the y–coordinate.</para>
+      <list id="id1168130104619" list-type="bulleted">
+        <item>This means that if we take the equation as it is and make the <emphasis effect="italics">x</emphasis> zero and simplify to find the value of <emphasis effect="italics">y</emphasis>, it will give us the <emphasis effect="italics">y</emphasis>–intercept. Making the <emphasis effect="italics">y</emphasis> zero and finding <emphasis effect="italics">x</emphasis>, gives us the <emphasis effect="italics">x</emphasis>–intercept. Here is how to do it for the equation 9 – 6<emphasis effect="italics">x</emphasis> = 3<emphasis effect="italics">y</emphasis> (definitely <emphasis effect="italics">not</emphasis> in the standard form):<figure id="id1836552"><media id="id1836552_media" alt=""><image mime-type="image/png" src="../../media/Picture 70.png" id="id1836552__onlineimage" height="184" width="176"/></media></figure></item>
+      </list>
+      <list id="id1168126730530" list-type="bulleted">
+        <item>Finding the <emphasis effect="italics">y</emphasis>–intercept:</item>
+      </list>
+      <list id="id7151909" list-type="bulleted">
+        <item>Substitute 0 for <emphasis effect="italics">x</emphasis>: </item>
+      </list>
+      <para id="id1168131154250">9 – 6(0) = 3<emphasis effect="italics">y</emphasis> 9 – 0 = 3<emphasis effect="italics">y</emphasis> 9 = 3<emphasis effect="italics">y</emphasis> 3<emphasis effect="italics">y</emphasis> = 9 <emphasis effect="italics">y</emphasis> = 3</para>
+      <para id="id7327160">The <emphasis effect="italics">y</emphasis>–intercept in coordinate form is ( 0 ; 3 )</para>
+      <list id="id1168129171563" list-type="bulleted">
+        <item>Mark this point on the graph.</item>
+      </list>
+      <list id="id1168129094865" list-type="bulleted">
+        <item>Finding the <emphasis effect="italics">x</emphasis>–intercept:</item>
+      </list>
+      <list id="id1168126261819" list-type="bulleted">
+        <item>Substitute 0 for <emphasis effect="bold">y</emphasis>:  </item>
+      </list>
+      <para id="id1168126441519">9 – 6<emphasis effect="italics">x</emphasis><emphasis effect="bold"/>= 3(0) 9 – 6<emphasis effect="italics">x</emphasis> = 0 9 = 6<emphasis effect="italics">x</emphasis> 6<emphasis effect="italics">x</emphasis><emphasis effect="bold"/>= 9 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x= {  { size 8{9} }  over  { size 8{6} } } = {  { size 8{3} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1168125981779">The <emphasis effect="italics">x</emphasis>–intercept in coordinate form is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac><m:mi/><m:mi>;</m:mi><m:mi/><m:mn>0</m:mn></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  { size 8{3} }  over  { size 8{2} } } `;``0 right )} {}</m:annotation></m:semantics></m:math></para>
+      <list id="id1168126138968" list-type="bulleted">
+        <item>Mark this point on the graph. Finally draw a line through the two points. Alongside is the sketch.</item>
+      </list>
+      <list id="id8596594" list-type="bulleted">
+        <item>This is a very easy and convenient method. If you work carefully and with concentration, it won’t easily go wrong. Practise the method on the following equations:</item>
+      </list>
+      <para id="id7897778">4.1 4<emphasis effect="italics">y</emphasis> + 3<emphasis effect="italics">x</emphasis> = 4 4.2 6<emphasis effect="italics">y</emphasis> + 15 = 2<emphasis effect="italics">x</emphasis> 4.3 3<emphasis effect="italics">x</emphasis> + 4<emphasis effect="italics">y</emphasis> = 0</para>
+      <para id="id1168129775294">4.4 3<emphasis effect="italics">y</emphasis> + 5 = 4<emphasis effect="italics">x</emphasis> 4.5 2<emphasis effect="italics">y</emphasis> + 8 = 6<emphasis effect="italics">x</emphasis> 4.6 4<emphasis effect="italics">y</emphasis> – 2<emphasis effect="italics">x</emphasis> – 4 = 0</para>
+      <para id="id5857766">Does this method remind you of something?</para>
+      <para id="id1168122801343">5 We still have to consider a few special cases. With the equation written in the standard form, we can deduce a great deal about the graph</para>
+      <list id="id1168130307290" list-type="bulleted">
+        <item>The standard form of the straight–line equation is <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">mx</emphasis> + <emphasis effect="italics">c</emphasis>, as we know. If <emphasis effect="italics">c</emphasis> is zero, then the equation becomes <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">mx</emphasis>; if <emphasis effect="italics">m</emphasis> is zero, then the equation becomes <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">c</emphasis>.</item>
+      </list>
+      <list id="id1168126877421" list-type="bulleted">
+        <item>1 2 3 – 1 – 2– 3 0123– 1– 2– 3 <emphasis effect="italics">y</emphasis> = <emphasis effect="italics">mx</emphasis> + <emphasis effect="italics">c</emphasis>, (where neither <emphasis effect="italics">m</emphasis> nor <emphasis effect="italics">c</emphasis> is zero), is the equation which produces lines which do not pass through the origin, nor are they horizontal or vertical. The first diagram shows some of these graphs. You can use either the <emphasis effect="italics">y</emphasis>–intercept/gradient method or the two–intercept method for drawing these graphs.</item>
+        <item>1 2 3 – 1 – 2– 3 0123– 1– 2– 3<emphasis effect="italics">y</emphasis> = <emphasis effect="italics">mx</emphasis> (<emphasis effect="italics">c</emphasis> is zero) produces lines which are neither horizontal nor vertical. They do pass through the origin, which is understandable as <emphasis effect="italics">c</emphasis> is zero, meaning the <emphasis effect="italics">y</emphasis>–intercept is zero. The second diagram shows a few of these. The <emphasis effect="italics">y</emphasis>–intercept/gradient method is the simplest for drawing these graphs.</item>
+        <item><emphasis effect="italics">y</emphasis> = <emphasis effect="italics">c</emphasis> is the equation of a horizontal line, as you have already seen Draw them by drawing a horizontal line through the <emphasis effect="italics">y</emphasis>–intercept (<emphasis effect="italics">c</emphasis>).</item>
+        <item>1 2 3 – 1 – 2– 3 0123– 1– 2– 3If the equation of the line is <emphasis effect="italics">x</emphasis> = <emphasis effect="italics">k</emphasis>, where <emphasis effect="italics">k</emphasis> is a constant, then this is a vertical line with <emphasis effect="italics">k</emphasis> the <emphasis effect="italics">x</emphasis>–intercept. Draw them by finding <emphasis effect="italics">k</emphasis> on the <emphasis effect="italics">x</emphasis>–axis and drawing a vertical line through that point.The third diagram shows some of the horizontal and vertical graphs.</item>
+      </list>
+      <list id="id5597787" list-type="bulleted">
+        <item>With all the advice above, you should be able to figure out the equations of these twelve graphs. If not, the next section will help.</item>
+      </list>
+    </section>
+    <section id="id1168130336230">
+      <title>Assessment</title>
+      <table id="id8003040" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 2 </entry>
+            </row>
+            <row>
+              <entry>Patterns, Functions and AlgebraThe learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>2.1 investigates, in different ways, a variety of numeric and geometric patterns and relation­ships by representing and generalising them, and by explaining and justifying the rules that generate them (including patterns found in nature and cultural forms and patterns of the learner’s own creation;</entry>
+            </row>
+            <row>
+              <entry>2.2 represents and uses relationships between variables in order to determine input and/or output values in a variety of ways using:</entry>
+            </row>
+            <row>
+              <entry>2.2.1 verbal descriptions;</entry>
+            </row>
+            <row>
+              <entry>2.2.2 flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.2.3 tables;</entry>
+            </row>
+            <row>
+              <entry>2.2.4 formulae and equations;</entry>
+            </row>
+            <row>
+              <entry>2.3 constructs mathematical models that repre­sent, describe and provide solutions to pro­blem situations, showing responsibility to­ward the environment and health of others (including problems within human rights, social, economic, cultural and environmental contexts);</entry>
+            </row>
+            <row>
+              <entry>2.4 solves equations by inspection, trial-and-improvement or algebraic processes (additive and multiplicative inverses, and factorisa­tion), checking the solution by substitution;</entry>
+            </row>
+            <row>
+              <entry>2.5 draws graphs on the Cartesian plane for given equations (in two variables), or deter­mines equations or formulae from given graphs using tables where necessary;</entry>
+            </row>
+            <row>
+              <entry>2.6 determines, analyses and interprets the equivalence of different descriptions of the same relationship or rule presented:</entry>
+            </row>
+            <row>
+              <entry>2.6.1  verbally;</entry>
+            </row>
+            <row>
+              <entry>2.6.2 in flow diagrams;</entry>
+            </row>
+            <row>
+              <entry>2.6.3 in tables;</entry>
+            </row>
+            <row>
+              <entry>2.6.4 by equations or expressions;</entry>
+            </row>
+            <row>
+              <entry>2.6.5 by graphs on the Cartesian plane in order to select the most useful represen­ta­tion for a given situation;</entry>
+            </row>
+            <row>
+              <entry>2.8 uses the laws of exponents to simplify expressions and solve equations;</entry>
+            </row>
+            <row>
+              <entry>2.9 uses factorisation to simplify algebraic expressions and solve equations.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id4628658">
+      <title>Memorandum</title>
+      <para id="id8779094">Equations and graphs</para>
+      <list id="id1168127708434" list-type="bulleted">
+        <item>From the first exercise on the six equations, the most important teaching points are: the steepness of the slopes (both positive and negative ) of the graphs; the y-intercept, and the fact that these can be deduced very easily from the equation in the standard form. The learners should be led to deduce that one needs to know only two points on a straight-line graph to be able to draw the graph.</item>
+        <item>As these six graphs are repeatedly used, the educator has to ensure that the learners’ work is correct for the subsequent exercises.</item>
+        <item>To read the gradient from a right-angled triangle, choose usable corners to draw the two sides from; also the larger the triangle, the more accurate the values.</item>
+      </list>
+      <para id="id1168126556996">Graphs from equations</para>
+      <para id="id1168122541976">1.1 <emphasis effect="italics">y</emphasis> = –2<emphasis effect="italics">x</emphasis> + 3; <emphasis effect="italics">m</emphasis> = –2 and <emphasis effect="italics">c</emphasis> = 3</para>
+      <para id="id1168125739188">1.2 <emphasis effect="italics">y</emphasis> = 2<emphasis effect="italics">x</emphasis> + 3; <emphasis effect="italics">m</emphasis> = 2 and <emphasis effect="italics">c</emphasis> = 3</para>
+      <para id="id1168131119701">1.3 <emphasis effect="italics">y</emphasis> = ½<emphasis effect="italics">x</emphasis>; <emphasis effect="italics">m</emphasis> = ½ and <emphasis effect="italics">c</emphasis> = 0</para>
+      <para id="id4249684">1.4 <emphasis effect="italics">y</emphasis> = 4;  <emphasis effect="italics">m</emphasis> = 0 and <emphasis effect="italics">c</emphasis> = 4</para>
+      <para id="id1168126139458">The gradient is read off from a graph in this section; the learners need to get an intuitive feel for the gradient from looking at it on a graph. Later we calculate it from two given points.</para>
+      <para id="id1168131498308">3.1 to 3.4 The memo is left to the teachers ingenuity.</para>
+      <para id="id6759027">4.1 (0 ; 1) ( 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {3} } } {}</m:annotation></m:semantics></m:math> ; 0) </para>
+      <para id="id8881782">4.2 (0 ; –2½) (7½ ; 0) </para>
+      <para id="id1168124373897">4.3 (0 ; 0) (0 ; 0)</para>
+      <para id="id1168127682810">4.4 (0 ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  {  {5}  over  {3} } } {}</m:annotation></m:semantics></m:math>) (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {4} } } {}</m:annotation></m:semantics></m:math> ; 0) </para>
+      <para id="id1168131540483">4.5 (0 ; –4) (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {3} } } {}</m:annotation></m:semantics></m:math> ; 0) </para>
+      <para id="id1168122632295">4.6 (0 ; ½) (–½ ; 0)</para>
+      <para id="id1168129157813"/>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,226 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Understand and use the principle of translation, learning suitable notations</title>
+  <metadata>
+  <md:content-id>m31296</md:content-id><md:title>Understand and use the principle of translation, learning suitable notations</md:title>
+  <md:abstract/>
+  <md:uuid>a5762a6b-5385-4162-898f-aa38d9302826</md:uuid>
+</metadata>
+
+<content>
+    <section id="id5534281">
+      <title>MATHEMATICS</title>
+      <para id="para-id5534281">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8886410">
+      <title>Grade 9</title>
+      <para id="para-id8886410">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7294201">
+      <title>QUADRILATERALS, PERSPECTIVE DRAWING,TRANSFORMATIONS</title>
+      <para id="para-id7294201">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171354735528">
+      <title>Module 25</title>
+      <para id="para-id1171354735528">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171357047420">
+      <title>UNDERSTAND AND USE THE PRINCIPLE OF TRANSLATION, LEARNING SUITABLE NOTATIONS</title>
+      <para id="id7978361">Having fun with plane shapes</para>
+      <para id="id1171354375077">ACTIVITY 1</para>
+      <para id="id4741297">To understand and use the principle of translation, learning suitable notations</para>
+      <para id="id1171354044563">[LO 3.2, 3.7]</para>
+      <para id="id1171354696090">Transformation through translation</para>
+      <figure id="id1171355757043">
+        <media id="id1171355757043_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-0098.png" id="id1171355757043__onlineimage" height="175" width="633"/>
+        </media>
+      </figure>
+      <para id="id1171355243214">Above we have the <emphasis effect="italics">first quadrant</emphasis> of a <emphasis effect="italics">Cartesian plane</emphasis>. There are ten <emphasis effect="italics">plane figures</emphasis> to be seen.</para>
+      <para id="id6484313">If you imagine that you cut out the shaded shapes above, and then move them to new positions (unshaded) by <emphasis effect="italics">sliding</emphasis> them across the page, then you have <emphasis effect="italics">translated</emphasis> them. Notice that they stay upright (they don’t change their <emphasis effect="italics">orientation</emphasis>). These shapes have been <emphasis effect="italics">transformed</emphasis> through translation.</para>
+      <list id="id6321859" list-type="bulleted">
+        <item>Write down the names of the five shapes.</item>
+      </list>
+      <para id="id1171354581430">If you label the vertices of the shape, then the new position has similar (but not the same) labels. You can see this on the rectangle above. From now on, you will use the same system of labels in your work. In the rectangle, position A moves to position A, B to B, etc.</para>
+      <para id="id1171354197250">We have different ways of describing translations. This is like giving someone instructions so that they can produce the result you want.</para>
+      <para id="id6804564">1. For instance, if I say, “Move the oval shape 4½ units right and 3 units down,” this gives the new position of the oval.</para>
+      <list id="id1171354698355" list-type="bulleted">
+        <item>Describe the new position of the pentagon in the same way in words.</item>
+      </list>
+      <para id="id1171355848214">2. Translating the square:</para>
+      <para id="id8755426"> Square ABCD → square ABCD means <emphasis effect="italics">map</emphasis> square ABCD <emphasis effect="italics">onto</emphasis> square ABCD. This is better said by specifying the positions: A (1 ; 9) → A (5 ; 8) and B(4 ; 9) → B(8 ; 8), etc.</para>
+      <list id="id7803298" list-type="bulleted">
+        <item>Use the coordinate mapping system to describe the translation of the triangle. Label the vertices A, B and C.</item>
+      </list>
+      <para id="id1171357081160">3. We can also say how far the shape must move in a certain direction, which we can specify as a <emphasis effect="italics">compass bearing</emphasis>. This says how many degrees (navigators normally use three figures) clockwise we turn from due north. Refer to the figure. You can see that east is at 090° and west is at 270°. The line is at approximately 200°. The triangle above is 5 units away on a bearing of 090°. In other words, if you are at the top vertex of the triangle, you can see the new position of the top vertex 5 units away if you look east.</para>
+      <list id="id1171355013645" list-type="bulleted">
+        <item>Use distance and bearing to translate the parallelogram above.</item>
+      </list>
+      <figure id="id1171355597709">
+        <media id="id1171355597709_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-9897.png" id="id1171355597709__onlineimage" height="152" width="221"/>
+        </media>
+      </figure>
+      <list id="id1171358262266" list-type="bulleted">
+        <item>Give the shapes below (A to E) their proper names, label their vertices, and then draw them on this grid, translated to their new positions according to the descriptions below. Finally label the “new” vertices properly. Hint: work in pencil until you are sure!<figure id="id1171358268901"><media id="id1171358268901_media" alt=""><image mime-type="image/png" src="../../media/Picture 3-228c.png" id="id1171358268901__onlineimage" height="176" width="633"/></media></figure></item>
+      </list>
+      <para id="id1171354570711">A 21 units right and 3 units down</para>
+      <para id="id1171358065932">B 11 units on a bearing of 090°</para>
+      <para id="id8883722">C 20 units left and 6 units down</para>
+      <para id="id1171354823397">D (31 ; 4) → (11 ; 6), (34 ; 4) → (14 ; 6), (31 ; 1) → (11 ; 3) and (34 ; 1) → (14 ; 3)</para>
+      <para id="id2538980">E  7 units on a bearing of 270° followed by 4 units on a bearing of 180°</para>
+      <para id="id1171356062064">ACTIVITY 2</para>
+      <para id="id7689181">To understand and apply reflection</para>
+      <para id="id1171354535031">[LO 3.2, 3.7]</para>
+      <para id="id1171354374891">Transformation through reflection</para>
+      <para id="id8758298">Look again at the last problem (E) in the previous section. Can you see that it actually gives us two translations, one after the other? The descriptions for A and C do the same! This will happen again, as it is often the simplest way to describe a complicated transformation of a shape.</para>
+      <para id="id1171355998983">First plot the following points on the given Cartesian plane, connect them in order with straight lines to draw the shape, and then map the coordinates as given to transform the figures.</para>
+      <para id="id1171354042682">A(2 ; 2) , B(2 ; 4) , C(4 ; 4) , D(4 ; 6) , E(6 ; 6) , D(6 ; 2) , A(2 ; 2)</para>
+      <para id="id1171357011381">A(2 ; 2)→A(12 ; 2) , </para>
+      <para id="id1171354005402">B(2 ; 4)→B(12 ; 4) , </para>
+      <para id="id1171354695948">C(4 ; 4)→C(10 ; 4) , </para>
+      <para id="id1171355152257">D(4 ; 6)→D(10 ; 6) , </para>
+      <para id="id1171354695309">E(6 ; 6)→E(8 ; 6) , </para>
+      <para id="id8626176">D(6 ; 2)→D(8 ; 2).</para>
+      <para id="id1171356855302">Can you see that the shape is <emphasis effect="italics">reflected</emphasis> in the line on the grid? This means that if you were to fold the grid on the line, then the shape will fall on (coincide with) its reflection. In other words, the line of reflection is a line of symmetry for the shape and its reflection. We can also say we are <emphasis effect="italics">flipping</emphasis> the shape, but this doesn’t tell us where it ends up.</para>
+      <para id="id1171354709920">
+        <figure id="id8565656">
+          <media id="id8565656_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 4-c728.png" id="id8565656__onlineimage" height="179" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id6171251">We <emphasis effect="italics">could</emphasis> say: “Flip the shape to the right and then move it two units to the right.”</para>
+      <list id="id1171354619623" list-type="bulleted">
+        <item>The parallelogram has also been transformed by reflection. Draw the line of reflection.</item>
+        <item>Draw the line of reflection for the circle.</item>
+        <item>The circle can also be seen as having been <emphasis effect="italics">slid</emphasis>. Describe in words how the circle was <emphasis effect="italics">translated</emphasis>. What is it about the circle that makes it possible to see its transformation as either reflection or translation?</item>
+      </list>
+      <para id="id1171354695850">Choose one of the shapes above and connect each point of the shape with its corresponding reflected point. Now take the centres of these lines and draw a line through the centres. This is the line of reflection. </para>
+      <list id="id1171355287383" list-type="bulleted">
+        <item>Find the line of reflection in this way for all three shapes above.</item>
+      </list>
+      <para id="id6369465">On the grid below, draw the position of each shape once it has been <emphasis effect="italics">reflected</emphasis> in the given line. Note that the line of reflection can go through the figure; it can touch the figure, or be outside it.</para>
+      <figure id="id4969311">
+        <media id="id4969311_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-5b48.png" id="id4969311__onlineimage" height="177" width="633"/>
+        </media>
+      </figure>
+      <para id="id1171353961850">We often reflect figures in the <emphasis effect="italics">x</emphasis>–axis or the <emphasis effect="italics">y</emphasis>–axis. </para>
+      <list id="id1171358207048" list-type="bulleted">
+        <item>On the following Cartesian plane reflect each shape in the <emphasis effect="italics">x</emphasis>–axis, then in the <emphasis effect="italics">y</emphasis>–axis and again in the <emphasis effect="italics">x</emphasis>–axis, so that you have four of them, each in a different quadrant.</item>
+      </list>
+      <figure id="id1171358149889">
+        <media id="id1171358149889_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-2166.png" id="id1171358149889__onlineimage" height="176" width="633"/>
+        </media>
+      </figure>
+      <para id="id1171358186915"/>
+      <para id="id1171358153264">You may colour the design in.</para>
+      <para id="id1171354164348">ACTIVITY 3</para>
+      <para id="id1171353316130">To learn how to transform by rotation, and put translations together</para>
+      <para id="id1171354844969">[LO 3.2, 3.7]</para>
+      <para id="id1171356791850">Rotation</para>
+      <para id="id1171355259979">In the diagram below, there is a point marked X on each shape. Imagine that the shaded shape was cut out and loose. A pin was stuck into the point X, and the shape was turned around the pin so that it fell over the unshaded shape. To specify how far we have to turn it, we have to use <emphasis effect="italics">angles</emphasis>. For example, the triangle was turned (<emphasis effect="italics">rotated</emphasis>) clockwise through 90°.</para>
+      <list id="id1171355843809" list-type="bulleted">
+        <item>For each of the other shapes, say how many degrees, in which direction, it was <emphasis effect="italics">rotated</emphasis>. <figure id="id1171355228219"><media id="id1171355228219_media" alt=""><image mime-type="image/png" src="../../media/Picture 10-1f74.png" id="id1171355228219__onlineimage" height="177" width="635"/></media></figure></item>
+        <item>Label the vertices of each of the three figures and describe each of the transformations in terms of coordinate mapping.</item>
+        <item>Describe the transformation of the square as a translation (a) in terms of bearing and direction and (b) in words.</item>
+        <item>Describe the transformation of the square as a reflection.</item>
+      </list>
+      <para id="id1171357242975">Below you have been given figure A. Draw figure B by reflecting figure A in the given line. Draw figure C by translating figure B 8 units right and 2 units down. Then rotate figure C 180 ° around the point marked X in figure A to give figure D. We can say that figure D is a <emphasis effect="italics">complex</emphasis> transformation of figure A, as we needed several steps to draw it.</para>
+      <figure id="id1171355007722">
+        <media id="id1171355007722_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 11-4a53.png" id="id1171355007722__onlineimage" height="176" width="635"/>
+        </media>
+      </figure>
+      <para id="id6056550">ACTIVITY 4</para>
+      <para id="id1171355698071">To enjoy transformations in the form of tilings and tessellations</para>
+      <para id="id1171354603889">[LO 3.2, 3.7] </para>
+      <para id="id1171356989936">The most remarkable and widely spread use of tessellations can be found in the decoration applied to buildings in the Islamic world. Islam forbids the making of images, so the builders concentrated on shapes. The Persians were competent mathematicians, and this helped to establish the rules of tessellation they used to such brilliant effect in the mosques and other important cultural centres. Even more interesting is the fact that the surfaces were often curved, not flat, which makes the principles of tessellation even trickier.</para>
+      <list id="id6366061" list-type="bulleted">
+        <item>When you can make tiles of a certain shape with the property that you can place them next to each other on a surface so that they don’t overlap, and don’t leave any gaps, then we call this a tessellation.</item>
+        <item>You can experiment with this by cutting shapes carefully out of cardboard, and fitting them together.</item>
+        <item>You can also do this as a drawing on paper, by combining the principles of transformation (translation, reflection and rotation) to a starting shape until you have tessellated the surface completely.</item>
+        <item>The shapes can be simple, without any transformation except translation, or complicated with complex transformations. When you use more than one shape in a tessellation, you can produce some very beautiful designs.</item>
+        <item>Below you can see a few tessellations. Discuss (in your group) what you see and then try to write down exactly what was done to each shape (translation, reflection and rotation), to produce the final result. Complete any incomplete ones.</item>
+      </list>
+      <figure id="id1171357215742">
+        <media id="id1171357215742_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12-8479.png" id="id1171357215742__onlineimage" height="276" width="292"/>
+        </media>
+      </figure>
+      <para id="id1171358218580"/>
+      <figure id="id1171358224617">
+        <media id="id1171358224617_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 13-f629.png" id="id1171358224617__onlineimage" height="269" width="281"/>
+        </media>
+      </figure>
+      <figure id="id3771424">
+        <media id="id3771424_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 14-21e7.png" id="id3771424__onlineimage" height="300" width="311"/>
+        </media>
+      </figure>
+      <figure id="id4707607">
+        <media id="id4707607_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 15-43da.png" id="id4707607__onlineimage" height="300" width="313"/>
+        </media>
+      </figure>
+      <para id="id1171354260800"/>
+      <figure id="id1171358060307">
+        <media id="id1171358060307_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 16-1bcb.png" id="id1171358060307__onlineimage" height="298" width="312"/>
+        </media>
+      </figure>
+      <figure id="id1171355992565">
+        <media id="id1171355992565_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 17-b21d.png" id="id1171355992565__onlineimage" height="298" width="313"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id8502276">
+      <title>Assessment</title>
+      <table id="id1171354180779" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 3 </entry>
+            </row>
+            <row>
+              <entry>Space and Shape (Geometry)The learner will be able to describe and represent cha­racteristics and relationships between two-dimensional shapes and three–dimensional objects in a variety of orientations and positions.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>3.2 in contexts that include those that may be used to build awareness of social, cultural and environmental issues, describes the interrelationships of the properties of geometric figures and solids with justification, including:</entry>
+            </row>
+            <row>
+              <entry>3.2.2  transformations.</entry>
+            </row>
+            <row>
+              <entry>3.3 uses geometry of straight lines and triangles to solve problems and to justify relationships in geometric figures;</entry>
+            </row>
+            <row>
+              <entry>3.4 draws and/or constructs geometric figures and makes models of solids in order to investigate and compare their properties and model situations in the environment;</entry>
+            </row>
+            <row>
+              <entry>3.6 recognises and describes geometric solids in terms of perspective, including simple perspective drawing;</entry>
+            </row>
+            <row>
+              <entry>3.7 uses various representational systems to describe position and movement between positions, including:ordered grids</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

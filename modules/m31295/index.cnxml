@@ -1,0 +1,135 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Drawing plan and side views of three-dimensional objects to scale</title>
+  <metadata>
+  <md:content-id>m31295</md:content-id><md:title>Drawing plan and side views of three-dimensional objects to scale</md:title>
+  <md:abstract/>
+  <md:uuid>92745711-afc2-4e4b-8c08-253bc212444c</md:uuid>
+</metadata>
+
+<content>
+    <para id="id7778938">MATHEMATICS</para>
+    <para id="id7804222">Grade 9</para>
+    <para id="id11022996">QUADRILATERALS, PERSPECTIVE DRAWING,TRANSFORMATIONS</para>
+    <para id="id7798172">Module 24</para>
+    <para id="id7801195">DRAWING PLAN AND SIDE VIEWS OF THREE-DIMENSIONAL OBJECTS TO SCALE</para>
+    <para id="id7795239">Putting three dimensions into two</para>
+    <para id="id4662658">ACTIVITY 1</para>
+    <para id="id4519436">To draw plan and side views of three-dimensional objects to scale</para>
+    <para id="id11051978">[LO 1.3, 3.4] </para>
+    <para id="id4143255">Orthographic projection</para>
+    <para id="id7796019">On the squared paper below you can see three drawings, each showing one side of a square wooden block with shaped holes in it.</para>
+    <figure id="id10510382">
+      <media id="id10510382_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-cf38.png" id="id10510382__onlineimage" height="188" width="633"/>
+      </media>
+    </figure>
+    <para id="id10684656">These are three orthographic views of the object. The drawings are done from the viewpoint of someone who is looking at the exact centre of each side of the block, with the line of sight perpendicular to the side. Ortho refers to 90°.</para>
+    <para id="id7805395">If each square on the paper represents 1 cm, calculate the outside dimensions of the block. Then calculate the total volume of wood removed in the making of the three different holes in the block.</para>
+    <para id="id10912211">These drawings give the dimensions of the object accurately to scale. This makes it possible for someone who has to manufacture or construct the object, to do it accurately. Architects use orthographic projections to make drawings of the plan of a building, as well as the views from the front and the sides. A builder needs to submit these drawings, as well as other technical specifications, to the people responsible for giving him permission to continue with the building.</para>
+    <para id="id4775445">Draw, as accurately as you can, the plan of your family’s house. If you can, also draw the front view of the house. Remember that you have to decide how many metres in the actual house will be represented by each centimetre in your drawing; this is the scale of your drawing.</para>
+    <para id="id4115824">ACTIVITY 2</para>
+    <para id="id10949909">To understand what the meaning and application of perspective drawings are</para>
+    <para id="id10084012">[LO 3.4] </para>
+    <para id="id10357273"><figure id="id11018527"><media id="id11018527_media" alt=""><image mime-type="image/png" src="../../media/graphics1-8620.png" id="id11018527__onlineimage" height="326" width="300"/></media></figure>Isometric projection</para>
+    <para id="id7800220">Alongside is a three-dimensional drawing of the same block. You can read the dimensions</para>
+    <para id="id10193473">of the object from the drawing, just as in the orthographic drawings above, because iso   </para>
+    <para id="id3476517">refers to the same and metric refers to measurement.</para>
+    <para id="id7809785">An isometric drawing is very useful, but it is not a good picture of what we would really </para>
+    <para id="id10149818">see if we had the block in front of our eyes. To give a more realistic view of the object, </para>
+    <para id="id3559604">we have to make a perspective drawing. This is discussed in the next section.</para>
+    <para id="id9141771">Here is some isometric paper for you to use. </para>
+    <para id="id10549243">Take one of your fat textbooks and draw an isometric projection of it. First determine a </para>
+    <para id="id5301712">good scale for your drawing.</para>
+    <para id="id11227651">
+      <figure id="id10188219">
+        <media id="id10188219_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-0bca.png" id="id10188219__onlineimage" height="440" width="528"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id10868276">ACTIVITY 3</para>
+    <para id="id11297932">To understand what the meaning and application of perspective drawings are</para>
+    <para id="id7720656">[LO 3.6] </para>
+    <para id="id11306424">One-point perspective projection</para>
+    <para id="id8933210">This is how you can make a perspective drawing on a window (use a marker pen that will wash off the glass when you have done, or stick transparent tracing paper to the glass). On the other side of the glass you have the object you want to draw – say you put a box on a table so that you can see it clearly fitting into the whole pane of glass. Don’t put the box perpendicular to the window, but put it with one corner facing forward. It is essential that you keep your head absolutely still while you work. Copy on the glass exactly what you see through the window, especially the edges of the box. You can compare your work with the explanation below, to see whether you have managed it well.</para>
+    <para id="id10723514">Of course, this is not what an architect does when he has to draw a picture of a building that still has to be built! He gives the orthographic projections that he has drawn to a draughtsperson who uses mathematical principles to make a perspective drawing of it.</para>
+    <para id="id10313129">There are one-point, two-point and three-point perspective drawings. This refers to the number of vanishing points in the drawing.</para>
+    <para id="id10931380">Here is a simple sketch in one-point perspective of a landscape with a railway line and a fence. There is one point on the horizon where all the lines in the sketch seem to meet and vanish. </para>
+    <figure id="id10621657">
+      <media id="id10621657_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 9-71f0.png" id="id10621657__onlineimage" height="300" width="417"/>
+      </media>
+    </figure>
+    <para id="id10779026">In the sketch the railway sleepers, as well as the fence posts, seem to get closer to each other as they vanish into the distance; but we know that they are evenly spaced everywhere. The railway lines seem to get closer to each other as we move our eyes to the horizon. The distances between the sleepers, and between the fence posts, diminish in proportion to how far they are away from you. These effects create the illusion of three dimensions, even though the sketch is in two dimensions on a flat sheet of paper. </para>
+    <para id="id9440755">The next drawing is a perspective drawing of the square block that this section started with. As you can see, this shows a more realistic view of what the block really looks like in real life. The dotted lines show the horizon and the vanishing point.</para>
+    <para id="id11181033">The artist and architect Filippo Brunelleschi discovered how to use one-point perspective in the beginning of the fifteenth century. </para>
+    <figure id="id11297118">
+      <media id="id11297118_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 10-a687.png" id="id11297118__onlineimage" height="177" width="223"/>
+      </media>
+    </figure>
+    <para id="id11091594"> Attempt to draw a one-point perspective drawing of the block from the face of the block you can’t see in this drawing.</para>
+    <para id="id10724065">Assessment</para>
+    <table id="id7809393" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry>Learning outcomes(LOs)</entry>
+          </row>
+          <row>
+            <entry/>
+          </row>
+          <row>
+            <entry>LO 1 </entry>
+          </row>
+          <row>
+            <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+          </row>
+          <row>
+            <entry>Assessment standards(ASs)</entry>
+          </row>
+          <row>
+            <entry/>
+          </row>
+          <row>
+            <entry>We know this when the learner:</entry>
+          </row>
+          <row>
+            <entry>1.3 solves problems in context including contexts that may be used to build awareness of other learning areas, as well as human rights, social, economic and environmental issues such as:</entry>
+          </row>
+          <row>
+            <entry>1.3.2  measurements in Natural Sciences and Technology contexts.</entry>
+          </row>
+          <row>
+            <entry>LO 3 </entry>
+          </row>
+          <row>
+            <entry>Space and Shape (Geometry)The learner will be able to describe and represent cha­racteristics and relationships between two-dimensional shapes and three–dimensional objects in a variety of orientations and positions.</entry>
+          </row>
+          <row>
+            <entry>We know this when the learner:</entry>
+          </row>
+          <row>
+            <entry>3.2 in contexts that include those that may be used to build awareness of social, cultural and environmental issues, describes the interrelationships of the properties of geometric figures and solids with justification, including:</entry>
+          </row>
+          <row>
+            <entry>3.2.2  transformations.</entry>
+          </row>
+          <row>
+            <entry>3.3 uses geometry of straight lines and triangles to solve problems and to justify relationships in geometric figures;</entry>
+          </row>
+          <row>
+            <entry>3.4 draws and/or constructs geometric figures and makes models of solids in order to investigate and compare their properties and model situations in the environment;</entry>
+          </row>
+          <row>
+            <entry>3.6 recognises and describes geometric solids in terms of perspective, including simple perspective drawing;</entry>
+          </row>
+          <row>
+            <entry>3.7 uses various representational systems to describe position and movement between positions, including:ordered grids</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

@@ -1,0 +1,458 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Space and shape</title>
+  <metadata>
+  <md:content-id>m31220</md:content-id><md:title>Space and shape</md:title>
+  <md:abstract/>
+  <md:uuid>e2167717-c674-4bc8-b82f-38cf5ab458b2</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8786156">
+      <title>MATHEMATICS</title>
+      <para id="para-id8786156">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7362826">
+      <title>Grade 9</title>
+      <para id="para-id7362826">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9262695">
+      <title>ALGEBRA AND GEOMETRY</title>
+      <para id="para-id9262695">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8867002">
+      <title>Module 7</title>
+      <para id="para-id8867002">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4635918">
+      <title>SPACE AND SHAPE</title>
+      <para id="id10238815">Activity 1:</para>
+      <para id="id4982338">To understand the structure of some regular right prisms</para>
+      <para id="id5751184">[LO 3.3, 3.4] </para>
+      <para id="id10347187">A. <emphasis effect="bold">Building cont</emphasis><emphasis effect="bold">a</emphasis><emphasis effect="bold">iners</emphasis></para>
+      <para id="id3505734">You will be given a sheet of shapes. You will need a ruler that you can measure with, a pair of scissors and glue or sticky tape. Colouring pens will also be helpful. Do the following with these shapes:</para>
+      <list id="id8875867" list-type="enumerated" number-style="arabic">
+        <item>Carefully measure all the lines and write down your measurements ( you should be able to measure to the nearest half–millimetre). You must also do your best to measure the radius (or diameter) of the circle. If you have a protractor available, find out where the 90°–angles are. </item>
+        <item>Using these measurements, calculate the areas of the different shapes, and add the parts together to find out the total area of each of the four shapes. Set your work out very clearly so that anybody can understand what you have done. Use the proper names for the shapes you describe.</item>
+      </list>
+      <para id="id5451243"> For example, for the last figure you could say:</para>
+      <para id="id11457261"> Total area  = small rectangle + small rectangle + large rectangle</para>
+      <para id="id11435501">    = (<emphasis effect="italics">l</emphasis> × <emphasis effect="italics">b</emphasis>) + (<emphasis effect="italics">l</emphasis> × <emphasis effect="italics">b</emphasis>) + (<emphasis effect="italics">l</emphasis> × <emphasis effect="italics">b</emphasis>)</para>
+      <para id="id6389126">   and so on . . . (Remember to use appropriate units.)</para>
+      <list id="id9168166" list-type="enumerated" number-style="arabic">
+        <item>Very carefully cut out the given shapes. You can colour these shapes to make it easier to see which the top and base are, and which the sides (the sides are striped). Now fold them and use tape, or glue and paper strips, to make four boxes. Keep the sides with the dotted lines on the outside.</item>
+        <item>Write down what the <emphasis effect="underline">Total Surface Area</emphasis> (TSA) of each shape is. (You have already calculated the answer!)</item>
+        <item>Work in groups of two or three to try to find out how many 1cm × 1cm blocks will fit into each box. This is called the <emphasis effect="underline">volume</emphasis> of the box. If you can find a method or a formula that will work with each of the four shapes, write that down carefully. </item>
+        <item>At the end of this exercise, you should have two formulas.</item>
+      </list>
+      <para id="id7751153">B. <emphasis effect="bold">Right prisms</emphasis></para>
+      <list id="id10499527" list-type="bulleted">
+        <item>Each of the four boxes is a <emphasis effect="italics">right prism</emphasis>. These are shapes with a top and base that are exactly the same size and shape, and sides that go up straight at right angles to the base. Look around to see whether you can discover shapes with these characteristics.</item>
+        <item>We name right prisms according to the shape of the base, e.g. square prism, rectangular prism, triangular prism and circular prism (cylinder).</item>
+        <item>Are these two shapes right prisms? Describe the shape of the base of each, and confirm whether the sides go straight up at right angles to the base.</item>
+      </list>
+      <figure id="id5590948">
+        <media id="id5590948_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-822d.png" id="id5590948__onlineimage" height="136" width="460"/>
+        </media>
+      </figure>
+      <list id="id5427204" list-type="bulleted">
+        <item>What kind of work did you do in this section? Score yourself in this table.</item>
+      </list>
+      <table id="id10360832" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Did i work</entry>
+              <entry>Excellent</entry>
+              <entry>Adequately</entry>
+              <entry>Not well enough</entry>
+            </row>
+            <row>
+              <entry>well with my team?</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>according to instructions?</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>carefully?</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>accurately?</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>neatly?</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6961634">C. <emphasis effect="bold">Formul</emphasis>a<emphasis effect="bold">s</emphasis></para>
+      <list id="id10247178" list-type="bulleted">
+        <item>To calculate the total surface area (TSA) and volume (V) of any right prism we use the following general formulas: (Please note that H refers to the prism height.)</item>
+      </list>
+      <para id="id14576308">TSA = 2 × base area + sides area and V = base area × prism height</para>
+      <para id="id9298815">Here are some important e<emphasis effect="italics">x</emphasis>amples. These are the cut–out prisms you made into boxes. Please note how each part of the calculation is done separately and then put into the formula at the end.</para>
+      <list id="id10188554" list-type="enumerated" number-style="arabic">
+        <item><emphasis effect="underline">Squ</emphasis><emphasis effect="underline">a</emphasis><emphasis effect="underline">re prism</emphasis>:</item>
+      </list>
+      <para id="id6458826">TSA = 2 base area + sides area = (2 × s<sup>2</sup>) + (H × base perimeter)</para>
+      <figure id="id3385080">
+        <media id="id3385080_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-99d6.png" id="id3385080__onlineimage" height="61" width="66"/>
+        </media>
+      </figure>
+      <para id="id9589660">s = 28mm</para>
+      <para id="id13411262">Step 1: Determine what the base is </para>
+      <para id="id4544906"> and sketch it with its dimensions. </para>
+      <para id="id9161307"/>
+      <para id="id14495008">Step 2: Calculate the base area.</para>
+      <para id="id14555717">Base area = s<sup>2</sup> = 28<sup>2</sup> = 784 mm<sup>2</sup></para>
+      <para id="id10136680">Step 3: Calculate the base perimeter.</para>
+      <para id="id14590896">Base perimeter = 4 × s = 112mm</para>
+      <para id="id3381344">Step 4: Write down the height of the prism.</para>
+      <para id="id4824422">H = 52mm </para>
+      <para id="id3507484">Step 5: Calculate the TSA and V.</para>
+      <para id="id4392819">V = 784 × 52 = 40 768 mm<sup>3</sup> ≈ 40,7 cm<sup>3</sup></para>
+      <para id="id6135330">TSA = (2 × 784) + (52 × 112) = 7 392 mm<sup>2</sup> ≈ 73,9 cm<sup>2</sup></para>
+      <list id="id4998164" list-type="enumerated" number-style="arabic">
+        <item><emphasis effect="underline">Rectangular prism</emphasis>:</item>
+      </list>
+      <para id="id5985817">TSA = 2 base area + sides area = 2 (l × b) + (H × base perimeter)</para>
+      <figure id="id9586630">
+        <media id="id9586630_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-6586.png" id="id9586630__onlineimage" height="61" width="114"/>
+        </media>
+      </figure>
+      <para id="id8651378">1 = 41mm; b = 14mm</para>
+      <para id="id10333298">Step 1: Determine what the base is and sketch it with its dimensions. </para>
+      <para id="id5620485">Step 2: Calculate the base area.</para>
+      <para id="id10198024">Base area = l × b = 41 × 14 = 574 mm<sup>2</sup></para>
+      <para id="id9258396">Step 3: Calculate the base perimeter.</para>
+      <para id="id5674448">Base perimeter = 2 (14 + 41) = 110mm</para>
+      <para id="id14617940">Step 4: Write down the height of the prism.</para>
+      <para id="id14586789">H = 54mm</para>
+      <para id="id14636598">Step 5: Calculate the TSA and V.</para>
+      <para id="id14682209">V = 574 × 54 = 30 996 mm<sup>3</sup> ≈ 31 cm<sup>3</sup></para>
+      <para id="id10499080">TSA = (2 × 574) + (54 × 110) = 7 088 mm<sup>2</sup> ≈ 70,1 cm<sup>2</sup></para>
+      <list id="id14653402" list-type="enumerated" number-style="arabic">
+        <item><emphasis effect="underline">Cylinder</emphasis>:</item>
+      </list>
+      <para id="id14613706"><figure id="id3381324"><media id="id3381324_media" alt=""><image mime-type="image/png" src="../../media/graphics3-b410.png" id="id3381324__onlineimage" height="82" width="85"/></media></figure> TSA = 2 base area + sides area = 2 (π r<sup>2</sup>) + (H × base perimeter)</para>
+      <para id="id10209264">r = 17,5mm</para>
+      <para id="id14382640">Step 1: Determine what the base is and sketch it with its dimensions. </para>
+      <para id="id7394160">Step 2: Calculate the base area.</para>
+      <para id="id14541422">Base area = π r<sup>2</sup> = 3,14159 × (17,5)<sup>2</sup> ≈ 962,1mm<sup>2</sup></para>
+      <para id="id10118807">Step 3: Calculate the base perimeter.</para>
+      <para id="id9167869">Base perimeter = 2 π r = 109,956mm</para>
+      <para id="id7881708">Step 4: Write down the height of the prism.</para>
+      <para id="id9239925">H = 60,5mm</para>
+      <para id="id10302472">Step 5: Calculate the TSA and V.</para>
+      <para id="id10297799">V = 962,1 × 60,5 ≈ 58 207,8 mm<sup>3</sup> ≈ 58 cm<sup>3</sup></para>
+      <para id="id10252910">TSA = (2 × 962,1) + (60.5 × 109,956) ≈ 8 576,55 mm<sup>2</sup> ≈ 85,8 cm<sup>2</sup></para>
+      <list id="id10233208" list-type="enumerated" number-style="arabic">
+        <item><emphasis effect="underline">Triangular prism</emphasis>:</item>
+      </list>
+      <para id="id10116660">TSA = 2 base area + sides area = 2 (½ × b × h) + (H × base perimeter)</para>
+      <figure id="id9239782">
+        <media id="id9239782_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-11d4.png" id="id9239782__onlineimage" height="49" width="82"/>
+        </media>
+      </figure>
+      <para id="id4937883">b = 43,5mm; h = 31,5mm  </para>
+      <para id="id7817328">hypotenuse = 53,7mm (Pyth.)</para>
+      <para id="id5431118">Step 1: Determine what the base is and sketch it with its dimensions. </para>
+      <para id="id5441462">Step 2: Calculate the base area.</para>
+      <para id="id10164624">Base area = ½ b × h = 685,125 ≈ 685,1mm<sup>2</sup></para>
+      <para id="id14541892">Step 3: Calculate the base perimeter. </para>
+      <para id="id10208572">Base perimeter = b + h + hypotenuse ≈ 128,7mm</para>
+      <para id="id3381815">Step 4: Write down the height of the prism.</para>
+      <para id="id4121046">H = 60,5mm</para>
+      <para id="id9298979">Step 5: Calculate the TSA and V.</para>
+      <para id="id4451264">V = 685,1 × 60,5 ≈ 41 450,1 mm<sup>3</sup> ≈ 41 cm<sup>3</sup></para>
+      <para id="id8631329">TSA = (2 × 685,1) + (60.5 × 128,7) ≈ 9 157,06 mm<sup>2</sup> ≈ 91,6 cm<sup>2</sup></para>
+      <para id="id5719657">Exercise:</para>
+      <para id="id3770918">Calculate the total surface area and the volume of each of the following three prisms.</para>
+      <figure id="id9169539">
+        <media id="id9169539_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-e63f.png" id="id9169539__onlineimage" height="233" width="633"/>
+        </media>
+      </figure>
+      <para id="id8691726">Assignment to be done in pairs:</para>
+      <list id="id14578671" list-type="bulleted">
+        <item>Help Granny solve her problem. She has cooked a pot of peach jam. The jam is 2 cm from the top rim of her cooking pot which has a diameter of 24 cm and is 21 cm high. </item>
+        <item>She has some pretty jam jars which she wants to fill to about ½ cm from the top. </item>
+        <item>She has two types of jam jar. The brown kind has a square base (8 cm × 8 cm) and is 12 cm high, and the yellow kind has a base of 6,5 cm × 11,5 cm and is 11 cm high. There are eleven of each kind. </item>
+        <item>Her problem is that she wants to use only one type of jar for the peach jam. This means that she does not want to start filling one kind of jar and then find that she has jam left over when she has used up all eleven jars. </item>
+        <item>Your job is to find out for her whether she has enough jars of one type to fit her jam into, and to tell her which kind to use.</item>
+      </list>
+      <para id="id4796177">Activity 2</para>
+      <para id="id14581417">To become acquired with various two- and three-dimensional figures</para>
+      <para id="id5672844">[LO 3.1, 3.5] </para>
+      <para id="id13669869">A. <emphasis effect="bold">Two-dimension</emphasis><emphasis effect="bold">a</emphasis><emphasis effect="bold">l figures</emphasis></para>
+      <para id="id14598873">These are figures that can be drawn on flat paper. Therefore they are called <emphasis effect="italics">pl</emphasis>a<emphasis effect="italics">ne</emphasis> figures. Of course there are limitlessly many such figures. </para>
+      <para id="id9233102"><emphasis effect="italics">Polygons</emphasis> are <emphasis effect="italics">closed</emphasis> figures with three or more straight sides. If all the sides are the same length, and all the internal angles are equal, we call them <emphasis effect="italics">regul</emphasis>a<emphasis effect="italics">r</emphasis> polygons. Triangles are three-sided polygons, and an <emphasis effect="italics">equil</emphasis>a<emphasis effect="italics">ter</emphasis>a<emphasis effect="italics">l</emphasis> triangle is a <emphasis effect="italics">regul</emphasis>a<emphasis effect="italics">r</emphasis> three-sided polygon. A square is a regular four-sided polygon. <emphasis effect="italics">Pent</emphasis>agons have five sides, hexagons have six sides and heptagons have seven. Make a list of as many of these special names as you can find.</para>
+      <para id="id9756443">Here are several closed plane figures. Decorate them and write the name of each polygon on the shape.</para>
+      <para id="id10234836">
+        <figure id="id7464235">
+          <media id="id7464235_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 3-8225.png" id="id7464235__onlineimage" height="356" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id7580993">B. <emphasis effect="bold">Investig</emphasis><emphasis effect="bold">a</emphasis><emphasis effect="bold">tion</emphasis></para>
+      <para id="id8945093">Choose four polygons from the group above, all regular, but with four different numbers of sides. Now measure the sizes of the internal angles of each. Try to find out whether it is possible to make a formula to tell you how large the angles are, and what they add up to.</para>
+      <para id="id5625490">The following table will be helpful. As you can see, there are infinitely many polygons.</para>
+      <table id="id4710644" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>No. of sides</entry>
+              <entry>a = internal angle size</entry>
+              <entry>b = 360 – a</entry>
+              <entry>c = b – 180</entry>
+              <entry>Total of a</entry>
+              <entry>Total of c</entry>
+            </row>
+            <row>
+              <entry>Three</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>3×<emphasis effect="italics">a</emphasis> =</entry>
+              <entry>3×<emphasis effect="italics">c</emphasis> =</entry>
+            </row>
+            <row>
+              <entry>Four</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>4×<emphasis effect="italics">a</emphasis> =</entry>
+              <entry>4×<emphasis effect="italics">c</emphasis> =</entry>
+            </row>
+            <row>
+              <entry>Five</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>5×<emphasis effect="italics">a </emphasis>=</entry>
+              <entry>5×<emphasis effect="italics">c </emphasis>=</entry>
+            </row>
+            <row>
+              <entry>Six</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>6×<emphasis effect="italics">a</emphasis> =</entry>
+              <entry>6×<emphasis effect="italics">c</emphasis> =</entry>
+            </row>
+            <row>
+              <entry>Seven</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>7×<emphasis effect="italics">a</emphasis> =</entry>
+              <entry>7×<emphasis effect="italics">c</emphasis> =</entry>
+            </row>
+            <row>
+              <entry>Twelve</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>12×<emphasis effect="italics">a</emphasis> =</entry>
+              <entry>12×<emphasis effect="italics">c</emphasis> =</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id5865283" list-type="bulleted">
+        <item>The characteristics in the table above are needed when you have to decide how to tile a floor (say) with regular polygons so that they don’t overlap and don’t leave gaps. Some of these polygons will work alone, and some can or must be combined. </item>
+        <item>Design and draw a repeating tiling pattern of your own, using only regular polygons and colour it so that the pattern shows clearly.</item>
+      </list>
+      <para id="id10296135">C. <emphasis effect="bold">Three-dimension</emphasis>a<emphasis effect="bold">l closed figures</emphasis></para>
+      <list id="id14603393" list-type="bulleted">
+        <item>If these shapes have sides made up of polygons, then we call them <emphasis effect="italics">polyhedr</emphasis>a. A <emphasis effect="italics">regul</emphasis>a<emphasis effect="italics">r</emphasis> polyhedron has faces that are congruent regular polygons, with internal angles the same shape and size.</item>
+        <item>In contrast to the polygons, there are only five regular polyhedra. They have been known since the time of Plato and the Greek mathematicians; this is why they are known as the five Platonic Solids.</item>
+      </list>
+      <para id="id3134938">D. <emphasis effect="bold">Project</emphasis></para>
+      <para id="id9017030">Research the five Platonic Solids, finding their names and properties, and other interesting deductions and facts about them. Make an attractive poster or models of these solids showing the facts associated with each. Below are pictures of the five solids.</para>
+      <figure id="id13994645">
+        <media id="id13994645_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-f1e8.png" id="id13994645__onlineimage" height="256" width="535"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id14600012">
+      <title>Assessment</title>
+      <table id="id8583541" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 3</entry>
+            </row>
+            <row>
+              <entry>Space and Shape (Geometry)The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this when the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>3.1 recognises, visualises and names geometric figures and solids in natural and cultural forms and geometric settings, including:3.1.1 regular and irregular polygons and polyhedra;3.1.2 spheres;3.1.3 cylinders;3.2 in contexts that include those that may be used to build awareness of social, cultural and environmental issues, describes the interrelationships of the properties of geometric figures and solids with justification, including:3.2.1 congruence and straight line geometry;3.3 uses geometry of straight lines and triangles to solve problems and to justify relationships in geometric figures;3.4 draws and/or constructs geometric figures and makes models of solids in order to investigate and compare their properties and model situations in the environment;</entry>
+            </row>
+            <row>
+              <entry>3.5 uses transformations, congruence and similarity to investigate, describe and justify (alone and/or as a member of a group or team) properties of geometric figures and solids, including tests for similarity and congruence of triangles.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id14581194">
+      <title>Memorandum</title>
+      <para id="id9199522">Discussion</para>
+      <list id="id14523282" list-type="bulleted">
+        <item>This guide includes two pages of figures for constructing simple right prisms. Photocopy enough for the learners to make at least two of the figures. It would be best if the copies could be made on very light card (or heavy paper). If they are asked to colour some of the parts (e.g. the base and top) it might make it easier to explain some of the more difficult formulae.</item>
+      </list>
+      <list id="id10335704" list-type="bulleted">
+        <item>The two formulae for right prisms are, in general:</item>
+        <item>Total Surface Area = double the base area + height of prism × perimeter of base</item>
+        <item>Volume = base area × height of prism</item>
+        <item>Ensure that learners are clear on the units (squared or cubed) appropriate to each formula.</item>
+        <item>Another difficulty that learners might encounter is that the word <emphasis effect="italics">height</emphasis> is used in calculating the area of triangles as well as being one of the dimensions of right prisms. A useful trick is to use <emphasis effect="bold">h</emphasis> for the triangle case and <emphasis effect="bold">H</emphasis> for the prism case.</item>
+        <item>Breaking down the steps required for the calculations is a useful method for learners who get confused by the components in the formula. Of course, very competent learners will substitute values straight into the formula. This is an effective system, and should be encouraged where appropriate.</item>
+      </list>
+      <para id="id7247378">Solutions – exercise:</para>
+      <para id="id8564434">Rectangular prism: <emphasis effect="italics">TBO</emphasis> = 412 cm<sup>2</sup>  Vol = 480 cm<sup>3</sup></para>
+      <para id="id7628819">Triangular prism: <emphasis effect="italics">TBO</emphasis> = 307,71 cm<sup>2</sup>  Vol = 360 cm<sup>3</sup></para>
+      <para id="id14535173">Cylinder:   <emphasis effect="italics">TBO</emphasis> = 402,12 cm<sup>2</sup>  Vol = 603,19 cm<sup>3</sup></para>
+      <para id="id10445028">Granny’s Jam Pot:      Vol = 8 595,40 cm<sup>2</sup></para>
+      <para id="id10197492">    11 Square–based jars:  Vol = 8 096 cm<sup>2</sup></para>
+      <para id="id14613393">    11 Rectangle–based jars:  Vol =8 633,63 cm<sup>2</sup></para>
+      <para id="id9932481">So, granny must use the rectangular–based jars if she wants to fit all the jam in!</para>
+      <figure id="id9265335">
+        <media id="id9265335_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 18-9567.png" id="id9265335__onlineimage" height="330" width="589"/>
+        </media>
+      </figure>
+      <para id="id9931388">3 = triangle; 4 = tetragon; 5 = pentagon; 6 = hexagon; 7 = heptagon; 8 = octagon; * = not polygon</para>
+      <table id="id14936649" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>No of sides</entry>
+              <entry><emphasis effect="italics">a</emphasis> = internal angle size</entry>
+              <entry><emphasis effect="italics">b</emphasis> = 360° – <emphasis effect="italics">a</emphasis></entry>
+              <entry><emphasis effect="italics">c</emphasis> = <emphasis effect="italics">b</emphasis> – 180°</entry>
+              <entry>Total of <emphasis effect="italics">a</emphasis></entry>
+              <entry>Total of <emphasis effect="italics">c</emphasis></entry>
+            </row>
+            <row>
+              <entry>Three</entry>
+              <entry>60°</entry>
+              <entry>300°</entry>
+              <entry>120°</entry>
+              <entry>3×<emphasis effect="italics">a</emphasis> = 180°</entry>
+              <entry>3×<emphasis effect="italics">c</emphasis> = 360°</entry>
+            </row>
+            <row>
+              <entry>Four</entry>
+              <entry>90°</entry>
+              <entry>270°</entry>
+              <entry>90°</entry>
+              <entry>4×<emphasis effect="italics">a</emphasis> = 360°</entry>
+              <entry>4×<emphasis effect="italics">c</emphasis> = 360°</entry>
+            </row>
+            <row>
+              <entry>Five</entry>
+              <entry>108°</entry>
+              <entry>252°</entry>
+              <entry>72°</entry>
+              <entry>5×<emphasis effect="italics">a</emphasis> = 540°</entry>
+              <entry>5×<emphasis effect="italics">c</emphasis> = 360°</entry>
+            </row>
+            <row>
+              <entry>Six</entry>
+              <entry>120°</entry>
+              <entry>240°</entry>
+              <entry>60°</entry>
+              <entry>6×<emphasis effect="italics">a</emphasis> = 720°</entry>
+              <entry>6×<emphasis effect="italics">c</emphasis> = 360°</entry>
+            </row>
+            <row>
+              <entry>Seven</entry>
+              <entry>308,57°</entry>
+              <entry>51,43°</entry>
+              <entry>–128,57°</entry>
+              <entry>7×<emphasis effect="italics">a</emphasis> = 2160°</entry>
+              <entry>7×<emphasis effect="italics">c</emphasis> = –360°</entry>
+            </row>
+            <row>
+              <entry>Twelve </entry>
+              <entry>330°</entry>
+              <entry>30°</entry>
+              <entry>–150°</entry>
+              <entry>12×<emphasis effect="italics">a</emphasis> = 3960°</entry>
+              <entry>12×<emphasis effect="italics">c</emphasis> = –360°</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id14520538">TEST 1</para>
+      <para id="id14520542">1. Explain how you would recognise a right prism.</para>
+      <para id="id9423362">2. Explain how you could find the base of a right prism.</para>
+      <para id="id10150048">3. Calculate the total surface area and the volume of each of the following three prisms. Give your answers accurate to two decimal places.</para>
+      <figure id="id10088534">
+        <media id="id10088534_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 19-7ca1.png" id="id10088534__onlineimage" height="253" width="688"/>
+        </media>
+      </figure>
+      <para id="id8851138">TEST 1 – Memorandum </para>
+      <para id="id9273340">1. Essential points in the explanation: three-dimensional; top and base congruent plane shapes; side(s) at right angles to base.</para>
+      <para id="id14551506">2. Any reasonable explanation, e.g. if the chosen side is placed at the bottom, the description of a right prism fits what you see.</para>
+      <para id="id10209191">3. Rectangular right prism: <emphasis effect="italics">TBO</emphasis> = 1 939,68 cm<sup>2</sup>   Volume = 5 769,72 cm<sup>3</sup></para>
+      <para id="id3190546"> Triangular right prism: <emphasis effect="italics">TBO</emphasis> = 1 507,74 mm<sup>2</sup>   Volume = 2 312 mm<sup>3</sup></para>
+      <para id="id5031347"> Cylinder:   <emphasis effect="italics">TBO</emphasis> = 8 022,37 m<sup>2</sup>   Volume = 41 593,67 m<sup>3</sup></para>
+      <para id="id6003568"/>
+    </section>
+  </content>
+</document>

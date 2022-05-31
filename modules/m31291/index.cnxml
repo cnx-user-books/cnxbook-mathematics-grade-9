@@ -1,0 +1,197 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Compare quadrilaterals for similarities and differences</title>
+  <metadata>
+  <md:content-id>m31291</md:content-id><md:title>Compare quadrilaterals for similarities and differences</md:title>
+  <md:abstract/>
+  <md:uuid>1a6e734f-694e-4779-94fa-d5a790ee3d98</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1172769040038">
+      <title>MATHEMATICS</title>
+      <para id="para-id1172769040038">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172762651019">
+      <title>Grade 9</title>
+      <para id="para-id1172762651019">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172766745600">
+      <title>QUADRILATERALS, PERSPECTIVE DRAWING,TRANSFORMATIONS</title>
+      <para id="para-id1172766745600">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172767848450">
+      <title>Module 22</title>
+      <para id="para-id1172767848450">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172760448832">
+      <title>COMPARE QUADRILATERALS FOR SIMILARITIES AND DIFFERENCES</title>
+      <para id="id1172759317077">ACTIVITY 1</para>
+      <para id="id1172759210690">To compare quadrilaterals for similarities and differences</para>
+      <para id="id1172767209214">[LO 3.4] </para>
+      <para id="id1172759578612">1. <emphasis effect="bold">Comparisons</emphasis></para>
+      <para id="id1172758795487">For the next exercise you can form small groups. You are given pairs of quadrilaterals, which you have to compare. Write down in which ways they are alike and in which ways they are different. If you can say exactly by what process you can change the one into the other, then that will show that you have really understood them. For example, look at the question on parallel sides at the end of section 3 above.</para>
+      <para id="id1172762980390">Each group should work with at least one pair of shapes. When you work with a kite, you should consider both versions of the kite.</para>
+      <list id="id1172760520429" list-type="bulleted">
+        <item>Rhombus and square</item>
+        <item>Trapezium and parallelogram</item>
+        <item>Square and rectangle</item>
+        <item>Kite and rhombus</item>
+        <item>Parallelogram and kite</item>
+        <item>Rectangle and trapezium</item>
+      </list>
+      <para id="id1172769038335">If, in addition, you would like to compare a different pair of quadrilaterals, please do so!</para>
+      <para id="id1172759153852">1. Definitions</para>
+      <para id="id1172769201493">A very short, but accurate, description of a quadrilateral using the following characteristics, is a <emphasis effect="italics">definition</emphasis>. This definition is unambiguous, meaning that it applies to one shape and one shape only, and we can use it to distinguish between the different types of quadrilateral. </para>
+      <para id="id1172762793385">The definitions are given in a certain order because the later definitions refer to the previous definitions, to make them shorter and easier to understand. There is more than one set of definitions, and this is one of them.</para>
+      <list id="id1172759266634" list-type="bulleted">
+        <item>A <emphasis effect="bold">quadrilateral</emphasis> is a plane (flat) figure bounded by four straight lines called sides.</item>
+        <item>A <emphasis effect="bold">kite</emphasis> is a <emphasis effect="italics">quadrilateral</emphasis> with two pairs of equal adjacent sides.</item>
+        <item>A <emphasis effect="bold">trapezium</emphasis> is a <emphasis effect="italics">quadrilateral</emphasis> with one pair of parallel opposite sides.</item>
+        <item>A <emphasis effect="bold">parallelogram</emphasis> is a <emphasis effect="italics">quadrilateral</emphasis> with two pairs of parallel opposite sides.</item>
+        <item>A <emphasis effect="bold">rhombus</emphasis> is a <emphasis effect="italics">parallelogram</emphasis> with equal adjacent sides.</item>
+        <item>A <emphasis effect="bold">square</emphasis> is a <emphasis effect="italics">rhombus</emphasis> with four equal internal angles.</item>
+        <item>A <emphasis effect="bold">rectangle</emphasis> is a <emphasis effect="italics">parallelogram</emphasis> with four equal internal angles.</item>
+      </list>
+      <para id="id1172765575659">ACTIVITY 2</para>
+      <para id="id1172768957304">To develop formulas for the area of quadrilaterals intuitively</para>
+      <para id="id1172761122787">[LO 3.4] </para>
+      <para id="id1172763060671"><emphasis effect="bold">Calculating areas of plane shapes</emphasis>.</para>
+      <list id="id1172757952540" list-type="bulleted">
+        <item>Firstly, we will work with the areas of triangles. Most of you know the words “half base times height”. This is the formula for the area of a triangle, where we use <emphasis effect="bold">A</emphasis> for the <emphasis effect="italics">area</emphasis>, <emphasis effect="bold">h</emphasis> for the <emphasis effect="italics">height</emphasis> and <emphasis effect="bold">b</emphasis> for the <emphasis effect="italics">base</emphasis>.</item>
+        <item><emphasis effect="italics">Area</emphasis> = ½ × base × height; <emphasis effect="italics">A</emphasis> = ½ <emphasis effect="italics">bh</emphasis>; <emphasis effect="italics">A</emphasis> = are various forms of the formula.</item>
+        <item>But what is the <emphasis effect="italics">base</emphasis>? And what is the <emphasis effect="italics">height</emphasis>? The important point is that the height and the base make up a pair: the base is not any old side, and the height is not any old line.</item>
+      </list>
+      <para id="id1172760109509">
+        <figure id="id1172759211829">
+          <media id="id1172759211829_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-f842.png" id="id1172759211829__onlineimage" height="132" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id1172760777994" list-type="bulleted">
+        <item>The height is a line that is perpendicular to the side that you choose as the base. Refer to the sketches above. The base and its corresponding height are drawn as darker lines. Below are three more examples showing the base/height pairs.</item>
+      </list>
+      <figure id="id1172762793549">
+        <media id="id1172762793549_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-186c.png" id="id1172762793549__onlineimage" height="109" width="633"/>
+        </media>
+      </figure>
+      <list id="id1172767580585" list-type="bulleted">
+        <item>Take two other colours, and in each of the above six triangles draw in the two other matching pairs of base/height, each pair in its own colour. Then do the following exercise:</item>
+      </list>
+      <para id="id1172766979006">Pick one of the triangles above, and calculate its area three times. Measure the lengths with your ruler, each time using another base/height pair. Do you find that answers agree closely? If they don’t, measure more carefully and try again.</para>
+      <para id="id1172766911197">The height is often a line drawn <emphasis effect="italics">inside</emphasis> the triangle. This is the case in four of the six triangles above. But if the triangle is right-angled, the height can be one of the <emphasis effect="italics">sides</emphasis>. This can be seen in the fourth triangle. In the sixth triangle you can see that the height line needs to be drawn <emphasis effect="italics">outside</emphasis> the triangle.</para>
+      <para id="id1172758934942">Summary: </para>
+      <para id="id1172756838466">In summary, if you want to use the area formula you need to have a base and a height that make a pair, and you must have (or be able to calculate) their lengths. In some of the following problems, you will have to calculate the area of a triangle on the way to an answer. </para>
+      <para id="id1172758753718">Here is a reminder of the Theorem of Pythagoras; it applies only to right-angled triangles, but you will encounter many of those from now on.</para>
+      <para id="id1172759537067">I</para>
+      <para id="id1172759894938">In a right-angled triangle, the square on the hypotenuse is equal to the sum of the squares on the other two sides.</para>
+      <para id="id1172760981542">If you are a bit vague about applying the theorem, go back to the work you did on it before and refresh your memory.</para>
+      <list id="id1172759185943" list-type="bulleted">
+        <item>Using the formula, calculate the area of Δ<emphasis effect="italics">ABC</emphasis> where <emphasis effect="italics">A</emphasis> = 90°, <emphasis effect="italics">BC</emphasis> = 10 cm and <emphasis effect="italics">AC</emphasis> = 8 cm. A reasonably accurate sketch will be helpful. This is a two-step problem: first use Pythagoras and then the area formula.</item>
+        <item>When calculating the area of quadrilaterals, the same principle applies as with triangles: when we refer to <emphasis effect="italics">height</emphasis> it is always with reference to a specific <emphasis effect="italics">base</emphasis>.</item>
+        <item>We can use the formula for a triangle’s area to develop some formulae for our six quadrilaterals.<figure id="id1172769236602"><media id="id1172769236602_media" alt=""><image mime-type="image/png" src="../../media/graphics1-d550.png" id="id1172769236602__onlineimage" height="148" width="164"/></media></figure></item>
+        <item>A square consists of two identical triangles, as in the sketch. Let us call the length of the square’s side <emphasis effect="italics">s</emphasis>. Then the area (<emphasis effect="italics">A</emphasis>) of the square is:</item>
+      </list>
+      <para id="id1172759118858"><emphasis effect="italics">A</emphasis> = 2 × area of 1 triangle = 2 (½ × base × height) = 2 × ½ × <emphasis effect="italics">s</emphasis> × <emphasis effect="italics">s</emphasis> = <emphasis effect="italics">s</emphasis><sup>2 </sup>= side squared.</para>
+      <para id="id1172767558959">You probably knew this already!</para>
+      <figure id="id1172759225993">
+        <media id="id1172759225993_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-5d80.png" id="id1172759225993__onlineimage" height="119" width="263"/>
+        </media>
+      </figure>
+      <list id="id1172767696888" list-type="bulleted">
+        <item>It works the same for the rectangle: The rectangle is <emphasis effect="italics">b</emphasis> broad and <emphasis effect="italics">l</emphasis> long, and its area (<emphasis effect="italics">A</emphasis>) is:</item>
+      </list>
+      <para id="id1172767231787"><emphasis effect="italics">A</emphasis> = first triangle + second triangle</para>
+      <para id="id1172767610498"> = (½ × base × height) + (½ × base × height)</para>
+      <para id="id1172759143428"> = (½ × <emphasis effect="italics">b</emphasis> × 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ℓ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ℓ} {}</m:annotation></m:semantics></m:math>) + (½ × 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ℓ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ℓ} {}</m:annotation></m:semantics></m:math> × b) = ½ <emphasis effect="italics">b</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ℓ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ℓ} {}</m:annotation></m:semantics></m:math> + ½ <emphasis effect="italics">b</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ℓ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ℓ} {}</m:annotation></m:semantics></m:math> = <emphasis effect="italics">b</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ℓ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ℓ} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1172767210850"> = breadth times length.</para>
+      <para id="id1172760586626">You probably knew this already!</para>
+      <figure id="id1172767134872">
+        <media id="id1172767134872_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-3ee4.png" id="id1172767134872__onlineimage" height="103" width="341"/>
+        </media>
+      </figure>
+      <list id="id1172764836916" list-type="bulleted">
+        <item>The parallelogram is a little harder, but the sketch should help you understand it. If we divide it into two triangles, then we could give them the same size base (the long side of the parallelogram in each case). If we call this line the <emphasis effect="italics">base</emphasis> of the parallelogram, we can use the letter <emphasis effect="italics">b</emphasis>. You will see that the <emphasis effect="italics">heights</emphasis> (<emphasis effect="italics">h</emphasis>) of the two triangles are also drawn (remember a height must be <emphasis effect="italics">perpendicular</emphasis> to a base). </item>
+        <item>Can you convince yourself (maybe by measuring) that the two heights are identical? And what about the two bases? The area is: <emphasis effect="italics">A</emphasis> = triangle + triangle = ½ <emphasis effect="italics">bh</emphasis> + ½ <emphasis effect="italics">bh</emphasis> = <emphasis effect="italics">bh</emphasis> = base times height. </item>
+        <item>A challenge for you: Do the same for the rhombus. (Answer: <emphasis effect="italics">A</emphasis> = <emphasis effect="italics">bh</emphasis>, like the parallelogram).<figure id="id1172767351360"><media id="id1172767351360_media" alt=""><image mime-type="image/png" src="../../media/graphics4-ad47.png" id="id1172767351360__onlineimage" height="97" width="316"/></media></figure>Let’s see what we can do to find a formula for the trapezium. It is different from the parallelogram, as its two parallel sides are NOT the same length. </item>
+        <item>Let us call them <emphasis effect="italics">P</emphasis><emphasis effect="italics">s</emphasis><emphasis effect="bold">1</emphasis> and <emphasis effect="italics">P</emphasis><emphasis effect="italics">s</emphasis><emphasis effect="bold">2</emphasis>. Again, the two heights are identical.</item>
+        <item>Then from the two triangles in the sketch we can write down the area:</item>
+      </list>
+      <para id="id1172759949652"><emphasis effect="italics">A</emphasis> = triangle<sub>1</sub> + triangle<sub>2</sub> = ½ × <emphasis effect="italics">P</emphasis><emphasis effect="italics">s</emphasis><sub>1</sub> × <emphasis effect="italics">h</emphasis> + ½ × <emphasis effect="italics">P</emphasis><emphasis effect="italics">s</emphasis><sub>2</sub> × <emphasis effect="italics">h</emphasis></para>
+      <para id="id1172765615242"> = ½ <emphasis effect="italics">h</emphasis> (<emphasis effect="italics">P</emphasis><emphasis effect="italics">s</emphasis><sub>1</sub> + <emphasis effect="italics">P</emphasis><emphasis effect="italics">s</emphasis><sub>2</sub>) = half height times sum of parallel sides.</para>
+      <para id="id1172767622164"> (Did you notice the factorising?)</para>
+      <figure id="id1172763581004">
+        <media id="id1172763581004_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-59b4.png" id="id1172763581004__onlineimage" height="123" width="296"/>
+        </media>
+      </figure>
+      <list id="id1172769208835" list-type="bulleted">
+        <item>Finally, we come to the kite, which has one long diagonal (which is the symmetry line) and one short diagonal, which we can call <emphasis effect="italics">sl</emphasis> (symmetry line) and <emphasis effect="italics">sd</emphasis> (short diagonal). </item>
+        <item>The kite can be divided into two identical triangles along the symmetry line. Because a kite has perpendicular diagonals, we know that we can apply the formula for the area of a triangle easily. </item>
+        <item>This means that the <emphasis effect="italics">height</emphasis> of the triangles is exactly half of the short diagonal. <emphasis effect="italics">h</emphasis> = ½ × <emphasis effect="italics">sd</emphasis>. Look out in the algebra below where we change <emphasis effect="italics">h</emphasis> to ½ <emphasis effect="italics">sd</emphasis>! Both sorts of kite work the same way, and give the same formula.</item>
+        <item>Refer to the sketches.<figure id="id1172769076585"><media id="id1172769076585_media" alt=""><image mime-type="image/png" src="../../media/graphics6-11ca.png" id="id1172769076585__onlineimage" height="142" width="331"/></media></figure></item>
+      </list>
+      <para id="id1172756830911"><emphasis effect="italics">Area</emphasis> = 2 identical triangles</para>
+      <para id="id1172767425919"> = 2( ½ × <emphasis effect="italics">sl</emphasis> × <emphasis effect="italics">h</emphasis>) = 2 × ½ × <emphasis effect="italics">sl</emphasis> × ½ × <emphasis effect="italics">sd</emphasis></para>
+      <para id="id1172769314556"> = <emphasis effect="italics">sl</emphasis> × ½ × <emphasis effect="italics">sd</emphasis> = ½ × <emphasis effect="italics">sl</emphasis> × <emphasis effect="italics">sd</emphasis></para>
+      <para id="id1172766973377"> = half long diagonal times short diagonal.</para>
+      <para id="id1172765578648">In the following exercise the questions start easy but become harder – you have to remember Pythagoras’ theorem when you work with right angles.</para>
+      <para id="id1172758758352">Calculate the areas of the following quadrilaterals:</para>
+      <para id="id1172758734485">1 A square with side length 13 cm</para>
+      <para id="id1172760447656">2 A square with a diagonal of 13 cm (first use Pythagoras)</para>
+      <para id="id1172760949486">3 A rectangle with length 5 cm and width 6,5 cm</para>
+      <para id="id1172765878581">4 A rectangle with length 12 cm and diagonal 13 cm (Pythagoras)</para>
+      <para id="id1172756826316">5 A parallelogram with height 4 cm and base length 9 cm</para>
+      <para id="id1172769022274">6 A parallelogram with height 2,3 cm and base length 7,2 cm</para>
+      <para id="id1172767559362">7 A rhombus with sides 5 cm and height 3,5 cm</para>
+      <para id="id1172769037457">8 A rhombus with diagonals 11 cm and 12 cm</para>
+      <para id="id1172760502235"> (What fact do you know about the diagonals of a rhombus?)</para>
+      <para id="id1172765428672">9 A trapezium with the two parallel sides 18 cm and 23 cm that are 7,5 cm apart</para>
+      <para id="id1172767943821">10 A kite with diagonals 25 cm and 17 cm</para>
+    </section>
+    <section id="id1172761045232">
+      <title>Assessment</title>
+      <table id="id1172759203516" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 3 </entry>
+            </row>
+            <row>
+              <entry>Space and Shape (Geometry)The learner will be able to describe and represent cha­racteristics and relationships between two-dimensional shapes and three–dimensional objects in a variety of orientations and positions.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>3.2 in contexts that include those that may be used to build awareness of social, cultural and environmental issues, describes the interrelationships of the properties of geometric figures and solids with justification, including:</entry>
+            </row>
+            <row>
+              <entry>3.2.2  transformations.</entry>
+            </row>
+            <row>
+              <entry>3.3 uses geometry of straight lines and triangles to solve problems and to justify relationships in geometric figures;</entry>
+            </row>
+            <row>
+              <entry>3.4 draws and/or constructs geometric figures and makes models of solids in order to investigate and compare their properties and model situations in the environment.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>
